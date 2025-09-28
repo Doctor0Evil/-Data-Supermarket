@@ -7898,7 +7898,1270 @@ navigation
 Navigation {currentEntry: null, transition: null, activation: null, canGoBack: false, canGoForward: false, …}
 navigator
 : 
-Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, scheduling: Scheduling, …}
+Navigator
+appCodeName
+: 
+"Mozilla"
+appName
+: 
+"Netscape"
+appVersion
+: 
+"5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+bluetooth
+: 
+Bluetooth {onadvertisementreceived: null}
+clipboard
+: 
+Clipboard {onclipboardchange: null}
+connection
+: 
+NetworkInformation {onchange: null, effectiveType: '4g', rtt: 50, downlink: 4.65, saveData: false, …}
+cookieEnabled
+: 
+true
+credentials
+: 
+CredentialsContainer {}
+deprecatedRunAdAuctionEnforcesKAnonymity
+: 
+false
+deviceMemory
+: 
+8
+devicePosture
+: 
+DevicePosture {type: 'continuous', onchange: null}
+doNotTrack
+: 
+null
+geolocation
+: 
+Geolocation {}
+gpu
+: 
+GPU {wgslLanguageFeatures: WGSLLanguageFeatures}
+hardwareConcurrency
+: 
+8
+hid
+: 
+HID {onconnect: null, ondisconnect: null}
+imageCreator
+: 
+ImageCreator {}
+ink
+: 
+Ink {}
+keyboard
+: 
+Keyboard {}
+language
+: 
+"en-US"
+languages
+: 
+(2) ['en-US', 'en']
+locks
+: 
+LockManager {}
+login
+: 
+NavigatorLogin {}
+managed
+: 
+NavigatorManagedData {onmanagedconfigurationchange: null}
+maxTouchPoints
+: 
+0
+mediaCapabilities
+: 
+MediaCapabilities {}
+mediaDevices
+: 
+MediaDevices {ondevicechange: null}
+mediaSession
+: 
+MediaSession {metadata: null, playbackState: 'none'}
+mimeTypes
+: 
+MimeTypeArray {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, length: 2}
+onLine
+: 
+true
+pdfViewerEnabled
+: 
+true
+permissions
+: 
+Permissions {}
+platform
+: 
+"Win32"
+plugins
+: 
+PluginArray
+0
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+1
+: 
+Plugin
+0
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+suffixes
+: 
+"pdf"
+type
+: 
+"application/pdf"
+[[Prototype]]
+: 
+MimeType
+1
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+suffixes
+: 
+"pdf"
+type
+: 
+"application/pdf"
+[[Prototype]]
+: 
+MimeType
+text/pdf
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+suffixes
+: 
+"pdf"
+type
+: 
+"text/pdf"
+[[Prototype]]
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+suffixes
+: 
+"pdf"
+type
+: 
+"text/pdf"
+[[Prototype]]
+: 
+MimeType
+application/pdf
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Chrome PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+suffixes
+: 
+"pdf"
+type
+: 
+"application/pdf"
+[[Prototype]]
+: 
+MimeType
+text/pdf
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Chrome PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+suffixes
+: 
+"pdf"
+type
+: 
+"text/pdf"
+[[Prototype]]
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+suffixes
+: 
+"pdf"
+type
+: 
+"application/pdf"
+[[Prototype]]
+: 
+MimeType
+text/pdf
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+suffixes
+: 
+"pdf"
+type
+: 
+"text/pdf"
+[[Prototype]]
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+2
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chromium PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+3
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Microsoft Edge PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+suffixes
+: 
+"pdf"
+type
+: 
+"text/pdf"
+[[Prototype]]
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Microsoft Edge PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+4
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"WebKit built-in PDF"
+[[Prototype]]
+: 
+Plugin
+Chrome PDF Viewer
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+Chromium PDF Viewer
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chromium PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+Microsoft Edge PDF Viewer
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Microsoft Edge PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+PDF Viewer
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+WebKit built-in PDF
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"WebKit built-in PDF"
+[[Prototype]]
+: 
+Plugin
+length
+: 
+5
+[[Prototype]]
+: 
+PluginArray
+preferences
+: 
+PreferenceManager {colorScheme: PreferenceObject, contrast: PreferenceObject, reducedMotion: PreferenceObject, reducedTransparency: PreferenceObject, reducedData: PreferenceObject}
+presentation
+: 
+Presentation {defaultRequest: null, receiver: null}
+product
+: 
+"Gecko"
+productSub
+: 
+"20030107"
+protectedAudience
+: 
+ProtectedAudience {}
+scheduling
+: 
+Scheduling {}
+serial
+: 
+Serial {onconnect: null, ondisconnect: null}
+serviceWorker
+: 
+ServiceWorkerContainer {controller: null, ready: Promise, oncontrollerchange: null, onmessage: null, onmessageerror: null}
+splitTabSupported
+: 
+false
+storage
+: 
+StorageManager {}
+storageBuckets
+: 
+StorageBucketManager {}
+usb
+: 
+USB {onconnect: null, ondisconnect: null}
+userActivation
+: 
+UserActivation {hasBeenActive: true, isActive: false}
+userAgent
+: 
+"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+userAgentData
+: 
+NavigatorUAData
+brands
+: 
+Array(3)
+0
+: 
+brand
+: 
+"Chromium"
+version
+: 
+"140"
+[[Prototype]]
+: 
+Object
+1
+: 
+brand
+: 
+"Not=A?Brand"
+version
+: 
+"24"
+[[Prototype]]
+: 
+Object
+2
+: 
+brand
+: 
+"Microsoft Edge"
+version
+: 
+"140"
+[[Prototype]]
+: 
+Object
+length
+: 
+3
+[[Prototype]]
+: 
+Array(0)
+mobile
+: 
+false
+platform
+: 
+"Windows"
+[[Prototype]]
+: 
+NavigatorUAData
+vendor
+: 
+"Google Inc."
+vendorSub
+: 
+""
+virtualKeyboard
+: 
+VirtualKeyboard
+boundingRect
+: 
+DOMRect
+bottom
+: 
+0
+height
+: 
+0
+left
+: 
+0
+right
+: 
+0
+top
+: 
+0
+width
+: 
+0
+x
+: 
+0
+y
+: 
+0
+[[Prototype]]
+: 
+DOMRect
+ongeometrychange
+: 
+null
+overlaysContent
+: 
+false
+[[Prototype]]
+: 
+VirtualKeyboard
+wakeLock
+: 
+WakeLock {}
+webdriver
+: 
+false
+webkitPersistentStorage
+: 
+DeprecatedStorageQuota
+[[Prototype]]
+: 
+DeprecatedStorageQuota
+queryUsageAndQuota
+: 
+ƒ queryUsageAndQuota()
+length
+: 
+1
+name
+: 
+"queryUsageAndQuota"
+arguments
+: 
+[Exception: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them at get arguments (<anonymous>) at queryUsageAndQuota.invokeGetter (<anonymous>:3:28)]
+caller
+: 
+[Exception: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them at get caller (<anonymous>) at queryUsageAndQuota.invokeGetter (<anonymous>:3:28)]
+[[Prototype]]
+: 
+ƒ ()
+[[Scopes]]
+: 
+Scopes[0]
+requestQuota
+: 
+ƒ requestQuota()
+length
+: 
+1
+name
+: 
+"requestQuota"
+arguments
+: 
+[Exception: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them at get arguments (<anonymous>) at requestQuota.invokeGetter (<anonymous>:3:28)]
+caller
+: 
+[Exception: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them at get caller (<anonymous>) at requestQuota.invokeGetter (<anonymous>:3:28)]
+[[Prototype]]
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+(...)
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+<unknown>
+[[Prototype]]
+: 
+Object
+constructor
+: 
+ƒ Object()
+hasOwnProperty
+: 
+ƒ hasOwnProperty()
+isPrototypeOf
+: 
+ƒ isPrototypeOf()
+propertyIsEnumerable
+: 
+ƒ propertyIsEnumerable()
+toLocaleString
+: 
+ƒ toLocaleString()
+toString
+: 
+ƒ toString()
+valueOf
+: 
+ƒ valueOf()
+__defineGetter__
+: 
+ƒ __defineGetter__()
+__defineSetter__
+: 
+ƒ __defineSetter__()
+__lookupGetter__
+: 
+ƒ __lookupGetter__()
+__lookupSetter__
+: 
+ƒ __lookupSetter__()
+__proto__
+: 
+ƒ ()
+apply
+: 
+ƒ apply()
+arguments
+: 
+(...)
+bind
+: 
+ƒ bind()
+call
+: 
+ƒ call()
+caller
+: 
+[Exception: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them at get caller (<anonymous>) at Function.invokeGetter (<anonymous>:3:28)]
+constructor
+: 
+ƒ Function()
+length
+: 
+0
+name
+: 
+""
+toString
+: 
+ƒ toString()
+Symbol(Symbol.hasInstance)
+: 
+ƒ [Symbol.hasInstance]()
+get arguments
+: 
+ƒ arguments()
+set arguments
+: 
+ƒ arguments()
+get caller
+: 
+ƒ caller()
+set caller
+: 
+ƒ caller()
+[[FunctionLocation]]
+: 
+<unknown>
+[[Prototype]]
+: 
+Object
+constructor
+: 
+ƒ Object()
+hasOwnProperty
+: 
+ƒ hasOwnProperty()
+isPrototypeOf
+: 
+ƒ isPrototypeOf()
+propertyIsEnumerable
+: 
+ƒ propertyIsEnumerable()
+toLocaleString
+: 
+ƒ toLocaleString()
+toString
+: 
+ƒ toString()
+valueOf
+: 
+ƒ valueOf()
+__defineGetter__
+: 
+ƒ __defineGetter__()
+__defineSetter__
+: 
+ƒ __defineSetter__()
+__lookupGetter__
+: 
+ƒ __lookupGetter__()
+__lookupSetter__
+: 
+ƒ __lookupSetter__()
+__proto__
+: 
+Object
+constructor
+: 
+ƒ Object()
+hasOwnProperty
+: 
+ƒ hasOwnProperty()
+isPrototypeOf
+: 
+ƒ isPrototypeOf()
+propertyIsEnumerable
+: 
+ƒ propertyIsEnumerable()
+toLocaleString
+: 
+ƒ toLocaleString()
+toString
+: 
+ƒ toString()
+valueOf
+: 
+ƒ valueOf()
+__defineGetter__
+: 
+ƒ __defineGetter__()
+__defineSetter__
+: 
+ƒ __defineSetter__()
+__lookupGetter__
+: 
+ƒ __lookupGetter__()
+__lookupSetter__
+: 
+ƒ __lookupSetter__()
+__proto__
+: 
+null
+get __proto__
+: 
+ƒ __proto__()
+set __proto__
+: 
+ƒ __proto__()
+get __proto__
+: 
+ƒ __proto__()
+set __proto__
+: 
+ƒ __proto__()
+[[Scopes]]
+: 
+Scopes[0]
+get __proto__
+: 
+ƒ __proto__()
+set __proto__
+: 
+ƒ __proto__()
+[[Scopes]]
+: 
+Scopes[0]
+[[Scopes]]
+: 
+Scopes[0]
+Symbol(Symbol.toStringTag)
+: 
+"DeprecatedStorageQuota"
+[[Prototype]]
+: 
+Object
+webkitTemporaryStorage
+: 
+DeprecatedStorageQuota
+[[Prototype]]
+: 
+DeprecatedStorageQuota
+windowControlsOverlay
+: 
+WindowControlsOverlay
+ongeometrychange
+: 
+null
+visible
+: 
+false
+[[Prototype]]
+: 
+WindowControlsOverlay
+getTitlebarAreaRect
+: 
+ƒ getTitlebarAreaRect()
+ongeometrychange
+: 
+null
+visible
+: 
+false
+constructor
+: 
+ƒ WindowControlsOverlay()
+Symbol(Symbol.toStringTag)
+: 
+"WindowControlsOverlay"
+get ongeometrychange
+: 
+ƒ ongeometrychange()
+set ongeometrychange
+: 
+ƒ ongeometrychange()
+get visible
+: 
+ƒ visible()
+[[Prototype]]
+: 
+EventTarget
+xr
+: 
+XRSystem
+ondevicechange
+: 
+null
+[[Prototype]]
+: 
+XRSystem
+isSessionSupported
+: 
+ƒ isSessionSupported()
+ondevicechange
+: 
+null
+requestSession
+: 
+ƒ requestSession()
+constructor
+: 
+ƒ XRSystem()
+length
+: 
+0
+name
+: 
+"XRSystem"
+prototype
+: 
+XRSystem
+isSessionSupported
+: 
+ƒ isSessionSupported()
+ondevicechange
+: 
+[Exception: TypeError: Illegal invocation at XRSystem.invokeGetter (<anonymous>:3:28)]
+requestSession
+: 
+ƒ requestSession()
+constructor
+: 
+ƒ XRSystem()
+Symbol(Symbol.toStringTag)
+: 
+"XRSystem"
+get ondevicechange
+: 
+ƒ ondevicechange()
+set ondevicechange
+: 
+ƒ ondevicechange()
+[[Prototype]]
+: 
+EventTarget
+arguments
+: 
+null
+caller
+: 
+null
+[[Prototype]]
+: 
+ƒ EventTarget()
+[[Scopes]]
+: 
+Scopes[0]
+Symbol(Symbol.toStringTag)
+: 
+"XRSystem"
+get ondevicechange
+: 
+ƒ ondevicechange()
+set ondevicechange
+: 
+ƒ ondevicechange()
+[[Prototype]]
+: 
+EventTarget
+[[Prototype]]
+: 
+Navigator
 onabort
 : 
 null
@@ -8303,7 +9566,109 @@ parent
 Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
 performance
 : 
-Performance {timeOrigin: 1759065996653.3, onresourcetimingbufferfull: null, timing: PerformanceTiming, navigation: PerformanceNavigation, memory: MemoryInfo, …}
+Performance
+eventCounts
+: 
+EventCounts {size: 36}
+interactionCount
+: 
+0
+memory
+: 
+MemoryInfo
+jsHeapSizeLimit
+: 
+2248146944
+totalJSHeapSize
+: 
+212387670
+usedJSHeapSize
+: 
+144207438
+[[Prototype]]
+: 
+MemoryInfo
+navigation
+: 
+PerformanceNavigation {type: 0, redirectCount: 0}
+onresourcetimingbufferfull
+: 
+null
+timeOrigin
+: 
+1759065996653.3
+timing
+: 
+PerformanceTiming
+connectEnd
+: 
+0
+connectStart
+: 
+0
+domComplete
+: 
+1759065996655
+domContentLoadedEventEnd
+: 
+1759065996655
+domContentLoadedEventStart
+: 
+1759065996655
+domInteractive
+: 
+1759065996655
+domLoading
+: 
+1759065996654
+domainLookupEnd
+: 
+0
+domainLookupStart
+: 
+0
+fetchStart
+: 
+0
+loadEventEnd
+: 
+1759065996655
+loadEventStart
+: 
+1759065996655
+navigationStart
+: 
+1759065996654
+redirectEnd
+: 
+0
+redirectStart
+: 
+0
+requestStart
+: 
+0
+responseEnd
+: 
+1759065996655
+responseStart
+: 
+0
+secureConnectionStart
+: 
+0
+unloadEventEnd
+: 
+0
+unloadEventStart
+: 
+0
+[[Prototype]]
+: 
+PerformanceTiming
+[[Prototype]]
+: 
+Performance
 personalbar
 : 
 BarProp {visible: true}
@@ -8322,7 +9687,9659 @@ print
 privateAttribution
 : 
 PrivateAttribution {}
+prompt
+: 
+ƒ prompt()
+queryLocalFonts
+: 
+ƒ queryLocalFonts()
+queueMicrotask
+: 
+ƒ queueMicrotask()
+qvuSe2
+: 
+ƒ (Y,O,Cc,C7,W,B,I,H)
+releaseEvents
+: 
+ƒ releaseEvents()
+reportError
+: 
+ƒ reportError()
+requestAnimationFrame
+: 
+ƒ requestAnimationFrame()
+requestIdleCallback
+: 
+ƒ requestIdleCallback()
+resizeBy
+: 
+ƒ resizeBy()
+resizeTo
+: 
+ƒ resizeTo()
+restore
+: 
+ƒ restore()
+scheduler
+: 
+Scheduler {}
+screen
+: 
+Screen {availWidth: 3200, availHeight: 1760, width: 3200, height: 1800, colorDepth: 30, …}
+screenLeft
+: 
+0
+screenTop
+: 
+0
+screenX
+: 
+0
+screenY
+: 
+0
+scroll
+: 
+ƒ scroll()
+scrollBy
+: 
+ƒ scrollBy()
+scrollTo
+: 
+ƒ scrollTo()
+scrollX
+: 
+0
+scrollY
+: 
+0
+scrollbars
+: 
+BarProp {visible: true}
+self
+: 
+Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+sessionStorage
+: 
+Storage {ph_phc_2TrNSxrTDl9kNAyaYiuQAzjL05ax24rZG8KTiKGvMPa_primary_window_exists: 'true', ph_phc_2TrNSxrTDl9kNAyaYiuQAzjL05ax24rZG8KTiKGvMPa_window_id: '"01999081-0329-7228-abb7-905d9f8b61b7"', ph_phc_2TrNSxrTDl9kNAyaYiuQAzjL05ax24rZG8KTiKGvMPa_posthog: '{"$search_engine":"bing","$referrer":"https://www.bing.com/","$referring_domain":"www.bing.com"}', length: 3}
+setInterval
+: 
+ƒ setInterval()
+setResizable
+: 
+ƒ setResizable()
+setTimeout
+: 
+ƒ setTimeout()
+sharedStorage
+: 
+SharedStorage {worklet: SharedStorageWorklet}
+showDirectoryPicker
+: 
+ƒ showDirectoryPicker()
+showOpenFilePicker
+: 
+ƒ showOpenFilePicker()
+showSaveFilePicker
+: 
+ƒ showSaveFilePicker()
+speechSynthesis
+: 
+SpeechSynthesis {pending: false, speaking: false, paused: false, onvoiceschanged: null}
+status
+: 
+""
+statusbar
+: 
+BarProp {visible: true}
+stop
+: 
+ƒ stop()
+structuredClone
+: 
+ƒ structuredClone()
+styleMedia
+: 
+StyleMedia {type: 'screen'}
+toolbar
+: 
+BarProp
+visible
+: 
+true
+[[Prototype]]
+: 
+BarProp
+top
+: 
+Window
+0
+: 
+Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+1
+: 
+global {window: global, self: global, location: Location, closed: false, frames: global, …}
+CoinbaseWalletProvider
+: 
+class CoinbaseWalletProvider
+CoinbaseWalletSDK
+: 
+class CoinbaseWalletSDK
+SENTRY_RELEASE
+: 
+{id: '364a6769b9dfe0ba2325a189f6301f5809f55393'}
+WalletLink
+: 
+class CoinbaseWalletSDK
+WalletLinkProvider
+: 
+class CoinbaseWalletProvider
+alert
+: 
+ƒ alert()
+atob
+: 
+ƒ atob()
+blur
+: 
+ƒ blur()
+btoa
+: 
+ƒ btoa()
+caches
+: 
+CacheStorage {}
+cancelAnimationFrame
+: 
+ƒ cancelAnimationFrame()
+cancelIdleCallback
+: 
+ƒ cancelIdleCallback()
+captureEvents
+: 
+ƒ captureEvents()
+chrome
+: 
+{app: {…}, loadTimes: ƒ, csi: ƒ}
+clearImmediate
+: 
+ƒ clearImmediate(ei)
+clearInterval
+: 
+ƒ clearInterval()
+clearTimeout
+: 
+ƒ clearTimeout()
+clientInformation
+: 
+Navigator
+appCodeName
+: 
+"Mozilla"
+appName
+: 
+"Netscape"
+appVersion
+: 
+"5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+bluetooth
+: 
+Bluetooth {onadvertisementreceived: null}
+clipboard
+: 
+Clipboard {onclipboardchange: null}
+connection
+: 
+NetworkInformation {onchange: null, effectiveType: '4g', rtt: 50, downlink: 4.2, saveData: false, …}
+cookieEnabled
+: 
+true
+credentials
+: 
+CredentialsContainer {}
+deprecatedRunAdAuctionEnforcesKAnonymity
+: 
+false
+deviceMemory
+: 
+8
+devicePosture
+: 
+DevicePosture {type: 'continuous', onchange: null}
+doNotTrack
+: 
+null
+geolocation
+: 
+Geolocation {}
+gpu
+: 
+GPU {wgslLanguageFeatures: WGSLLanguageFeatures}
+hardwareConcurrency
+: 
+8
+hid
+: 
+HID {onconnect: null, ondisconnect: null}
+imageCreator
+: 
+ImageCreator {}
+ink
+: 
+Ink {}
+keyboard
+: 
+Keyboard {}
+language
+: 
+"en-US"
+languages
+: 
+(2) ['en-US', 'en']
+locks
+: 
+LockManager {}
+login
+: 
+NavigatorLogin {}
+managed
+: 
+NavigatorManagedData {onmanagedconfigurationchange: null}
+maxTouchPoints
+: 
+0
+mediaCapabilities
+: 
+MediaCapabilities {}
+mediaDevices
+: 
+MediaDevices {ondevicechange: null}
+mediaSession
+: 
+MediaSession {metadata: null, playbackState: 'none'}
+mimeTypes
+: 
+MimeTypeArray {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, length: 2}
+onLine
+: 
+true
+pdfViewerEnabled
+: 
+true
+permissions
+: 
+Permissions {}
+platform
+: 
+"Win32"
+plugins
+: 
+PluginArray
+0
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+1
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+2
+: 
+Plugin
+0
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Chromium PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+suffixes
+: 
+"pdf"
+type
+: 
+"application/pdf"
+[[Prototype]]
+: 
+MimeType
+1
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Chromium PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+suffixes
+: 
+"pdf"
+type
+: 
+"text/pdf"
+[[Prototype]]
+: 
+MimeType
+application/pdf
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Chromium PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+suffixes
+: 
+"pdf"
+type
+: 
+"application/pdf"
+[[Prototype]]
+: 
+MimeType
+text/pdf
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+enabledPlugin
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Chromium PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+suffixes
+: 
+"pdf"
+type
+: 
+"text/pdf"
+[[Prototype]]
+: 
+MimeType
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chromium PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+3
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Microsoft Edge PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+4
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"WebKit built-in PDF"
+[[Prototype]]
+: 
+Plugin
+Chrome PDF Viewer
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+Chromium PDF Viewer
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chromium PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+Microsoft Edge PDF Viewer
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Microsoft Edge PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+PDF Viewer
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+WebKit built-in PDF
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"WebKit built-in PDF"
+[[Prototype]]
+: 
+Plugin
+length
+: 
+5
+[[Prototype]]
+: 
+PluginArray
+preferences
+: 
+PreferenceManager {colorScheme: PreferenceObject, contrast: PreferenceObject, reducedMotion: PreferenceObject, reducedTransparency: PreferenceObject, reducedData: PreferenceObject}
+presentation
+: 
+Presentation {defaultRequest: null, receiver: null}
+product
+: 
+"Gecko"
+productSub
+: 
+"20030107"
+protectedAudience
+: 
+ProtectedAudience {}
+scheduling
+: 
+Scheduling {}
+serial
+: 
+Serial {onconnect: null, ondisconnect: null}
+serviceWorker
+: 
+ServiceWorkerContainer {controller: null, ready: Promise, oncontrollerchange: null, onmessage: null, onmessageerror: null}
+splitTabSupported
+: 
+false
+storage
+: 
+StorageManager {}
+storageBuckets
+: 
+StorageBucketManager {}
+usb
+: 
+USB {onconnect: null, ondisconnect: null}
+userActivation
+: 
+UserActivation {hasBeenActive: true, isActive: false}
+userAgent
+: 
+"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+userAgentData
+: 
+NavigatorUAData {brands: Array(3), mobile: false, platform: 'Windows'}
+vendor
+: 
+"Google Inc."
+vendorSub
+: 
+""
+virtualKeyboard
+: 
+VirtualKeyboard {boundingRect: DOMRect, overlaysContent: false, ongeometrychange: null}
+wakeLock
+: 
+WakeLock {}
+webdriver
+: 
+false
+webkitPersistentStorage
+: 
+DeprecatedStorageQuota {}
+webkitTemporaryStorage
+: 
+DeprecatedStorageQuota {}
+windowControlsOverlay
+: 
+WindowControlsOverlay {visible: false, ongeometrychange: null}
+xr
+: 
+XRSystem {ondevicechange: null}
+[[Prototype]]
+: 
+Navigator
+close
+: 
+ƒ close()
+closed
+: 
+false
+confirm
+: 
+ƒ confirm()
+cookieStore
+: 
+CookieStore {onchange: null}
+crashReport
+: 
+CrashReportStorage {}
+createImageBitmap
+: 
+ƒ createImageBitmap()
+credentialless
+: 
+false
+crossOriginIsolated
+: 
+false
+crypto
+: 
+Crypto {subtle: SubtleCrypto}
+customElements
+: 
+CustomElementRegistry
+[[Prototype]]
+: 
+CustomElementRegistry
+define
+: 
+ƒ define()
+get
+: 
+ƒ ()
+getName
+: 
+ƒ getName()
+upgrade
+: 
+ƒ upgrade()
+whenDefined
+: 
+ƒ whenDefined()
+constructor
+: 
+ƒ CustomElementRegistry()
+Symbol(Symbol.toStringTag)
+: 
+"CustomElementRegistry"
+[[Prototype]]
+: 
+Object
+constructor
+: 
+ƒ Object()
+hasOwnProperty
+: 
+ƒ hasOwnProperty()
+isPrototypeOf
+: 
+ƒ isPrototypeOf()
+propertyIsEnumerable
+: 
+ƒ propertyIsEnumerable()
+toLocaleString
+: 
+ƒ toLocaleString()
+toString
+: 
+ƒ toString()
+valueOf
+: 
+ƒ valueOf()
+__defineGetter__
+: 
+ƒ __defineGetter__()
+__defineSetter__
+: 
+ƒ __defineSetter__()
+__lookupGetter__
+: 
+ƒ __lookupGetter__()
+__lookupSetter__
+: 
+ƒ __lookupSetter__()
+__proto__
+: 
+CustomElementRegistry
+define
+: 
+ƒ define()
+get
+: 
+ƒ ()
+getName
+: 
+ƒ getName()
+upgrade
+: 
+ƒ upgrade()
+whenDefined
+: 
+ƒ whenDefined()
+constructor
+: 
+ƒ CustomElementRegistry()
+Symbol(Symbol.toStringTag)
+: 
+"CustomElementRegistry"
+[[Prototype]]
+: 
+Object
+get __proto__
+: 
+ƒ __proto__()
+set __proto__
+: 
+ƒ __proto__()
+devicePixelRatio
+: 
+0.6666666865348816
+document
+: 
+document
+documentPictureInPicture
+: 
+DocumentPictureInPicture
+onenter
+: 
+null
+window
+: 
+null
+[[Prototype]]
+: 
+DocumentPictureInPicture
+onenter
+: 
+null
+requestWindow
+: 
+ƒ requestWindow()
+window
+: 
+null
+constructor
+: 
+ƒ DocumentPictureInPicture()
+Symbol(Symbol.toStringTag)
+: 
+"DocumentPictureInPicture"
+get onenter
+: 
+ƒ onenter()
+set onenter
+: 
+ƒ onenter()
+get window
+: 
+ƒ window()
+[[Prototype]]
+: 
+EventTarget
+event
+: 
+undefined
+external
+: 
+External {}
+fence
+: 
+null
+fetch
+: 
+ƒ (...r)
+length
+: 
+0
+name
+: 
+""
+prototype
+: 
+{}
+__sentry_original__
+: 
+ƒ fetch()
+arguments
+: 
 (...)
+caller
+: 
+(...)
+[[FunctionLocation]]
+: 
+<unknown>
+[[Prototype]]
+: 
+ƒ ()
+[[Scopes]]
+: 
+Scopes[4]
+0
+: 
+Closure
+t
+: 
+ƒ fetch()
+[[Prototype]]
+: 
+Object
+1
+: 
+Closure (instrumentFetch)
+e
+: 
+undefined
+[[Prototype]]
+: 
+Object
+2
+: 
+Closure (55485)
+$
+: 
+{…}
+A
+: 
+{…}
+B
+: 
+(8) [/^Script error\.?$/, /^Javascript error: Script error\.? on line 0$/, /^ResizeObserver loop completed with undelivered notifications.$/, /^Cannot redefine property: googletag$/, "undefined is not an object (evaluating 'a.L')", `can't redefine non-configurable property "solana"`, "vv().getRestrictions is not a function. (In 'vv().…tions(1,a)', 'vv().getRestrictions' is undefined)", "Can't find variable: _AutofillCallbackHandler"]
+BrowserClient
+: 
+class BrowserClient
+C
+: 
+{…}
+D
+: 
+{}
+E
+: 
+undefined
+F
+: 
+{}
+K
+: 
+{}
+SentryError
+: 
+class SentryError
+length
+: 
+1
+name
+: 
+"SentryError"
+prototype
+: 
+Error {}
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[FunctionLocation]]
+: 
+<unknown>
+[[Prototype]]
+: 
+ƒ Error()
+[[Scopes]]
+: 
+Scopes[2]
+0
+: 
+Closure (55485)
+$
+: 
+{…}
+A
+: 
+{…}
+B
+: 
+(8) [/^Script error\.?$/, /^Javascript error: Script error\.? on line 0$/, /^ResizeObserver loop completed with undelivered notifications.$/, /^Cannot redefine property: googletag$/, "undefined is not an object (evaluating 'a.L')", `can't redefine non-configurable property "solana"`, "vv().getRestrictions is not a function. (In 'vv().…tions(1,a)', 'vv().getRestrictions' is undefined)", "Can't find variable: _AutofillCallbackHandler"]
+BrowserClient
+: 
+class BrowserClient
+C
+: 
+{…}
+D
+: 
+{}
+E
+: 
+undefined
+F
+: 
+{}
+K
+: 
+{}
+SentryError
+: 
+class SentryError
+SentrySpan
+: 
+class SentrySpan
+U
+: 
+(3) ['FunctionToString', 'BrowserApiErrors', 'GlobalHandlers']
+a
+: 
+"/lending"
+addBreadcrumb
+: 
+ƒ addBreadcrumb(e,t)
+addChangeListeners
+: 
+()=> {…}
+addClsInstrumentationHandler
+: 
+ƒ addClsInstrumentationHandler(e,t=!1)
+addFetchInstrumentationHandler
+: 
+ƒ addFetchInstrumentationHandler(e,t)
+addGlobalErrorInstrumentationHandler
+: 
+ƒ addGlobalErrorInstrumentationHandler(e)
+addGlobalUnhandledRejectionInstrumentationHandler
+: 
+ƒ addGlobalUnhandledRejectionInstrumentationHandler(e)
+addHTTPTimings
+: 
+ƒ addHTTPTimings(e)
+addHandler
+: 
+ƒ addHandler(e,t)
+addHistoryInstrumentationHandler
+: 
+ƒ addHistoryInstrumentationHandler(e)
+addMetricObserver
+: 
+ƒ addMetricObserver(e,t,r,n,a=!1)
+addPerformanceInstrumentationHandler
+: 
+ƒ addPerformanceInstrumentationHandler(e,t)
+addXhrInstrumentationHandler
+: 
+ƒ addXhrInstrumentationHandler(e)
+afterSetupIntegrations
+: 
+ƒ afterSetupIntegrations(e,t)
+applyExceptionGroupFieldsForChildException
+: 
+ƒ applyExceptionGroupFieldsForChildException(e,t,r,n)
+applyExceptionGroupFieldsForParentException
+: 
+ƒ applyExceptionGroupFieldsForParentException(e,t)
+applySdkMetadata
+: 
+ƒ applySdkMetadata(e,t,r=[t],n="npm")
+b
+: 
+undefined
+bindReporter
+: 
+(e,t,r,n)=> {…}
+breadcrumbsIntegration
+: 
+(e={})=> {…}
+browserApiErrorsIntegration
+: 
+(e={})=> {…}
+browserTracingIntegration
+: 
+(e={})=> {…}
+client_init
+: 
+ƒ client_init(e)
+createEnvelope
+: 
+ƒ createEnvelope(e,t=[])
+createFrame
+: 
+ƒ createFrame(e,t,r,n)
+dedupeIntegration
+: 
+()=> {…}
+dsnFromComponents
+: 
+ƒ dsnFromComponents(e)
+dsnFromString
+: 
+ƒ dsnFromString(e)
+dsn_dsnToString
+: 
+ƒ dsn_dsnToString(e,t=!1)
+e0
+: 
+(2) [200, 500]
+e1
+: 
+(5) [{…}, {…}, {…}, {…}, {…}]
+e2
+: 
+(2) [2500, 4000]
+e3
+: 
+{5355: {…}, 5362: {…}, 5369: {…}, 5376: {…}, 5397: {…}}
+e4
+: 
+{v3-1759065996869-9186986927175: true}
+e5
+: 
+(2) [800, 1800]
+e6
+: 
+{fid: true, lcp: true, ttfb: true, cls: true, inp: true, …}
+e7
+: 
+{}
+e8
+: 
+{fid: Array(0), lcp: Array(0), ttfb: Array(0), cls: Array(0), inp: Array(1), …}
+e9
+: 
+205
+e$
+: 
+{}
+eA
+: 
+/^\s*(.*?)(?:\((.*?)\))?(?:^|@)?((?:[-a-z]+)?:\/.*?|\[native code\]|[^@]*(?:bundle|\d+\.js)|\/[\w\-. /=]+)(?::(\d+))?(?::(\d+))?\s*$/i
+eB
+: 
+{}
+eC
+: 
+/\((\S*)(?::(\d+))(?::(\d+))\)/
+eD
+: 
+{title: 'browser', browser: true, env: {…}, argv: Array(0), nextTick: ƒ, …}
+eE
+: 
+{}
+eF
+: 
+{…}
+eG
+: 
+"_sentryScope"
+eH
+: 
+{}
+eI
+: 
+(e,r=0,i=0)=> {…}
+eJ
+: 
+"__SENTRY_SUPPRESS_TRACING__"
+eK
+: 
+Infinity
+eL
+: 
+{Children: {…}, Fragment: Symbol(react.fragment), Profiler: Symbol(react.profiler), Component: ƒ, PureComponent: ƒ, …}
+eM
+: 
+/(\S+) line (\d+)(?: > eval line \d+)* > eval/i
+eN
+: 
+{fetch: ƒ}
+eO
+: 
+null
+eP
+: 
+(6) ['fatal', 'error', 'warning', 'log', 'info', 'debug']
+eQ
+: 
+0
+eR
+: 
+(31) ['EventTarget', 'Window', 'Node', 'ApplicationCache', 'AudioTrackList', 'BroadcastChannel', 'ChannelMergerNode', 'CryptoOperation', 'EventSource', 'FileReader', 'HTMLUnknownElement', 'IDBDatabase', 'IDBRequest', 'IDBTransaction', 'KeyOperation', 'MediaController', 'MessagePort', 'ModalWindow', 'Notification', 'SVGElementInstance', 'Screen', 'SharedWorker', 'TextTrack', 'TextTrackCue', 'TextTrackList', 'WebSocket', 'WebSocketWorker', 'Worker', 'XMLHttpRequest', 'XMLHttpRequestEventTarget', 'XMLHttpRequestUpload']
+eS
+: 
+"__sentry_xhr_v3__"
+eT
+: 
+null
+eU
+: 
+{}
+eV
+: 
+(2) [0.1, 0.25]
+eW
+: 
+{}
+eX
+: 
+74983.60000002384
+eY
+: 
+(2) [100, 300]
+eZ
+: 
+0
+e_
+: 
+/Minified React error #\d+;/i
+ea
+: 
+{error: true, unhandledrejection: true, console: true, dom: true, xhr: true, …}
+eb
+: 
+0
+ec
+: 
+{}
+ed
+: 
+{session: 'session', sessions: 'session', attachment: 'attachment', transaction: 'transaction', event: 'error', …}
+ee
+: 
+{}
+ef
+: 
+{}
+eg
+: 
+{}
+eh
+: 
+{…}
+ei
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+el
+: 
+{…}
+em
+: 
+{}
+en
+: 
+{error: Array(2), unhandledrejection: Array(2), console: Array(1), dom: Array(1), xhr: Array(2), …}
+encodeUTF8
+: 
+ƒ encodeUTF8(e)
+eo
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+ep
+: 
+{}
+eq
+: 
+"_sentryIsolationScope"
+er
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+errorCallback
+: 
+ƒ errorCallback()
+es
+: 
+/^(?:(\w+):)\/\/(?:(\w+)(?::(\w+)?)?@)([\w.-]+)(?::(\d+))?\/(.+)/
+estimateP98LongestInteraction
+: 
+()=> {…}
+et
+: 
+{}
+eu
+: 
+{}
+ev
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+eventFromError
+: 
+ƒ eventFromError(e,t)
+eventFromString
+: 
+ƒ eventFromString(e,t,r,n)
+eventFromUnknownInput
+: 
+ƒ eventFromUnknownInput(e,t,r,n,a)
+ew
+: 
+/^\s*at (\S+?)(?::(\d+))(?::(\d+))\s*$/i
+ex
+: 
+/^\s*at (?:(.+?\)(?: \[.+\])?|.*?) ?\((?:address at )?)?(?:async )?((?:<anonymous>|[-a-z]+:|.*bundle|\/)?.*?)(?::(\d+))?(?::(\d+))?\)?\s*$/i
+lastIndex
+: 
+0
+dotAll
+: 
+false
+flags
+: 
+"i"
+global
+: 
+false
+hasIndices
+: 
+false
+ignoreCase
+: 
+true
+multiline
+: 
+false
+source
+: 
+"^\\s*at (?:(.+?\\)(?: \\[.+\\])?|.*?) ?\\((?:address at )?)?(?:async )?((?:<anonymous>|[-a-z]+:|.*bundle|\\/)?.*?)(?::(\\d+))?(?::(\\d+))?\\)?\\s*$"
+sticky
+: 
+false
+unicode
+: 
+false
+unicodeSets
+: 
+false
+[[Prototype]]
+: 
+Object
+exceptionFromError
+: 
+ƒ exceptionFromError(e,t)
+extractSafariExtensionDetails
+: 
+(e,t)=> {…}
+ey
+: 
+"Not capturing exception because it's already been captured."
+ez
+: 
+(2) [1800, 3000]
+forEachEnvelopeItem
+: 
+ƒ forEachEnvelopeItem(e,t)
+functionToStringIntegration
+: 
+()=> {…}
+generateUniqueID
+: 
+()=> {…}
+getAbsoluteTime
+: 
+ƒ getAbsoluteTime(e=0)
+getAcs
+: 
+ƒ getAcs()
+getActivationStart
+: 
+()=> {…}
+getBreadcrumbLogLevelFromHttpStatusCode
+: 
+ƒ getBreadcrumbLogLevelFromHttpStatusCode(e)
+getBrowserPerformanceAPI
+: 
+ƒ getBrowserPerformanceAPI()
+getCapturedScopesOnSpan
+: 
+ƒ getCapturedScopesOnSpan(e)
+getCleanupCallback
+: 
+ƒ getCleanupCallback(e,t,r)
+getDefaultIntegrations
+: 
+ƒ getDefaultIntegrations(e)
+getEventForEnvelopeItem
+: 
+ƒ getEventForEnvelopeItem(e,t)
+getInteractionCount
+: 
+()=>l?eZ:performance.interactionCount||0
+getInteractionCountForNavigation
+: 
+()=>getInteractionCount()-0
+getMetaContent
+: 
+ƒ getMetaContent(e)
+getNavigationEntry
+: 
+()=> {…}
+getOptions
+: 
+ƒ getOptions()
+getRating
+: 
+(e,t)=>e>t[1]?"poor":e>t[0]?"needs-improvement":"good"
+getSdkMetadataForEnvelopeHeader
+: 
+ƒ getSdkMetadataForEnvelopeHeader(e)
+getUrlFromResource
+: 
+ƒ getUrlFromResource(e)
+getVisibilityWatcher
+: 
+()=> {…}
+globalHandlersIntegration
+: 
+(e={})=> {…}
+hasProp
+: 
+ƒ hasProp(e,t)
+httpContextIntegration
+: 
+()=> {…}
+i
+: 
+undefined
+inboundFiltersIntegration
+: 
+(e={})=> {…}
+initHiddenTime
+: 
+()=> {…}
+initInteractionCountPolyfill
+: 
+()=> {…}
+initMetric
+: 
+(e,t)=> {…}
+instrumentCls
+: 
+ƒ instrumentCls()
+instrumentConsole
+: 
+ƒ instrumentConsole()
+instrumentDOM
+: 
+ƒ instrumentDOM()
+instrumentError
+: 
+ƒ instrumentError()
+instrumentFetch
+: 
+ƒ instrumentFetch(e,t=!1)
+instrumentFid
+: 
+ƒ instrumentFid()
+instrumentHistory
+: 
+ƒ instrumentHistory()
+instrumentInp
+: 
+ƒ instrumentInp()
+instrumentLcp
+: 
+ƒ instrumentLcp()
+instrumentTtfb
+: 
+ƒ instrumentTtfb()
+instrumentUnhandledRejection
+: 
+ƒ instrumentUnhandledRejection()
+instrumentXHR
+: 
+ƒ instrumentXHR()
+instrument_addHandler
+: 
+ƒ instrument_addHandler(e,t)
+instrument_triggerHandlers
+: 
+ƒ instrument_triggerHandlers(e,t)
+isErrorEvent
+: 
+ƒ isErrorEvent(e)
+isFullFinishedSpan
+: 
+ƒ isFullFinishedSpan(e)
+isMeasurementValue
+: 
+ƒ isMeasurementValue(e)
+isNativeFunction
+: 
+ƒ isNativeFunction(e)
+isSpanTimeInput
+: 
+ƒ isSpanTimeInput(e)
+isTransactionEvent
+: 
+ƒ isTransactionEvent(e)
+isWebAssemblyException
+: 
+ƒ isWebAssemblyException(e)
+j
+: 
+{}
+l
+: 
+undefined
+linkedErrorsIntegration
+: 
+(e={})=> {…}
+m
+: 
+{name: 'LCP', value: 2428, rating: 'good', delta: 516, entries: Array(1), …}
+makeDOMEventHandler
+: 
+ƒ makeDOMEventHandler(e,t=!1)
+makeFetchTransport
+: 
+ƒ makeFetchTransport(e,t=function(e)
+maybeInstrument
+: 
+ƒ maybeInstrument(e,t)
+msToSec
+: 
+ƒ msToSec(e)
+n
+: 
+ƒ toString()
+nextjsClientStackFrameNormalizationIntegration
+: 
+({assetPrefixPath:e})=> {…}
+o
+: 
+713
+observe
+: 
+(e,t,r)=> {…}
+onCLS
+: 
+(e,t={})=> {…}
+onFCP
+: 
+(e,t={})=> {…}
+onFID
+: 
+(e,t={})=> {…}
+onHidden
+: 
+e=> {…}
+onINP
+: 
+(e,t={})=> {…}
+onLCP
+: 
+(e,t={})=> {…}
+onTTFB
+: 
+(e,t={})=> {…}
+onVisibilityUpdate
+: 
+e=> {…}
+p
+: 
+{name: 'FID', value: 1, rating: 'good', delta: 1, entries: Array(1), …}
+parseSampleRate
+: 
+ƒ parseSampleRate(e)
+parseStackFrames
+: 
+ƒ parseStackFrames(e,t)
+processEntry
+: 
+e=> {…}
+q
+: 
+{}
+request_getFullURL
+: 
+ƒ request_getFullURL(e)
+resolve
+: 
+ƒ resolve(...e)
+resolveResponse
+: 
+async ƒ resolveResponse(e,t)
+rewriteFramesIntegration
+: 
+(e={})=> {…}
+runOnce
+: 
+e=>{let t=!1;return r=>{t||(e(r),t=!0)}}
+s
+: 
+undefined
+sentryNonRecordingSpan_SentryNonRecordingSpan
+: 
+class sentryNonRecordingSpan_SentryNonRecordingSpan
+setResourceEntrySizeData
+: 
+ƒ setResourceEntrySizeData(e,t,r,n)
+setupIntegration
+: 
+ƒ setupIntegration(e,t,r)
+startAndEndSpan
+: 
+ƒ startAndEndSpan(e,t,r,{...n})
+startBrowserTracingNavigationSpan
+: 
+ƒ startBrowserTracingNavigationSpan(e,t)
+startBrowserTracingPageLoadSpan
+: 
+ƒ startBrowserTracingPageLoadSpan(e,t,r)
+startIdleSpan
+: 
+ƒ startIdleSpan(e,t={})
+startInactiveSpan
+: 
+ƒ startInactiveSpan(e)
+(...)
+1
+: 
+Global
+0
+: 
+Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+1
+: 
+global {window: global, self: global, location: Location, closed: false, frames: global, …}
+CoinbaseWalletProvider
+: 
+class CoinbaseWalletProvider
+CoinbaseWalletSDK
+: 
+class CoinbaseWalletSDK
+SENTRY_RELEASE
+: 
+{id: '364a6769b9dfe0ba2325a189f6301f5809f55393'}
+WalletLink
+: 
+class CoinbaseWalletSDK
+WalletLinkProvider
+: 
+class CoinbaseWalletProvider
+alert
+: 
+ƒ alert()
+atob
+: 
+ƒ atob()
+blur
+: 
+ƒ blur()
+btoa
+: 
+ƒ btoa()
+caches
+: 
+CacheStorage {}
+cancelAnimationFrame
+: 
+ƒ cancelAnimationFrame()
+cancelIdleCallback
+: 
+ƒ cancelIdleCallback()
+captureEvents
+: 
+ƒ captureEvents()
+chrome
+: 
+{app: {…}, loadTimes: ƒ, csi: ƒ}
+clearImmediate
+: 
+ƒ clearImmediate(ei)
+clearInterval
+: 
+ƒ clearInterval()
+clearTimeout
+: 
+ƒ clearTimeout()
+clientInformation
+: 
+Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, scheduling: Scheduling, …}
+close
+: 
+ƒ close()
+closed
+: 
+false
+confirm
+: 
+ƒ confirm()
+cookieStore
+: 
+CookieStore {onchange: null}
+crashReport
+: 
+CrashReportStorage {}
+createImageBitmap
+: 
+ƒ createImageBitmap()
+credentialless
+: 
+false
+crossOriginIsolated
+: 
+false
+crypto
+: 
+Crypto {subtle: SubtleCrypto}
+customElements
+: 
+CustomElementRegistry {}
+devicePixelRatio
+: 
+0.6666666865348816
+document
+: 
+document
+documentPictureInPicture
+: 
+DocumentPictureInPicture {window: null, onenter: null}
+event
+: 
+undefined
+external
+: 
+External {}
+fence
+: 
+null
+fetch
+: 
+ƒ (...r)
+fetchLater
+: 
+ƒ fetchLater()
+find
+: 
+ƒ find()
+focus
+: 
+ƒ focus()
+frameElement
+: 
+null
+frames
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+getComputedStyle
+: 
+ƒ getComputedStyle()
+getDigitalGoodsService
+: 
+ƒ getDigitalGoodsService()
+getScreenDetails
+: 
+ƒ getScreenDetails()
+getSelection
+: 
+ƒ getSelection()
+history
+: 
+History {length: 4, scrollRestoration: 'auto', state: {…}, pushState: ƒ, replaceState: ƒ}
+indexedDB
+: 
+IDBFactory {}
+innerHeight
+: 
+2523
+innerWidth
+: 
+3190
+isSecureContext
+: 
+true
+keccak256
+: 
+ƒ keccak256(ei)
+keplrRequestMetaIdSupport
+: 
+true
+launchQueue
+: 
+LaunchQueue {}
+length
+: 
+2
+litElementVersions
+: 
+['3.3.3']
+litHtmlVersions
+: 
+['2.8.0']
+localStorage
+: 
+Storage
+-walletlink:https://www.walletlink.org:session:id
+: 
+"8728180fb5e4b71329b46dde53b11953"
+-walletlink:https://www.walletlink.org:session:linked
+: 
+"0"
+-walletlink:https://www.walletlink.org:session:secret
+: 
+"490b896106b3618cc76035c8b8fed9b01b6af69bbe5ababb6812cad5e554734e"
+-walletlink:https://www.walletlink.org:version
+: 
+"3.7.2"
+WCM_VERSION
+: 
+"2.6.2"
+canto-io-transaction-store
+: 
+"{\"state\":{\"transactionFlows\":[]}}"
+rk-latest-id
+: 
+"walletConnect"
+rk-version
+: 
+"1.3.0"
+theme
+: 
+"dark"
+wagmi.cache
+: 
+"{\"buster\":\"\",\"timestamp\":1759068078130,\"clientState\":{\"mutations\":[],\"queries\":[{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"loading\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"balance\",\"chainId\":42161}],\"queryHash\":\"[{\\\"chainId\\\":42161,\\\"entity\\\":\\\"balance\\\"}]\"},{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"loading\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"ensName\",\"chainId\":1}],\"queryHash\":\"[{\\\"chainId\\\":1,\\\"entity\\\":\\\"ensName\\\"}]\"},{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"loading\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"ensAvatar\",\"chainId\":1}],\"queryHash\":\"[{\\\"chainId\\\":1,\\\"entity\\\":\\\"ensAvatar\\\"}]\"}]}}"
+wagmi.store
+: 
+"{\"state\":{\"data\":{}},\"version\":2}"
+length
+: 
+11
+[[Prototype]]
+: 
+Storage
+location
+: 
+Location
+ancestorOrigins
+: 
+DOMStringList {length: 0}
+assign
+: 
+ƒ assign()
+hash
+: 
+""
+host
+: 
+"www.canto.io"
+hostname
+: 
+"www.canto.io"
+href
+: 
+"https://www.canto.io/lending"
+origin
+: 
+"https://www.canto.io"
+pathname
+: 
+"/lending"
+port
+: 
+""
+protocol
+: 
+"https:"
+reload
+: 
+ƒ reload()
+replace
+: 
+ƒ replace()
+search
+: 
+""
+toString
+: 
+ƒ toString()
+valueOf
+: 
+ƒ valueOf()
+Symbol(Symbol.toPrimitive)
+: 
+undefined
+[[Prototype]]
+: 
+Location
+locationbar
+: 
+BarProp {visible: true}
+matchMedia
+: 
+ƒ matchMedia()
+maximize
+: 
+ƒ maximize()
+menubar
+: 
+BarProp {visible: true}
+minimize
+: 
+ƒ minimize()
+moveBy
+: 
+ƒ moveBy()
+moveTo
+: 
+ƒ moveTo()
+name
+: 
+""
+navigation
+: 
+Navigation {currentEntry: NavigationHistoryEntry, transition: null, activation: NavigationActivation, canGoBack: true, canGoForward: false, …}
+navigator
+: 
+Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, scheduling: Scheduling, …}
+next
+: 
+appDir
+: 
+true
+router
+: 
+back
+: 
+Proxy(Function) {length: 0, name: 'back'}
+fastRefresh
+: 
+()=> {…}
+forward
+: 
+Proxy(Function) {length: 0, name: 'forward'}
+prefetch
+: 
+(e,t)=> {…}
+push
+: 
+Proxy(Function) {length: 2, name: 'push'}
+refresh
+: 
+()=> {…}
+replace
+: 
+Proxy(Function)
+[[Handler]]
+: 
+Object
+[[Target]]
+: 
+(e,t)=> {…}
+length
+: 
+2
+name
+: 
+"replace"
+arguments
+: 
+[Exception: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them at get arguments (<anonymous>) at replace.invokeGetter (<anonymous>:3:28)]
+caller
+: 
+[Exception: TypeError: 'caller', 'callee', and 'arguments' properties may not be accessed on strict mode functions or the arguments objects for calls to them at get caller (<anonymous>) at replace.invokeGetter (<anonymous>:3:28)]
+[[FunctionLocation]]
+: 
+<unknown>
+[[Prototype]]
+: 
+ƒ ()
+[[Scopes]]
+: 
+Scopes[3]
+0
+: 
+Closure (Router) {t: '2QwvudO3GyE0Fg0zcOs6b', r: Array(2), n: Array(5), m: '/lending', A: Array(3), …}
+1
+: 
+Closure (33728)
+$
+: 
+{refresh: ƒ}
+A
+: 
+{…}
+AppRouter
+: 
+ƒ AppRouter(e)
+B
+: 
+t=> {…}
+C
+: 
+{__esModule: true}
+D
+: 
+{__esModule: true}
+E
+: 
+{__esModule: true}
+F
+: 
+{__esModule: true}
+HistoryUpdater
+: 
+ƒ HistoryUpdater(e)
+Router
+: 
+ƒ Router(e)
+U
+: 
+null
+a
+: 
+{Children: {…}, Fragment: Symbol(react.fragment), Profiler: Symbol(react.profiler), Component: ƒ, PureComponent: ƒ, …}
+b
+: 
+{__esModule: true}
+createEmptyCacheNode
+: 
+()=> {…}
+getServerActionDispatcher
+: 
+ƒ getServerActionDispatcher()
+i
+: 
+{__esModule: true}
+isExternalURL
+: 
+ƒ isExternalURL(e)
+j
+: 
+{__esModule: true}
+l
+: 
+{__esModule: true}
+m
+: 
+ƒ GlobalError(e)
+o
+: 
+{…}
+p
+: 
+{__esModule: true}
+s
+: 
+{…}
+u
+: 
+{__esModule: true}
+urlToUrlWithoutFlightMarker
+: 
+ƒ urlToUrlWithoutFlightMarker(e)
+v
+: 
+{__esModule: true}
+w
+: 
+{__esModule: true}
+_
+: 
+{__esModule: true}
+[[Prototype]]
+: 
+Object
+2
+: 
+Global
+0
+: 
+Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+1
+: 
+global
+blur
+: 
+ƒ blur()
+close
+: 
+ƒ close()
+closed
+: 
+false
+focus
+: 
+ƒ focus()
+frames
+: 
+global {window: global, self: global, location: Location, closed: false, frames: global, …}
+length
+: 
+0
+location
+: 
+Location {Symbol(Symbol.toStringTag): undefined, Symbol(Symbol.hasInstance): undefined, Symbol(Symbol.isConcatSpreadable): undefined, replace: ƒ}
+opener
+: 
+null
+parent
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+postMessage
+: 
+ƒ postMessage()
+self
+: 
+global {window: global, self: global, location: Location, closed: false, frames: global, …}
+then
+: 
+[Exception: SecurityError: Blocked a frame with origin "https://www.canto.io" from accessing a cross-origin frame.]
+top
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+window
+: 
+global {window: global, self: global, location: Location, closed: false, frames: global, …}
+Symbol(Symbol.hasInstance)
+: 
+undefined
+Symbol(Symbol.isConcatSpreadable)
+: 
+undefined
+Symbol(Symbol.toStringTag)
+: 
+undefined
+CoinbaseWalletProvider
+: 
+class CoinbaseWalletProvider
+CoinbaseWalletSDK
+: 
+class CoinbaseWalletSDK
+SENTRY_RELEASE
+: 
+{id: '364a6769b9dfe0ba2325a189f6301f5809f55393'}
+WalletLink
+: 
+class CoinbaseWalletSDK
+WalletLinkProvider
+: 
+class CoinbaseWalletProvider
+alert
+: 
+ƒ alert()
+atob
+: 
+ƒ atob()
+blur
+: 
+ƒ blur()
+btoa
+: 
+ƒ btoa()
+caches
+: 
+CacheStorage {}
+cancelAnimationFrame
+: 
+ƒ cancelAnimationFrame()
+cancelIdleCallback
+: 
+ƒ cancelIdleCallback()
+captureEvents
+: 
+ƒ captureEvents()
+chrome
+: 
+{app: {…}, loadTimes: ƒ, csi: ƒ}
+clearImmediate
+: 
+ƒ clearImmediate(ei)
+clearInterval
+: 
+ƒ clearInterval()
+clearTimeout
+: 
+ƒ clearTimeout()
+clientInformation
+: 
+Navigator
+appCodeName
+: 
+"Mozilla"
+appName
+: 
+"Netscape"
+appVersion
+: 
+"5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+bluetooth
+: 
+Bluetooth {onadvertisementreceived: null}
+clipboard
+: 
+Clipboard {onclipboardchange: null}
+connection
+: 
+NetworkInformation {onchange: null, effectiveType: '4g', rtt: 50, downlink: 4.2, saveData: false, …}
+cookieEnabled
+: 
+true
+credentials
+: 
+CredentialsContainer {}
+deprecatedRunAdAuctionEnforcesKAnonymity
+: 
+false
+deviceMemory
+: 
+8
+devicePosture
+: 
+DevicePosture {type: 'continuous', onchange: null}
+doNotTrack
+: 
+null
+geolocation
+: 
+Geolocation {}
+gpu
+: 
+GPU {wgslLanguageFeatures: WGSLLanguageFeatures}
+hardwareConcurrency
+: 
+8
+hid
+: 
+HID {onconnect: null, ondisconnect: null}
+imageCreator
+: 
+ImageCreator {}
+ink
+: 
+Ink {}
+keyboard
+: 
+Keyboard {}
+language
+: 
+"en-US"
+languages
+: 
+(2) ['en-US', 'en']
+locks
+: 
+LockManager {}
+login
+: 
+NavigatorLogin {}
+managed
+: 
+NavigatorManagedData {onmanagedconfigurationchange: null}
+maxTouchPoints
+: 
+0
+mediaCapabilities
+: 
+MediaCapabilities {}
+mediaDevices
+: 
+MediaDevices {ondevicechange: null}
+mediaSession
+: 
+MediaSession {metadata: null, playbackState: 'none'}
+mimeTypes
+: 
+MimeTypeArray {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, length: 2}
+onLine
+: 
+true
+pdfViewerEnabled
+: 
+true
+permissions
+: 
+Permissions {}
+platform
+: 
+"Win32"
+plugins
+: 
+PluginArray
+0
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+1
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chrome PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+2
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"Chromium PDF Viewer"
+[[Prototype]]
+: 
+Plugin
+3
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Microsoft Edge PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+4
+: 
+Plugin
+0
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+1
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+application/pdf
+: 
+MimeType {type: 'application/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+text/pdf
+: 
+MimeType {type: 'text/pdf', suffixes: 'pdf', description: 'Portable Document Format', enabledPlugin: Plugin}
+description
+: 
+"Portable Document Format"
+filename
+: 
+"internal-pdf-viewer"
+length
+: 
+2
+name
+: 
+"WebKit built-in PDF"
+[[Prototype]]
+: 
+Plugin
+Chrome PDF Viewer
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Chrome PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+Chromium PDF Viewer
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Chromium PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+Microsoft Edge PDF Viewer
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'Microsoft Edge PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+PDF Viewer
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'PDF Viewer', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+WebKit built-in PDF
+: 
+Plugin {0: MimeType, 1: MimeType, application/pdf: MimeType, text/pdf: MimeType, name: 'WebKit built-in PDF', filename: 'internal-pdf-viewer', description: 'Portable Document Format', …}
+length
+: 
+5
+[[Prototype]]
+: 
+PluginArray
+preferences
+: 
+PreferenceManager {colorScheme: PreferenceObject, contrast: PreferenceObject, reducedMotion: PreferenceObject, reducedTransparency: PreferenceObject, reducedData: PreferenceObject}
+presentation
+: 
+Presentation {defaultRequest: null, receiver: null}
+product
+: 
+"Gecko"
+productSub
+: 
+"20030107"
+protectedAudience
+: 
+ProtectedAudience {}
+scheduling
+: 
+Scheduling {}
+serial
+: 
+Serial {onconnect: null, ondisconnect: null}
+serviceWorker
+: 
+ServiceWorkerContainer {controller: null, ready: Promise, oncontrollerchange: null, onmessage: null, onmessageerror: null}
+splitTabSupported
+: 
+false
+storage
+: 
+StorageManager {}
+storageBuckets
+: 
+StorageBucketManager {}
+usb
+: 
+USB {onconnect: null, ondisconnect: null}
+userActivation
+: 
+UserActivation {hasBeenActive: true, isActive: false}
+userAgent
+: 
+"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0"
+userAgentData
+: 
+NavigatorUAData
+brands
+: 
+Array(3)
+0
+: 
+{brand: 'Chromium', version: '140'}
+1
+: 
+{brand: 'Not=A?Brand', version: '24'}
+2
+: 
+brand
+: 
+"Microsoft Edge"
+version
+: 
+"140"
+[[Prototype]]
+: 
+Object
+length
+: 
+3
+[[Prototype]]
+: 
+Array(0)
+mobile
+: 
+false
+platform
+: 
+"Windows"
+[[Prototype]]
+: 
+NavigatorUAData
+vendor
+: 
+"Google Inc."
+vendorSub
+: 
+""
+virtualKeyboard
+: 
+VirtualKeyboard {boundingRect: DOMRect, overlaysContent: false, ongeometrychange: null}
+wakeLock
+: 
+WakeLock {}
+webdriver
+: 
+false
+webkitPersistentStorage
+: 
+DeprecatedStorageQuota {}
+webkitTemporaryStorage
+: 
+DeprecatedStorageQuota {}
+windowControlsOverlay
+: 
+WindowControlsOverlay {visible: false, ongeometrychange: null}
+xr
+: 
+XRSystem {ondevicechange: null}
+[[Prototype]]
+: 
+Navigator
+close
+: 
+ƒ close()
+closed
+: 
+false
+confirm
+: 
+ƒ confirm()
+cookieStore
+: 
+CookieStore {onchange: null}
+crashReport
+: 
+CrashReportStorage {}
+createImageBitmap
+: 
+ƒ createImageBitmap()
+credentialless
+: 
+false
+crossOriginIsolated
+: 
+false
+crypto
+: 
+Crypto {subtle: SubtleCrypto}
+customElements
+: 
+CustomElementRegistry {}
+devicePixelRatio
+: 
+0.6666666865348816
+document
+: 
+document
+documentPictureInPicture
+: 
+DocumentPictureInPicture {window: null, onenter: null}
+event
+: 
+undefined
+external
+: 
+External {}
+fence
+: 
+null
+fetch
+: 
+ƒ (...r)
+fetchLater
+: 
+ƒ fetchLater()
+find
+: 
+ƒ find()
+focus
+: 
+ƒ focus()
+frameElement
+: 
+null
+frames
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+getComputedStyle
+: 
+ƒ getComputedStyle()
+getDigitalGoodsService
+: 
+ƒ getDigitalGoodsService()
+getScreenDetails
+: 
+ƒ getScreenDetails()
+getSelection
+: 
+ƒ getSelection()
+history
+: 
+History {length: 4, scrollRestoration: 'auto', state: {…}, pushState: ƒ, replaceState: ƒ}
+indexedDB
+: 
+IDBFactory {}
+innerHeight
+: 
+2523
+innerWidth
+: 
+3190
+isSecureContext
+: 
+true
+keccak256
+: 
+ƒ keccak256(ei)
+keplrRequestMetaIdSupport
+: 
+true
+launchQueue
+: 
+LaunchQueue {}
+length
+: 
+2
+litElementVersions
+: 
+['3.3.3']
+litHtmlVersions
+: 
+['2.8.0']
+localStorage
+: 
+Storage {rk-version: '1.3.0', rk-latest-id: 'walletConnect', theme: 'dark', -walletlink:https://www.walletlink.org:session:linked: '0', WCM_VERSION: '2.6.2', …}
+location
+: 
+Location {ancestorOrigins: DOMStringList, href: 'https://www.canto.io/lending', origin: 'https://www.canto.io', protocol: 'https:', host: 'www.canto.io', …}
+locationbar
+: 
+BarProp {visible: true}
+matchMedia
+: 
+ƒ matchMedia()
+maximize
+: 
+ƒ maximize()
+menubar
+: 
+BarProp {visible: true}
+minimize
+: 
+ƒ minimize()
+moveBy
+: 
+ƒ moveBy()
+moveTo
+: 
+ƒ moveTo()
+name
+: 
+""
+navigation
+: 
+Navigation {currentEntry: NavigationHistoryEntry, transition: null, activation: NavigationActivation, canGoBack: true, canGoForward: false, …}
+navigator
+: 
+Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, scheduling: Scheduling, …}
+next
+: 
+{version: '13.5.6', appDir: true, router: {…}}
+onabort
+: 
+null
+onafterprint
+: 
+null
+onanimationend
+: 
+null
+onanimationiteration
+: 
+null
+onanimationstart
+: 
+null
+onappinstalled
+: 
+null
+onauxclick
+: 
+null
+onbeforeinput
+: 
+null
+onbeforeinstallprompt
+: 
+null
+onbeforematch
+: 
+null
+onbeforeprint
+: 
+null
+onbeforetoggle
+: 
+null
+onbeforeunload
+: 
+null
+onbeforexrselect
+: 
+null
+onblur
+: 
+null
+oncancel
+: 
+null
+oncanplay
+: 
+null
+oncanplaythrough
+: 
+null
+onchange
+: 
+null
+onclick
+: 
+null
+onclose
+: 
+null
+oncommand
+: 
+null
+oncontentvisibilityautostatechange
+: 
+null
+oncontextlost
+: 
+null
+oncontextmenu
+: 
+null
+oncontextrestored
+: 
+null
+oncuechange
+: 
+null
+ondblclick
+: 
+null
+ondevicemotion
+: 
+null
+ondeviceorientation
+: 
+null
+ondeviceorientationabsolute
+: 
+null
+ondrag
+: 
+null
+ondragend
+: 
+null
+ondragenter
+: 
+null
+ondragleave
+: 
+null
+ondragover
+: 
+null
+ondragstart
+: 
+null
+ondrop
+: 
+null
+ondurationchange
+: 
+null
+onemptied
+: 
+null
+onended
+: 
+null
+onerror
+: 
+ƒ (e,t,r,n,a)
+onfocus
+: 
+null
+onformdata
+: 
+null
+ongotpointercapture
+: 
+null
+onhashchange
+: 
+null
+oninput
+: 
+null
+oninvalid
+: 
+null
+onkeydown
+: 
+null
+onkeypress
+: 
+null
+onkeyup
+: 
+null
+onlanguagechange
+: 
+null
+onload
+: 
+ƒ (m)
+onloadeddata
+: 
+null
+onloadedmetadata
+: 
+null
+onloadstart
+: 
+null
+onlostpointercapture
+: 
+null
+onmessage
+: 
+null
+onmessageerror
+: 
+null
+onmousedown
+: 
+null
+onmouseenter
+: 
+null
+onmouseleave
+: 
+null
+onmousemove
+: 
+null
+onmouseout
+: 
+null
+onmouseover
+: 
+null
+onmouseup
+: 
+null
+onmousewheel
+: 
+null
+onmove
+: 
+null
+onoffline
+: 
+null
+ononline
+: 
+null
+onoverscroll
+: 
+null
+onpagehide
+: 
+null
+onpagereveal
+: 
+null
+onpageshow
+: 
+null
+onpageswap
+: 
+null
+onpause
+: 
+null
+onplay
+: 
+null
+onplaying
+: 
+null
+onpointercancel
+: 
+null
+onpointerdown
+: 
+null
+onpointerenter
+: 
+null
+onpointerleave
+: 
+null
+onpointermove
+: 
+null
+onpointerout
+: 
+null
+onpointerover
+: 
+null
+onpointerrawupdate
+: 
+null
+onpointerup
+: 
+null
+onpopstate
+: 
+ƒ (...t)
+onprogress
+: 
+null
+onratechange
+: 
+null
+onrejectionhandled
+: 
+null
+onreset
+: 
+null
+onresize
+: 
+null
+onscroll
+: 
+null
+onscrollend
+: 
+null
+onscrollsnapchange
+: 
+null
+onscrollsnapchanging
+: 
+null
+onsearch
+: 
+null
+onsecuritypolicyviolation
+: 
+null
+onseeked
+: 
+null
+onseeking
+: 
+null
+onselect
+: 
+null
+onselectionchange
+: 
+null
+onselectstart
+: 
+null
+onslotchange
+: 
+null
+onstalled
+: 
+null
+onstorage
+: 
+null
+onsubmit
+: 
+null
+onsuspend
+: 
+null
+ontimeupdate
+: 
+null
+ontimezonechange
+: 
+null
+ontoggle
+: 
+null
+ontransitioncancel
+: 
+null
+ontransitionend
+: 
+null
+ontransitionrun
+: 
+null
+ontransitionstart
+: 
+null
+onunhandledrejection
+: 
+ƒ (e)
+onunload
+: 
+null
+onvolumechange
+: 
+null
+onwaiting
+: 
+null
+onwebkitanimationend
+: 
+null
+onwebkitanimationiteration
+: 
+null
+onwebkitanimationstart
+: 
+null
+onwebkittransitionend
+: 
+null
+onwheel
+: 
+null
+open
+: 
+ƒ open()
+opener
+: 
+null
+origin
+: 
+"https://www.canto.io"
+originAgentCluster
+: 
+true
+outerHeight
+: 
+1760
+(...)
+[[IsRevoked]]
+: 
+false
+[[Prototype]]
+: 
+Object
+constructor
+: 
+ƒ Object()
+hasOwnProperty
+: 
+ƒ hasOwnProperty()
+isPrototypeOf
+: 
+ƒ isPrototypeOf()
+propertyIsEnumerable
+: 
+ƒ propertyIsEnumerable()
+toLocaleString
+: 
+ƒ toLocaleString()
+toString
+: 
+ƒ toString()
+valueOf
+: 
+ƒ valueOf()
+__defineGetter__
+: 
+ƒ __defineGetter__()
+__defineSetter__
+: 
+ƒ __defineSetter__()
+__lookupGetter__
+: 
+ƒ __lookupGetter__()
+__lookupSetter__
+: 
+ƒ __lookupSetter__()
+__proto__
+: 
+Object
+constructor
+: 
+ƒ Object()
+hasOwnProperty
+: 
+ƒ hasOwnProperty()
+isPrototypeOf
+: 
+ƒ isPrototypeOf()
+propertyIsEnumerable
+: 
+ƒ propertyIsEnumerable()
+toLocaleString
+: 
+ƒ toLocaleString()
+toString
+: 
+ƒ toString()
+valueOf
+: 
+ƒ valueOf()
+__defineGetter__
+: 
+ƒ __defineGetter__()
+__defineSetter__
+: 
+ƒ __defineSetter__()
+__lookupGetter__
+: 
+ƒ __lookupGetter__()
+__lookupSetter__
+: 
+ƒ __lookupSetter__()
+__proto__
+: 
+null
+get __proto__
+: 
+ƒ __proto__()
+set __proto__
+: 
+ƒ __proto__()
+get __proto__
+: 
+ƒ __proto__()
+set __proto__
+: 
+ƒ __proto__()
+version
+: 
+"13.5.6"
+[[Prototype]]
+: 
+Object
+onabort
+: 
+null
+onafterprint
+: 
+null
+onanimationend
+: 
+null
+onanimationiteration
+: 
+null
+onanimationstart
+: 
+null
+onappinstalled
+: 
+null
+onauxclick
+: 
+null
+onbeforeinput
+: 
+null
+onbeforeinstallprompt
+: 
+null
+onbeforematch
+: 
+null
+onbeforeprint
+: 
+null
+onbeforetoggle
+: 
+null
+onbeforeunload
+: 
+null
+onbeforexrselect
+: 
+null
+onblur
+: 
+null
+oncancel
+: 
+null
+oncanplay
+: 
+null
+oncanplaythrough
+: 
+null
+onchange
+: 
+null
+onclick
+: 
+null
+onclose
+: 
+null
+oncommand
+: 
+null
+oncontentvisibilityautostatechange
+: 
+null
+oncontextlost
+: 
+null
+oncontextmenu
+: 
+null
+oncontextrestored
+: 
+null
+oncuechange
+: 
+null
+ondblclick
+: 
+null
+ondevicemotion
+: 
+null
+ondeviceorientation
+: 
+null
+ondeviceorientationabsolute
+: 
+null
+ondrag
+: 
+null
+ondragend
+: 
+null
+ondragenter
+: 
+null
+ondragleave
+: 
+null
+ondragover
+: 
+null
+ondragstart
+: 
+null
+ondrop
+: 
+null
+ondurationchange
+: 
+null
+onemptied
+: 
+null
+onended
+: 
+null
+onerror
+: 
+ƒ (e,t,r,n,a)
+onfocus
+: 
+null
+onformdata
+: 
+null
+ongotpointercapture
+: 
+null
+onhashchange
+: 
+null
+oninput
+: 
+null
+oninvalid
+: 
+null
+onkeydown
+: 
+null
+onkeypress
+: 
+null
+onkeyup
+: 
+null
+onlanguagechange
+: 
+null
+onload
+: 
+ƒ (m)
+onloadeddata
+: 
+null
+onloadedmetadata
+: 
+null
+onloadstart
+: 
+null
+onlostpointercapture
+: 
+null
+onmessage
+: 
+null
+onmessageerror
+: 
+null
+onmousedown
+: 
+null
+onmouseenter
+: 
+null
+onmouseleave
+: 
+null
+onmousemove
+: 
+null
+onmouseout
+: 
+null
+onmouseover
+: 
+null
+onmouseup
+: 
+null
+onmousewheel
+: 
+null
+onmove
+: 
+null
+onoffline
+: 
+null
+ononline
+: 
+null
+onoverscroll
+: 
+null
+onpagehide
+: 
+null
+onpagereveal
+: 
+null
+onpageshow
+: 
+null
+onpageswap
+: 
+null
+onpause
+: 
+null
+onplay
+: 
+null
+onplaying
+: 
+null
+onpointercancel
+: 
+null
+onpointerdown
+: 
+null
+onpointerenter
+: 
+null
+onpointerleave
+: 
+null
+onpointermove
+: 
+null
+onpointerout
+: 
+null
+onpointerover
+: 
+null
+onpointerrawupdate
+: 
+null
+onpointerup
+: 
+null
+onpopstate
+: 
+ƒ (...t)
+onprogress
+: 
+null
+onratechange
+: 
+null
+onrejectionhandled
+: 
+null
+onreset
+: 
+null
+onresize
+: 
+null
+onscroll
+: 
+null
+onscrollend
+: 
+null
+onscrollsnapchange
+: 
+null
+onscrollsnapchanging
+: 
+null
+onsearch
+: 
+null
+onsecuritypolicyviolation
+: 
+null
+onseeked
+: 
+null
+onseeking
+: 
+null
+onselect
+: 
+null
+onselectionchange
+: 
+null
+onselectstart
+: 
+null
+onslotchange
+: 
+null
+onstalled
+: 
+null
+onstorage
+: 
+null
+onsubmit
+: 
+null
+onsuspend
+: 
+null
+ontimeupdate
+: 
+null
+ontimezonechange
+: 
+null
+ontoggle
+: 
+null
+ontransitioncancel
+: 
+null
+ontransitionend
+: 
+null
+ontransitionrun
+: 
+null
+ontransitionstart
+: 
+null
+onunhandledrejection
+: 
+ƒ (e)
+onunload
+: 
+null
+onvolumechange
+: 
+null
+onwaiting
+: 
+null
+onwebkitanimationend
+: 
+null
+onwebkitanimationiteration
+: 
+null
+onwebkitanimationstart
+: 
+null
+onwebkittransitionend
+: 
+null
+onwheel
+: 
+null
+open
+: 
+ƒ open()
+opener
+: 
+null
+origin
+: 
+"https://www.canto.io"
+originAgentCluster
+: 
+true
+outerHeight
+: 
+1760
+(...)
+SentrySpan
+: 
+class SentrySpan
+length
+: 
+0
+name
+: 
+"SentrySpan"
+prototype
+: 
+{addLink: ƒ, addLinks: ƒ, recordException: ƒ, spanContext: ƒ, setAttribute: ƒ, …}
+arguments
+: 
+(...)
+caller
+: 
+(...)
+[[FunctionLocation]]
+: 
+<unknown>
+[[Prototype]]
+: 
+ƒ ()
+[[Scopes]]
+: 
+Scopes[3]
+0
+: 
+Block (55485)
+SentrySpan
+: 
+class SentrySpan
+[[Prototype]]
+: 
+Object
+1
+: 
+Closure (55485)
+$
+: 
+{…}
+A
+: 
+{…}
+B
+: 
+(8) [/^Script error\.?$/, /^Javascript error: Script error\.? on line 0$/, /^ResizeObserver loop completed with undelivered notifications.$/, /^Cannot redefine property: googletag$/, "undefined is not an object (evaluating 'a.L')", `can't redefine non-configurable property "solana"`, "vv().getRestrictions is not a function. (In 'vv().…tions(1,a)', 'vv().getRestrictions' is undefined)", "Can't find variable: _AutofillCallbackHandler"]
+BrowserClient
+: 
+class BrowserClient
+C
+: 
+{…}
+D
+: 
+{}
+E
+: 
+undefined
+F
+: 
+{}
+K
+: 
+{}
+SentryError
+: 
+class SentryError
+SentrySpan
+: 
+class SentrySpan
+U
+: 
+(3) ['FunctionToString', 'BrowserApiErrors', 'GlobalHandlers']
+a
+: 
+"/lending"
+addBreadcrumb
+: 
+ƒ addBreadcrumb(e,t)
+addChangeListeners
+: 
+()=> {…}
+addClsInstrumentationHandler
+: 
+ƒ addClsInstrumentationHandler(e,t=!1)
+addFetchInstrumentationHandler
+: 
+ƒ addFetchInstrumentationHandler(e,t)
+addGlobalErrorInstrumentationHandler
+: 
+ƒ addGlobalErrorInstrumentationHandler(e)
+addGlobalUnhandledRejectionInstrumentationHandler
+: 
+ƒ addGlobalUnhandledRejectionInstrumentationHandler(e)
+addHTTPTimings
+: 
+ƒ addHTTPTimings(e)
+addHandler
+: 
+ƒ addHandler(e,t)
+addHistoryInstrumentationHandler
+: 
+ƒ addHistoryInstrumentationHandler(e)
+addMetricObserver
+: 
+ƒ addMetricObserver(e,t,r,n,a=!1)
+addPerformanceInstrumentationHandler
+: 
+ƒ addPerformanceInstrumentationHandler(e,t)
+addXhrInstrumentationHandler
+: 
+ƒ addXhrInstrumentationHandler(e)
+afterSetupIntegrations
+: 
+ƒ afterSetupIntegrations(e,t)
+applyExceptionGroupFieldsForChildException
+: 
+ƒ applyExceptionGroupFieldsForChildException(e,t,r,n)
+applyExceptionGroupFieldsForParentException
+: 
+ƒ applyExceptionGroupFieldsForParentException(e,t)
+applySdkMetadata
+: 
+ƒ applySdkMetadata(e,t,r=[t],n="npm")
+b
+: 
+undefined
+bindReporter
+: 
+(e,t,r,n)=> {…}
+breadcrumbsIntegration
+: 
+(e={})=> {…}
+browserApiErrorsIntegration
+: 
+(e={})=> {…}
+browserTracingIntegration
+: 
+(e={})=> {…}
+client_init
+: 
+ƒ client_init(e)
+createEnvelope
+: 
+ƒ createEnvelope(e,t=[])
+createFrame
+: 
+ƒ createFrame(e,t,r,n)
+dedupeIntegration
+: 
+()=> {…}
+dsnFromComponents
+: 
+ƒ dsnFromComponents(e)
+dsnFromString
+: 
+ƒ dsnFromString(e)
+dsn_dsnToString
+: 
+ƒ dsn_dsnToString(e,t=!1)
+e0
+: 
+(2) [200, 500]
+e1
+: 
+(5) [{…}, {…}, {…}, {…}, {…}]
+e2
+: 
+(2) [2500, 4000]
+e3
+: 
+{5355: {…}, 5362: {…}, 5369: {…}, 5376: {…}, 5397: {…}}
+e4
+: 
+{v3-1759065996869-9186986927175: true}
+e5
+: 
+(2) [800, 1800]
+e6
+: 
+{fid: true, lcp: true, ttfb: true, cls: true, inp: true, …}
+e7
+: 
+{}
+e8
+: 
+{fid: Array(0), lcp: Array(0), ttfb: Array(0), cls: Array(0), inp: Array(1), …}
+e9
+: 
+205
+e$
+: 
+{}
+eA
+: 
+/^\s*(.*?)(?:\((.*?)\))?(?:^|@)?((?:[-a-z]+)?:\/.*?|\[native code\]|[^@]*(?:bundle|\d+\.js)|\/[\w\-. /=]+)(?::(\d+))?(?::(\d+))?\s*$/i
+eB
+: 
+{}
+eC
+: 
+/\((\S*)(?::(\d+))(?::(\d+))\)/
+eD
+: 
+{title: 'browser', browser: true, env: {…}, argv: Array(0), nextTick: ƒ, …}
+eE
+: 
+{}
+eF
+: 
+{…}
+eG
+: 
+"_sentryScope"
+eH
+: 
+{}
+eI
+: 
+(e,r=0,i=0)=> {…}
+eJ
+: 
+"__SENTRY_SUPPRESS_TRACING__"
+eK
+: 
+Infinity
+eL
+: 
+{Children: {…}, Fragment: Symbol(react.fragment), Profiler: Symbol(react.profiler), Component: ƒ, PureComponent: ƒ, …}
+eM
+: 
+/(\S+) line (\d+)(?: > eval line \d+)* > eval/i
+eN
+: 
+{fetch: ƒ}
+eO
+: 
+null
+eP
+: 
+(6) ['fatal', 'error', 'warning', 'log', 'info', 'debug']
+eQ
+: 
+0
+eR
+: 
+(31) ['EventTarget', 'Window', 'Node', 'ApplicationCache', 'AudioTrackList', 'BroadcastChannel', 'ChannelMergerNode', 'CryptoOperation', 'EventSource', 'FileReader', 'HTMLUnknownElement', 'IDBDatabase', 'IDBRequest', 'IDBTransaction', 'KeyOperation', 'MediaController', 'MessagePort', 'ModalWindow', 'Notification', 'SVGElementInstance', 'Screen', 'SharedWorker', 'TextTrack', 'TextTrackCue', 'TextTrackList', 'WebSocket', 'WebSocketWorker', 'Worker', 'XMLHttpRequest', 'XMLHttpRequestEventTarget', 'XMLHttpRequestUpload']
+eS
+: 
+"__sentry_xhr_v3__"
+eT
+: 
+null
+eU
+: 
+{}
+eV
+: 
+(2) [0.1, 0.25]
+eW
+: 
+{}
+eX
+: 
+74983.60000002384
+eY
+: 
+(2) [100, 300]
+eZ
+: 
+0
+e_
+: 
+/Minified React error #\d+;/i
+ea
+: 
+{error: true, unhandledrejection: true, console: true, dom: true, xhr: true, …}
+eb
+: 
+0
+ec
+: 
+{}
+ed
+: 
+{session: 'session', sessions: 'session', attachment: 'attachment', transaction: 'transaction', event: 'error', …}
+ee
+: 
+{}
+ef
+: 
+{}
+eg
+: 
+{}
+eh
+: 
+{…}
+ei
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+el
+: 
+{…}
+em
+: 
+{}
+en
+: 
+{error: Array(2), unhandledrejection: Array(2), console: Array(1), dom: Array(1), xhr: Array(2), …}
+encodeUTF8
+: 
+ƒ encodeUTF8(e)
+eo
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+ep
+: 
+{}
+eq
+: 
+"_sentryIsolationScope"
+er
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+errorCallback
+: 
+ƒ errorCallback()
+es
+: 
+/^(?:(\w+):)\/\/(?:(\w+)(?::(\w+)?)?@)([\w.-]+)(?::(\d+))?\/(.+)/
+estimateP98LongestInteraction
+: 
+()=> {…}
+et
+: 
+{}
+eu
+: 
+{}
+ev
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+eventFromError
+: 
+ƒ eventFromError(e,t)
+eventFromString
+: 
+ƒ eventFromString(e,t,r,n)
+eventFromUnknownInput
+: 
+ƒ eventFromUnknownInput(e,t,r,n,a)
+ew
+: 
+/^\s*at (\S+?)(?::(\d+))(?::(\d+))\s*$/i
+ex
+: 
+/^\s*at (?:(.+?\)(?: \[.+\])?|.*?) ?\((?:address at )?)?(?:async )?((?:<anonymous>|[-a-z]+:|.*bundle|\/)?.*?)(?::(\d+))?(?::(\d+))?\)?\s*$/i
+exceptionFromError
+: 
+ƒ exceptionFromError(e,t)
+extractSafariExtensionDetails
+: 
+(e,t)=> {…}
+ey
+: 
+"Not capturing exception because it's already been captured."
+ez
+: 
+(2) [1800, 3000]
+forEachEnvelopeItem
+: 
+ƒ forEachEnvelopeItem(e,t)
+functionToStringIntegration
+: 
+()=> {…}
+generateUniqueID
+: 
+()=> {…}
+getAbsoluteTime
+: 
+ƒ getAbsoluteTime(e=0)
+getAcs
+: 
+ƒ getAcs()
+getActivationStart
+: 
+()=> {…}
+getBreadcrumbLogLevelFromHttpStatusCode
+: 
+ƒ getBreadcrumbLogLevelFromHttpStatusCode(e)
+getBrowserPerformanceAPI
+: 
+ƒ getBrowserPerformanceAPI()
+getCapturedScopesOnSpan
+: 
+ƒ getCapturedScopesOnSpan(e)
+getCleanupCallback
+: 
+ƒ getCleanupCallback(e,t,r)
+getDefaultIntegrations
+: 
+ƒ getDefaultIntegrations(e)
+getEventForEnvelopeItem
+: 
+ƒ getEventForEnvelopeItem(e,t)
+getInteractionCount
+: 
+()=>l?eZ:performance.interactionCount||0
+getInteractionCountForNavigation
+: 
+()=>getInteractionCount()-0
+getMetaContent
+: 
+ƒ getMetaContent(e)
+getNavigationEntry
+: 
+()=> {…}
+getOptions
+: 
+ƒ getOptions()
+getRating
+: 
+(e,t)=>e>t[1]?"poor":e>t[0]?"needs-improvement":"good"
+getSdkMetadataForEnvelopeHeader
+: 
+ƒ getSdkMetadataForEnvelopeHeader(e)
+getUrlFromResource
+: 
+ƒ getUrlFromResource(e)
+getVisibilityWatcher
+: 
+()=> {…}
+globalHandlersIntegration
+: 
+(e={})=> {…}
+hasProp
+: 
+ƒ hasProp(e,t)
+httpContextIntegration
+: 
+()=> {…}
+i
+: 
+undefined
+inboundFiltersIntegration
+: 
+(e={})=> {…}
+initHiddenTime
+: 
+()=> {…}
+initInteractionCountPolyfill
+: 
+()=> {…}
+initMetric
+: 
+(e,t)=> {…}
+instrumentCls
+: 
+ƒ instrumentCls()
+instrumentConsole
+: 
+ƒ instrumentConsole()
+instrumentDOM
+: 
+ƒ instrumentDOM()
+instrumentError
+: 
+ƒ instrumentError()
+instrumentFetch
+: 
+ƒ instrumentFetch(e,t=!1)
+instrumentFid
+: 
+ƒ instrumentFid()
+instrumentHistory
+: 
+ƒ instrumentHistory()
+instrumentInp
+: 
+ƒ instrumentInp()
+instrumentLcp
+: 
+ƒ instrumentLcp()
+instrumentTtfb
+: 
+ƒ instrumentTtfb()
+instrumentUnhandledRejection
+: 
+ƒ instrumentUnhandledRejection()
+instrumentXHR
+: 
+ƒ instrumentXHR()
+instrument_addHandler
+: 
+ƒ instrument_addHandler(e,t)
+instrument_triggerHandlers
+: 
+ƒ instrument_triggerHandlers(e,t)
+isErrorEvent
+: 
+ƒ isErrorEvent(e)
+isFullFinishedSpan
+: 
+ƒ isFullFinishedSpan(e)
+isMeasurementValue
+: 
+ƒ isMeasurementValue(e)
+isNativeFunction
+: 
+ƒ isNativeFunction(e)
+isSpanTimeInput
+: 
+ƒ isSpanTimeInput(e)
+isTransactionEvent
+: 
+ƒ isTransactionEvent(e)
+isWebAssemblyException
+: 
+ƒ isWebAssemblyException(e)
+j
+: 
+{}
+l
+: 
+undefined
+linkedErrorsIntegration
+: 
+(e={})=> {…}
+m
+: 
+{name: 'LCP', value: 2428, rating: 'good', delta: 516, entries: Array(1), …}
+makeDOMEventHandler
+: 
+ƒ makeDOMEventHandler(e,t=!1)
+makeFetchTransport
+: 
+ƒ makeFetchTransport(e,t=function(e)
+maybeInstrument
+: 
+ƒ maybeInstrument(e,t)
+msToSec
+: 
+ƒ msToSec(e)
+n
+: 
+ƒ toString()
+nextjsClientStackFrameNormalizationIntegration
+: 
+({assetPrefixPath:e})=> {…}
+o
+: 
+713
+observe
+: 
+(e,t,r)=> {…}
+onCLS
+: 
+(e,t={})=> {…}
+onFCP
+: 
+(e,t={})=> {…}
+onFID
+: 
+(e,t={})=> {…}
+onHidden
+: 
+e=> {…}
+onINP
+: 
+(e,t={})=> {…}
+onLCP
+: 
+(e,t={})=> {…}
+onTTFB
+: 
+(e,t={})=> {…}
+onVisibilityUpdate
+: 
+e=> {…}
+p
+: 
+{name: 'FID', value: 1, rating: 'good', delta: 1, entries: Array(1), …}
+parseSampleRate
+: 
+ƒ parseSampleRate(e)
+parseStackFrames
+: 
+ƒ parseStackFrames(e,t)
+processEntry
+: 
+e=> {…}
+q
+: 
+{}
+request_getFullURL
+: 
+ƒ request_getFullURL(e)
+resolve
+: 
+ƒ resolve(...e)
+resolveResponse
+: 
+async ƒ resolveResponse(e,t)
+rewriteFramesIntegration
+: 
+(e={})=> {…}
+runOnce
+: 
+e=>{let t=!1;return r=>{t||(e(r),t=!0)}}
+s
+: 
+undefined
+sentryNonRecordingSpan_SentryNonRecordingSpan
+: 
+class sentryNonRecordingSpan_SentryNonRecordingSpan
+setResourceEntrySizeData
+: 
+ƒ setResourceEntrySizeData(e,t,r,n)
+setupIntegration
+: 
+ƒ setupIntegration(e,t,r)
+startAndEndSpan
+: 
+ƒ startAndEndSpan(e,t,r,{...n})
+startBrowserTracingNavigationSpan
+: 
+ƒ startBrowserTracingNavigationSpan(e,t)
+startBrowserTracingPageLoadSpan
+: 
+ƒ startBrowserTracingPageLoadSpan(e,t,r)
+startIdleSpan
+: 
+ƒ startIdleSpan(e,t={})
+startInactiveSpan
+: 
+ƒ startInactiveSpan(e)
+(...)
+2
+: 
+Global
+0
+: 
+Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+1
+: 
+global {window: global, self: global, location: Location, closed: false, frames: global, …}
+CoinbaseWalletProvider
+: 
+class CoinbaseWalletProvider
+CoinbaseWalletSDK
+: 
+class CoinbaseWalletSDK
+SENTRY_RELEASE
+: 
+{id: '364a6769b9dfe0ba2325a189f6301f5809f55393'}
+WalletLink
+: 
+class CoinbaseWalletSDK
+WalletLinkProvider
+: 
+class CoinbaseWalletProvider
+alert
+: 
+ƒ alert()
+atob
+: 
+ƒ atob()
+blur
+: 
+ƒ blur()
+btoa
+: 
+ƒ btoa()
+caches
+: 
+CacheStorage {}
+cancelAnimationFrame
+: 
+ƒ cancelAnimationFrame()
+cancelIdleCallback
+: 
+ƒ cancelIdleCallback()
+captureEvents
+: 
+ƒ captureEvents()
+chrome
+: 
+{app: {…}, loadTimes: ƒ, csi: ƒ}
+clearImmediate
+: 
+ƒ clearImmediate(ei)
+clearInterval
+: 
+ƒ clearInterval()
+clearTimeout
+: 
+ƒ clearTimeout()
+clientInformation
+: 
+Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, scheduling: Scheduling, …}
+close
+: 
+ƒ close()
+closed
+: 
+false
+confirm
+: 
+ƒ confirm()
+cookieStore
+: 
+CookieStore {onchange: null}
+crashReport
+: 
+CrashReportStorage {}
+createImageBitmap
+: 
+ƒ createImageBitmap()
+credentialless
+: 
+false
+crossOriginIsolated
+: 
+false
+crypto
+: 
+Crypto {subtle: SubtleCrypto}
+customElements
+: 
+CustomElementRegistry {}
+devicePixelRatio
+: 
+0.6666666865348816
+document
+: 
+document
+documentPictureInPicture
+: 
+DocumentPictureInPicture {window: null, onenter: null}
+event
+: 
+undefined
+external
+: 
+External {}
+fence
+: 
+null
+fetch
+: 
+ƒ (...r)
+fetchLater
+: 
+ƒ fetchLater()
+find
+: 
+ƒ find()
+focus
+: 
+ƒ focus()
+frameElement
+: 
+null
+frames
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+getComputedStyle
+: 
+ƒ getComputedStyle()
+getDigitalGoodsService
+: 
+ƒ getDigitalGoodsService()
+getScreenDetails
+: 
+ƒ getScreenDetails()
+getSelection
+: 
+ƒ getSelection()
+history
+: 
+History {length: 4, scrollRestoration: 'auto', state: {…}, pushState: ƒ, replaceState: ƒ}
+indexedDB
+: 
+IDBFactory {}
+innerHeight
+: 
+2523
+innerWidth
+: 
+3190
+isSecureContext
+: 
+true
+keccak256
+: 
+ƒ keccak256(ei)
+keplrRequestMetaIdSupport
+: 
+true
+launchQueue
+: 
+LaunchQueue {}
+length
+: 
+2
+litElementVersions
+: 
+['3.3.3']
+litHtmlVersions
+: 
+['2.8.0']
+localStorage
+: 
+Storage {rk-version: '1.3.0', rk-latest-id: 'walletConnect', theme: 'dark', -walletlink:https://www.walletlink.org:session:linked: '0', WCM_VERSION: '2.6.2', …}
+location
+: 
+Location {ancestorOrigins: DOMStringList, href: 'https://www.canto.io/lending', origin: 'https://www.canto.io', protocol: 'https:', host: 'www.canto.io', …}
+locationbar
+: 
+BarProp {visible: true}
+matchMedia
+: 
+ƒ matchMedia()
+maximize
+: 
+ƒ maximize()
+menubar
+: 
+BarProp {visible: true}
+minimize
+: 
+ƒ minimize()
+moveBy
+: 
+ƒ moveBy()
+moveTo
+: 
+ƒ moveTo()
+name
+: 
+""
+navigation
+: 
+Navigation {currentEntry: NavigationHistoryEntry, transition: null, activation: NavigationActivation, canGoBack: true, canGoForward: false, …}
+navigator
+: 
+Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, scheduling: Scheduling, …}
+next
+: 
+{version: '13.5.6', appDir: true, router: {…}}
+onabort
+: 
+null
+onafterprint
+: 
+null
+onanimationend
+: 
+null
+onanimationiteration
+: 
+null
+onanimationstart
+: 
+null
+onappinstalled
+: 
+null
+onauxclick
+: 
+null
+onbeforeinput
+: 
+null
+onbeforeinstallprompt
+: 
+null
+onbeforematch
+: 
+null
+onbeforeprint
+: 
+null
+onbeforetoggle
+: 
+null
+onbeforeunload
+: 
+null
+onbeforexrselect
+: 
+null
+onblur
+: 
+null
+oncancel
+: 
+null
+oncanplay
+: 
+null
+oncanplaythrough
+: 
+null
+onchange
+: 
+null
+onclick
+: 
+null
+onclose
+: 
+null
+oncommand
+: 
+null
+oncontentvisibilityautostatechange
+: 
+null
+oncontextlost
+: 
+null
+oncontextmenu
+: 
+null
+oncontextrestored
+: 
+null
+oncuechange
+: 
+null
+ondblclick
+: 
+null
+ondevicemotion
+: 
+null
+ondeviceorientation
+: 
+null
+ondeviceorientationabsolute
+: 
+null
+ondrag
+: 
+null
+ondragend
+: 
+null
+ondragenter
+: 
+null
+ondragleave
+: 
+null
+ondragover
+: 
+null
+ondragstart
+: 
+null
+ondrop
+: 
+null
+ondurationchange
+: 
+null
+onemptied
+: 
+null
+onended
+: 
+null
+onerror
+: 
+ƒ (e,t,r,n,a)
+onfocus
+: 
+null
+onformdata
+: 
+null
+ongotpointercapture
+: 
+null
+onhashchange
+: 
+null
+oninput
+: 
+null
+oninvalid
+: 
+null
+onkeydown
+: 
+null
+onkeypress
+: 
+null
+onkeyup
+: 
+null
+onlanguagechange
+: 
+null
+onload
+: 
+ƒ (m)
+onloadeddata
+: 
+null
+onloadedmetadata
+: 
+null
+onloadstart
+: 
+null
+onlostpointercapture
+: 
+null
+onmessage
+: 
+null
+onmessageerror
+: 
+null
+onmousedown
+: 
+null
+onmouseenter
+: 
+null
+onmouseleave
+: 
+null
+onmousemove
+: 
+null
+onmouseout
+: 
+null
+onmouseover
+: 
+null
+onmouseup
+: 
+null
+onmousewheel
+: 
+null
+onmove
+: 
+null
+onoffline
+: 
+null
+ononline
+: 
+null
+onoverscroll
+: 
+null
+onpagehide
+: 
+null
+onpagereveal
+: 
+null
+onpageshow
+: 
+null
+onpageswap
+: 
+null
+onpause
+: 
+null
+onplay
+: 
+null
+onplaying
+: 
+null
+onpointercancel
+: 
+null
+onpointerdown
+: 
+null
+onpointerenter
+: 
+null
+onpointerleave
+: 
+null
+onpointermove
+: 
+null
+onpointerout
+: 
+null
+onpointerover
+: 
+null
+onpointerrawupdate
+: 
+null
+onpointerup
+: 
+null
+onpopstate
+: 
+ƒ (...t)
+onprogress
+: 
+null
+onratechange
+: 
+null
+onrejectionhandled
+: 
+null
+onreset
+: 
+null
+onresize
+: 
+null
+onscroll
+: 
+null
+onscrollend
+: 
+null
+onscrollsnapchange
+: 
+null
+onscrollsnapchanging
+: 
+null
+onsearch
+: 
+null
+onsecuritypolicyviolation
+: 
+null
+onseeked
+: 
+null
+onseeking
+: 
+null
+onselect
+: 
+null
+onselectionchange
+: 
+null
+onselectstart
+: 
+null
+onslotchange
+: 
+null
+onstalled
+: 
+null
+onstorage
+: 
+null
+onsubmit
+: 
+null
+onsuspend
+: 
+null
+ontimeupdate
+: 
+null
+ontimezonechange
+: 
+null
+ontoggle
+: 
+null
+ontransitioncancel
+: 
+null
+ontransitionend
+: 
+null
+ontransitionrun
+: 
+null
+ontransitionstart
+: 
+null
+onunhandledrejection
+: 
+ƒ (e)
+onunload
+: 
+null
+onvolumechange
+: 
+null
+onwaiting
+: 
+null
+onwebkitanimationend
+: 
+null
+onwebkitanimationiteration
+: 
+null
+onwebkitanimationstart
+: 
+null
+onwebkittransitionend
+: 
+null
+onwheel
+: 
+null
+open
+: 
+ƒ open()
+opener
+: 
+null
+origin
+: 
+"https://www.canto.io"
+originAgentCluster
+: 
+true
+outerHeight
+: 
+1760
+(...)
+U
+: 
+Array(3)
+0
+: 
+"FunctionToString"
+1
+: 
+"BrowserApiErrors"
+2
+: 
+"GlobalHandlers"
+length
+: 
+3
+[[Prototype]]
+: 
+Array(0)
+a
+: 
+"/lending"
+addBreadcrumb
+: 
+ƒ addBreadcrumb(e,t)
+addChangeListeners
+: 
+()=> {…}
+addClsInstrumentationHandler
+: 
+ƒ addClsInstrumentationHandler(e,t=!1)
+addFetchInstrumentationHandler
+: 
+ƒ addFetchInstrumentationHandler(e,t)
+addGlobalErrorInstrumentationHandler
+: 
+ƒ addGlobalErrorInstrumentationHandler(e)
+addGlobalUnhandledRejectionInstrumentationHandler
+: 
+ƒ addGlobalUnhandledRejectionInstrumentationHandler(e)
+addHTTPTimings
+: 
+ƒ addHTTPTimings(e)
+addHandler
+: 
+ƒ addHandler(e,t)
+addHistoryInstrumentationHandler
+: 
+ƒ addHistoryInstrumentationHandler(e)
+addMetricObserver
+: 
+ƒ addMetricObserver(e,t,r,n,a=!1)
+addPerformanceInstrumentationHandler
+: 
+ƒ addPerformanceInstrumentationHandler(e,t)
+addXhrInstrumentationHandler
+: 
+ƒ addXhrInstrumentationHandler(e)
+afterSetupIntegrations
+: 
+ƒ afterSetupIntegrations(e,t)
+applyExceptionGroupFieldsForChildException
+: 
+ƒ applyExceptionGroupFieldsForChildException(e,t,r,n)
+applyExceptionGroupFieldsForParentException
+: 
+ƒ applyExceptionGroupFieldsForParentException(e,t)
+applySdkMetadata
+: 
+ƒ applySdkMetadata(e,t,r=[t],n="npm")
+b
+: 
+undefined
+bindReporter
+: 
+(e,t,r,n)=> {…}
+breadcrumbsIntegration
+: 
+(e={})=> {…}
+browserApiErrorsIntegration
+: 
+(e={})=> {…}
+browserTracingIntegration
+: 
+(e={})=> {…}
+client_init
+: 
+ƒ client_init(e)
+createEnvelope
+: 
+ƒ createEnvelope(e,t=[])
+createFrame
+: 
+ƒ createFrame(e,t,r,n)
+dedupeIntegration
+: 
+()=> {…}
+dsnFromComponents
+: 
+ƒ dsnFromComponents(e)
+dsnFromString
+: 
+ƒ dsnFromString(e)
+dsn_dsnToString
+: 
+ƒ dsn_dsnToString(e,t=!1)
+e0
+: 
+(2) [200, 500]
+e1
+: 
+(5) [{…}, {…}, {…}, {…}, {…}]
+e2
+: 
+(2) [2500, 4000]
+e3
+: 
+{5355: {…}, 5362: {…}, 5369: {…}, 5376: {…}, 5397: {…}}
+e4
+: 
+{v3-1759065996869-9186986927175: true}
+e5
+: 
+(2) [800, 1800]
+e6
+: 
+{fid: true, lcp: true, ttfb: true, cls: true, inp: true, …}
+e7
+: 
+{}
+e8
+: 
+{fid: Array(0), lcp: Array(0), ttfb: Array(0), cls: Array(0), inp: Array(1), …}
+e9
+: 
+205
+e$
+: 
+{}
+eA
+: 
+/^\s*(.*?)(?:\((.*?)\))?(?:^|@)?((?:[-a-z]+)?:\/.*?|\[native code\]|[^@]*(?:bundle|\d+\.js)|\/[\w\-. /=]+)(?::(\d+))?(?::(\d+))?\s*$/i
+eB
+: 
+{}
+eC
+: 
+/\((\S*)(?::(\d+))(?::(\d+))\)/
+eD
+: 
+{title: 'browser', browser: true, env: {…}, argv: Array(0), nextTick: ƒ, …}
+eE
+: 
+{}
+eF
+: 
+{…}
+eG
+: 
+"_sentryScope"
+eH
+: 
+{}
+eI
+: 
+(e,r=0,i=0)=> {…}
+eJ
+: 
+"__SENTRY_SUPPRESS_TRACING__"
+eK
+: 
+Infinity
+eL
+: 
+{Children: {…}, Fragment: Symbol(react.fragment), Profiler: Symbol(react.profiler), Component: ƒ, PureComponent: ƒ, …}
+eM
+: 
+/(\S+) line (\d+)(?: > eval line \d+)* > eval/i
+eN
+: 
+{fetch: ƒ}
+eO
+: 
+null
+eP
+: 
+(6) ['fatal', 'error', 'warning', 'log', 'info', 'debug']
+eQ
+: 
+0
+eR
+: 
+(31) ['EventTarget', 'Window', 'Node', 'ApplicationCache', 'AudioTrackList', 'BroadcastChannel', 'ChannelMergerNode', 'CryptoOperation', 'EventSource', 'FileReader', 'HTMLUnknownElement', 'IDBDatabase', 'IDBRequest', 'IDBTransaction', 'KeyOperation', 'MediaController', 'MessagePort', 'ModalWindow', 'Notification', 'SVGElementInstance', 'Screen', 'SharedWorker', 'TextTrack', 'TextTrackCue', 'TextTrackList', 'WebSocket', 'WebSocketWorker', 'Worker', 'XMLHttpRequest', 'XMLHttpRequestEventTarget', 'XMLHttpRequestUpload']
+eS
+: 
+"__sentry_xhr_v3__"
+eT
+: 
+null
+eU
+: 
+{}
+eV
+: 
+(2) [0.1, 0.25]
+eW
+: 
+{}
+eX
+: 
+74983.60000002384
+eY
+: 
+(2) [100, 300]
+eZ
+: 
+0
+e_
+: 
+/Minified React error #\d+;/i
+ea
+: 
+{error: true, unhandledrejection: true, console: true, dom: true, xhr: true, …}
+eb
+: 
+0
+ec
+: 
+{}
+ed
+: 
+{session: 'session', sessions: 'session', attachment: 'attachment', transaction: 'transaction', event: 'error', …}
+ee
+: 
+{}
+ef
+: 
+{}
+eg
+: 
+{}
+eh
+: 
+{…}
+ei
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+el
+: 
+{…}
+em
+: 
+{}
+en
+: 
+{error: Array(2), unhandledrejection: Array(2), console: Array(1), dom: Array(1), xhr: Array(2), …}
+encodeUTF8
+: 
+ƒ encodeUTF8(e)
+eo
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+ep
+: 
+{}
+eq
+: 
+"_sentryIsolationScope"
+er
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+errorCallback
+: 
+ƒ errorCallback()
+es
+: 
+/^(?:(\w+):)\/\/(?:(\w+)(?::(\w+)?)?@)([\w.-]+)(?::(\d+))?\/(.+)/
+estimateP98LongestInteraction
+: 
+()=> {…}
+et
+: 
+{}
+eu
+: 
+{}
+ev
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+eventFromError
+: 
+ƒ eventFromError(e,t)
+eventFromString
+: 
+ƒ eventFromString(e,t,r,n)
+eventFromUnknownInput
+: 
+ƒ eventFromUnknownInput(e,t,r,n,a)
+ew
+: 
+/^\s*at (\S+?)(?::(\d+))(?::(\d+))\s*$/i
+ex
+: 
+/^\s*at (?:(.+?\)(?: \[.+\])?|.*?) ?\((?:address at )?)?(?:async )?((?:<anonymous>|[-a-z]+:|.*bundle|\/)?.*?)(?::(\d+))?(?::(\d+))?\)?\s*$/i
+exceptionFromError
+: 
+ƒ exceptionFromError(e,t)
+extractSafariExtensionDetails
+: 
+(e,t)=> {…}
+ey
+: 
+"Not capturing exception because it's already been captured."
+ez
+: 
+(2) [1800, 3000]
+forEachEnvelopeItem
+: 
+ƒ forEachEnvelopeItem(e,t)
+functionToStringIntegration
+: 
+()=> {…}
+generateUniqueID
+: 
+()=> {…}
+getAbsoluteTime
+: 
+ƒ getAbsoluteTime(e=0)
+getAcs
+: 
+ƒ getAcs()
+getActivationStart
+: 
+()=> {…}
+getBreadcrumbLogLevelFromHttpStatusCode
+: 
+ƒ getBreadcrumbLogLevelFromHttpStatusCode(e)
+getBrowserPerformanceAPI
+: 
+ƒ getBrowserPerformanceAPI()
+getCapturedScopesOnSpan
+: 
+ƒ getCapturedScopesOnSpan(e)
+getCleanupCallback
+: 
+ƒ getCleanupCallback(e,t,r)
+getDefaultIntegrations
+: 
+ƒ getDefaultIntegrations(e)
+getEventForEnvelopeItem
+: 
+ƒ getEventForEnvelopeItem(e,t)
+getInteractionCount
+: 
+()=>l?eZ:performance.interactionCount||0
+getInteractionCountForNavigation
+: 
+()=>getInteractionCount()-0
+getMetaContent
+: 
+ƒ getMetaContent(e)
+getNavigationEntry
+: 
+()=> {…}
+getOptions
+: 
+ƒ getOptions()
+getRating
+: 
+(e,t)=>e>t[1]?"poor":e>t[0]?"needs-improvement":"good"
+getSdkMetadataForEnvelopeHeader
+: 
+ƒ getSdkMetadataForEnvelopeHeader(e)
+getUrlFromResource
+: 
+ƒ getUrlFromResource(e)
+getVisibilityWatcher
+: 
+()=> {…}
+globalHandlersIntegration
+: 
+(e={})=> {…}
+hasProp
+: 
+ƒ hasProp(e,t)
+httpContextIntegration
+: 
+()=> {…}
+i
+: 
+undefined
+inboundFiltersIntegration
+: 
+(e={})=> {…}
+initHiddenTime
+: 
+()=> {…}
+initInteractionCountPolyfill
+: 
+()=> {…}
+initMetric
+: 
+(e,t)=> {…}
+instrumentCls
+: 
+ƒ instrumentCls()
+instrumentConsole
+: 
+ƒ instrumentConsole()
+instrumentDOM
+: 
+ƒ instrumentDOM()
+instrumentError
+: 
+ƒ instrumentError()
+instrumentFetch
+: 
+ƒ instrumentFetch(e,t=!1)
+instrumentFid
+: 
+ƒ instrumentFid()
+instrumentHistory
+: 
+ƒ instrumentHistory()
+instrumentInp
+: 
+ƒ instrumentInp()
+instrumentLcp
+: 
+ƒ instrumentLcp()
+instrumentTtfb
+: 
+ƒ instrumentTtfb()
+instrumentUnhandledRejection
+: 
+ƒ instrumentUnhandledRejection()
+instrumentXHR
+: 
+ƒ instrumentXHR()
+instrument_addHandler
+: 
+ƒ instrument_addHandler(e,t)
+instrument_triggerHandlers
+: 
+ƒ instrument_triggerHandlers(e,t)
+isErrorEvent
+: 
+ƒ isErrorEvent(e)
+isFullFinishedSpan
+: 
+ƒ isFullFinishedSpan(e)
+isMeasurementValue
+: 
+ƒ isMeasurementValue(e)
+isNativeFunction
+: 
+ƒ isNativeFunction(e)
+isSpanTimeInput
+: 
+ƒ isSpanTimeInput(e)
+isTransactionEvent
+: 
+ƒ isTransactionEvent(e)
+isWebAssemblyException
+: 
+ƒ isWebAssemblyException(e)
+j
+: 
+{}
+l
+: 
+undefined
+linkedErrorsIntegration
+: 
+(e={})=> {…}
+m
+: 
+{name: 'LCP', value: 2428, rating: 'good', delta: 516, entries: Array(1), …}
+makeDOMEventHandler
+: 
+ƒ makeDOMEventHandler(e,t=!1)
+makeFetchTransport
+: 
+ƒ makeFetchTransport(e,t=function(e)
+maybeInstrument
+: 
+ƒ maybeInstrument(e,t)
+msToSec
+: 
+ƒ msToSec(e)
+n
+: 
+ƒ toString()
+nextjsClientStackFrameNormalizationIntegration
+: 
+({assetPrefixPath:e})=> {…}
+o
+: 
+713
+observe
+: 
+(e,t,r)=> {…}
+onCLS
+: 
+(e,t={})=> {…}
+onFCP
+: 
+(e,t={})=> {…}
+onFID
+: 
+(e,t={})=> {…}
+onHidden
+: 
+e=> {…}
+onINP
+: 
+(e,t={})=> {…}
+onLCP
+: 
+(e,t={})=> {…}
+onTTFB
+: 
+(e,t={})=> {…}
+onVisibilityUpdate
+: 
+e=> {…}
+p
+: 
+{name: 'FID', value: 1, rating: 'good', delta: 1, entries: Array(1), …}
+parseSampleRate
+: 
+ƒ parseSampleRate(e)
+parseStackFrames
+: 
+ƒ parseStackFrames(e,t)
+processEntry
+: 
+e=> {…}
+q
+: 
+{}
+request_getFullURL
+: 
+ƒ request_getFullURL(e)
+resolve
+: 
+ƒ resolve(...e)
+resolveResponse
+: 
+async ƒ resolveResponse(e,t)
+rewriteFramesIntegration
+: 
+(e={})=> {…}
+runOnce
+: 
+e=>{let t=!1;return r=>{t||(e(r),t=!0)}}
+s
+: 
+undefined
+sentryNonRecordingSpan_SentryNonRecordingSpan
+: 
+class sentryNonRecordingSpan_SentryNonRecordingSpan
+setResourceEntrySizeData
+: 
+ƒ setResourceEntrySizeData(e,t,r,n)
+setupIntegration
+: 
+ƒ setupIntegration(e,t,r)
+startAndEndSpan
+: 
+ƒ startAndEndSpan(e,t,r,{...n})
+startBrowserTracingNavigationSpan
+: 
+ƒ startBrowserTracingNavigationSpan(e,t)
+startBrowserTracingPageLoadSpan
+: 
+ƒ startBrowserTracingPageLoadSpan(e,t,r)
+startIdleSpan
+: 
+ƒ startIdleSpan(e,t={})
+startInactiveSpan
+: 
+ƒ startInactiveSpan(e)
+(...)
+3
+: 
+Global
+0
+: 
+Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+1
+: 
+global {window: global, self: global, location: Location, closed: false, frames: global, …}
+CoinbaseWalletProvider
+: 
+class CoinbaseWalletProvider
+CoinbaseWalletSDK
+: 
+class CoinbaseWalletSDK
+SENTRY_RELEASE
+: 
+{id: '364a6769b9dfe0ba2325a189f6301f5809f55393'}
+WalletLink
+: 
+class CoinbaseWalletSDK
+WalletLinkProvider
+: 
+class CoinbaseWalletProvider
+alert
+: 
+ƒ alert()
+atob
+: 
+ƒ atob()
+blur
+: 
+ƒ blur()
+btoa
+: 
+ƒ btoa()
+caches
+: 
+CacheStorage {}
+cancelAnimationFrame
+: 
+ƒ cancelAnimationFrame()
+cancelIdleCallback
+: 
+ƒ cancelIdleCallback()
+captureEvents
+: 
+ƒ captureEvents()
+chrome
+: 
+{app: {…}, loadTimes: ƒ, csi: ƒ}
+clearImmediate
+: 
+ƒ clearImmediate(ei)
+clearInterval
+: 
+ƒ clearInterval()
+clearTimeout
+: 
+ƒ clearTimeout()
+clientInformation
+: 
+Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, scheduling: Scheduling, …}
+close
+: 
+ƒ close()
+closed
+: 
+false
+confirm
+: 
+ƒ confirm()
+cookieStore
+: 
+CookieStore {onchange: null}
+crashReport
+: 
+CrashReportStorage {}
+createImageBitmap
+: 
+ƒ createImageBitmap()
+credentialless
+: 
+false
+crossOriginIsolated
+: 
+false
+crypto
+: 
+Crypto {subtle: SubtleCrypto}
+customElements
+: 
+CustomElementRegistry {}
+devicePixelRatio
+: 
+0.6666666865348816
+document
+: 
+document
+documentPictureInPicture
+: 
+DocumentPictureInPicture {window: null, onenter: null}
+event
+: 
+undefined
+external
+: 
+External {}
+fence
+: 
+null
+fetch
+: 
+ƒ (...r)
+fetchLater
+: 
+ƒ fetchLater()
+find
+: 
+ƒ find()
+focus
+: 
+ƒ focus()
+frameElement
+: 
+null
+frames
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+getComputedStyle
+: 
+ƒ getComputedStyle()
+getDigitalGoodsService
+: 
+ƒ getDigitalGoodsService()
+getScreenDetails
+: 
+ƒ getScreenDetails()
+getSelection
+: 
+ƒ getSelection()
+history
+: 
+History {length: 4, scrollRestoration: 'auto', state: {…}, pushState: ƒ, replaceState: ƒ}
+indexedDB
+: 
+IDBFactory {}
+innerHeight
+: 
+2523
+innerWidth
+: 
+3190
+isSecureContext
+: 
+true
+keccak256
+: 
+ƒ keccak256(ei)
+keplrRequestMetaIdSupport
+: 
+true
+launchQueue
+: 
+LaunchQueue {}
+length
+: 
+2
+litElementVersions
+: 
+['3.3.3']
+litHtmlVersions
+: 
+['2.8.0']
+localStorage
+: 
+Storage {rk-version: '1.3.0', rk-latest-id: 'walletConnect', theme: 'dark', -walletlink:https://www.walletlink.org:session:linked: '0', WCM_VERSION: '2.6.2', …}
+location
+: 
+Location {ancestorOrigins: DOMStringList, href: 'https://www.canto.io/lending', origin: 'https://www.canto.io', protocol: 'https:', host: 'www.canto.io', …}
+locationbar
+: 
+BarProp {visible: true}
+matchMedia
+: 
+ƒ matchMedia()
+maximize
+: 
+ƒ maximize()
+menubar
+: 
+BarProp {visible: true}
+minimize
+: 
+ƒ minimize()
+moveBy
+: 
+ƒ moveBy()
+moveTo
+: 
+ƒ moveTo()
+name
+: 
+""
+navigation
+: 
+Navigation {currentEntry: NavigationHistoryEntry, transition: null, activation: NavigationActivation, canGoBack: true, canGoForward: false, …}
+navigator
+: 
+Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, scheduling: Scheduling, …}
+next
+: 
+{version: '13.5.6', appDir: true, router: {…}}
+onabort
+: 
+null
+onafterprint
+: 
+null
+onanimationend
+: 
+null
+onanimationiteration
+: 
+null
+onanimationstart
+: 
+null
+onappinstalled
+: 
+null
+onauxclick
+: 
+null
+onbeforeinput
+: 
+null
+onbeforeinstallprompt
+: 
+null
+onbeforematch
+: 
+null
+onbeforeprint
+: 
+null
+onbeforetoggle
+: 
+null
+onbeforeunload
+: 
+null
+onbeforexrselect
+: 
+null
+onblur
+: 
+null
+oncancel
+: 
+null
+oncanplay
+: 
+null
+oncanplaythrough
+: 
+null
+onchange
+: 
+null
+onclick
+: 
+null
+onclose
+: 
+null
+oncommand
+: 
+null
+oncontentvisibilityautostatechange
+: 
+null
+oncontextlost
+: 
+null
+oncontextmenu
+: 
+null
+oncontextrestored
+: 
+null
+oncuechange
+: 
+null
+ondblclick
+: 
+null
+ondevicemotion
+: 
+null
+ondeviceorientation
+: 
+null
+ondeviceorientationabsolute
+: 
+null
+ondrag
+: 
+null
+ondragend
+: 
+null
+ondragenter
+: 
+null
+ondragleave
+: 
+null
+ondragover
+: 
+null
+ondragstart
+: 
+null
+ondrop
+: 
+null
+ondurationchange
+: 
+null
+onemptied
+: 
+null
+onended
+: 
+null
+onerror
+: 
+ƒ (e,t,r,n,a)
+onfocus
+: 
+null
+onformdata
+: 
+null
+ongotpointercapture
+: 
+null
+onhashchange
+: 
+null
+oninput
+: 
+null
+oninvalid
+: 
+null
+onkeydown
+: 
+null
+onkeypress
+: 
+null
+onkeyup
+: 
+null
+onlanguagechange
+: 
+null
+onload
+: 
+ƒ (m)
+onloadeddata
+: 
+null
+onloadedmetadata
+: 
+null
+onloadstart
+: 
+null
+onlostpointercapture
+: 
+null
+onmessage
+: 
+null
+onmessageerror
+: 
+null
+onmousedown
+: 
+null
+onmouseenter
+: 
+null
+onmouseleave
+: 
+null
+onmousemove
+: 
+null
+onmouseout
+: 
+null
+onmouseover
+: 
+null
+onmouseup
+: 
+null
+onmousewheel
+: 
+null
+onmove
+: 
+null
+onoffline
+: 
+null
+ononline
+: 
+null
+onoverscroll
+: 
+null
+onpagehide
+: 
+null
+onpagereveal
+: 
+null
+onpageshow
+: 
+null
+onpageswap
+: 
+null
+onpause
+: 
+null
+onplay
+: 
+null
+onplaying
+: 
+null
+onpointercancel
+: 
+null
+onpointerdown
+: 
+null
+onpointerenter
+: 
+null
+onpointerleave
+: 
+null
+onpointermove
+: 
+null
+onpointerout
+: 
+null
+onpointerover
+: 
+null
+onpointerrawupdate
+: 
+null
+onpointerup
+: 
+null
+onpopstate
+: 
+ƒ (...t)
+onprogress
+: 
+null
+onratechange
+: 
+null
+onrejectionhandled
+: 
+null
+onreset
+: 
+null
+onresize
+: 
+null
+onscroll
+: 
+null
+onscrollend
+: 
+null
+onscrollsnapchange
+: 
+null
+onscrollsnapchanging
+: 
+null
+onsearch
+: 
+null
+onsecuritypolicyviolation
+: 
+null
+onseeked
+: 
+null
+onseeking
+: 
+null
+onselect
+: 
+null
+onselectionchange
+: 
+null
+onselectstart
+: 
+null
+onslotchange
+: 
+null
+onstalled
+: 
+null
+onstorage
+: 
+null
+onsubmit
+: 
+null
+onsuspend
+: 
+null
+ontimeupdate
+: 
+null
+ontimezonechange
+: 
+null
+ontoggle
+: 
+null
+ontransitioncancel
+: 
+null
+ontransitionend
+: 
+null
+ontransitionrun
+: 
+null
+ontransitionstart
+: 
+null
+onunhandledrejection
+: 
+ƒ (e)
+onunload
+: 
+null
+onvolumechange
+: 
+null
+onwaiting
+: 
+null
+onwebkitanimationend
+: 
+null
+onwebkitanimationiteration
+: 
+null
+onwebkitanimationstart
+: 
+null
+onwebkittransitionend
+: 
+null
+onwheel
+: 
+null
+open
+: 
+ƒ open()
+opener
+: 
+null
+origin
+: 
+"https://www.canto.io"
+originAgentCluster
+: 
+true
+outerHeight
+: 
+1760
+(...)
+fetchLater
+: 
+ƒ fetchLater()
+find
+: 
+ƒ find()
+focus
+: 
+ƒ focus()
+frameElement
+: 
+null
+frames
+: 
+Window {0: Window, 1: global, window: Window, self: Window, document: document, name: '', location: Location, …}
+getComputedStyle
+: 
+ƒ getComputedStyle()
+getDigitalGoodsService
+: 
+ƒ getDigitalGoodsService()
+getScreenDetails
+: 
+ƒ getScreenDetails()
+getSelection
+: 
+ƒ getSelection()
+history
+: 
+History {length: 4, scrollRestoration: 'auto', state: {…}, pushState: ƒ, replaceState: ƒ}
+indexedDB
+: 
+IDBFactory {}
+innerHeight
+: 
+2523
+innerWidth
+: 
+3190
+isSecureContext
+: 
+true
+keccak256
+: 
+ƒ keccak256(ei)
+keplrRequestMetaIdSupport
+: 
+true
+launchQueue
+: 
+LaunchQueue {}
+length
+: 
+2
+litElementVersions
+: 
+['3.3.3']
+litHtmlVersions
+: 
+['2.8.0']
+localStorage
+: 
+Storage {rk-version: '1.3.0', rk-latest-id: 'walletConnect', theme: 'dark', -walletlink:https://www.walletlink.org:session:linked: '0', WCM_VERSION: '2.6.2', …}
+location
+: 
+Location {ancestorOrigins: DOMStringList, href: 'https://www.canto.io/lending', origin: 'https://www.canto.io', protocol: 'https:', host: 'www.canto.io', …}
+locationbar
+: 
+BarProp {visible: true}
+matchMedia
+: 
+ƒ matchMedia()
+maximize
+: 
+ƒ maximize()
+menubar
+: 
+BarProp {visible: true}
+minimize
+: 
+ƒ minimize()
+moveBy
+: 
+ƒ moveBy()
+moveTo
+: 
+ƒ moveTo()
+name
+: 
+""
+navigation
+: 
+Navigation {currentEntry: NavigationHistoryEntry, transition: null, activation: NavigationActivation, canGoBack: true, canGoForward: false, …}
+navigator
+: 
+Navigator {vendorSub: '', productSub: '20030107', vendor: 'Google Inc.', maxTouchPoints: 0, scheduling: Scheduling, …}
+next
+: 
+{version: '13.5.6', appDir: true, router: {…}}
+onabort
+: 
+null
+onafterprint
+: 
+null
+onanimationend
+: 
+null
+onanimationiteration
+: 
+null
+onanimationstart
+: 
+null
+onappinstalled
+: 
+null
+onauxclick
+: 
+null
+onbeforeinput
+: 
+null
+onbeforeinstallprompt
+: 
+null
+onbeforematch
+: 
+null
+onbeforeprint
+: 
+null
+onbeforetoggle
+: 
+null
+onbeforeunload
+: 
+null
+onbeforexrselect
+: 
+null
+onblur
+: 
+null
+oncancel
+: 
+null
+oncanplay
+: 
+null
+oncanplaythrough
+: 
+null
+onchange
+: 
+null
+onclick
+: 
+null
+onclose
+: 
+null
+oncommand
+: 
+null
+oncontentvisibilityautostatechange
+: 
+null
+oncontextlost
+: 
+null
+oncontextmenu
+: 
+null
+oncontextrestored
+: 
+null
+oncuechange
+: 
+null
+ondblclick
+: 
+null
+ondevicemotion
+: 
+null
+ondeviceorientation
+: 
+null
+ondeviceorientationabsolute
+: 
+null
+ondrag
+: 
+null
+ondragend
+: 
+null
+ondragenter
+: 
+null
+ondragleave
+: 
+null
+ondragover
+: 
+null
+ondragstart
+: 
+null
+ondrop
+: 
+null
+ondurationchange
+: 
+null
+onemptied
+: 
+null
+onended
+: 
+null
+onerror
+: 
+ƒ (e,t,r,n,a)
+onfocus
+: 
+null
+onformdata
+: 
+null
+ongotpointercapture
+: 
+null
+onhashchange
+: 
+null
+oninput
+: 
+null
+oninvalid
+: 
+null
+onkeydown
+: 
+null
+onkeypress
+: 
+null
+onkeyup
+: 
+null
+onlanguagechange
+: 
+null
+onload
+: 
+ƒ (m)
+onloadeddata
+: 
+null
+onloadedmetadata
+: 
+null
+onloadstart
+: 
+null
+onlostpointercapture
+: 
+null
+onmessage
+: 
+null
+onmessageerror
+: 
+null
+onmousedown
+: 
+null
+onmouseenter
+: 
+null
+onmouseleave
+: 
+null
+onmousemove
+: 
+null
+onmouseout
+: 
+null
+onmouseover
+: 
+null
+onmouseup
+: 
+null
+onmousewheel
+: 
+null
+onmove
+: 
+null
+onoffline
+: 
+null
+ononline
+: 
+null
+onoverscroll
+: 
+null
+onpagehide
+: 
+null
+onpagereveal
+: 
+null
+onpageshow
+: 
+null
+onpageswap
+: 
+null
+onpause
+: 
+null
+onplay
+: 
+null
+onplaying
+: 
+null
+onpointercancel
+: 
+null
+onpointerdown
+: 
+null
+onpointerenter
+: 
+null
+onpointerleave
+: 
+null
+onpointermove
+: 
+null
+onpointerout
+: 
+null
+onpointerover
+: 
+null
+onpointerrawupdate
+: 
+null
+onpointerup
+: 
+null
+onpopstate
+: 
+ƒ (...t)
+onprogress
+: 
+null
+onratechange
+: 
+null
+onrejectionhandled
+: 
+null
+onreset
+: 
+null
+onresize
+: 
+null
+onscroll
+: 
+null
+onscrollend
+: 
+null
+onscrollsnapchange
+: 
+null
+onscrollsnapchanging
+: 
+null
+onsearch
+: 
+null
+onsecuritypolicyviolation
+: 
+null
+onseeked
+: 
+null
+onseeking
+: 
+null
+onselect
+: 
+null
+onselectionchange
+: 
+null
+onselectstart
+: 
+null
+onslotchange
+: 
+null
+onstalled
+: 
+null
+onstorage
+: 
+null
+onsubmit
+: 
+null
+onsuspend
+: 
+null
+ontimeupdate
+: 
+null
+ontimezonechange
+: 
+null
+ontoggle
+: 
+null
+ontransitioncancel
+: 
+null
+ontransitionend
+: 
+null
+ontransitionrun
+: 
+null
+ontransitionstart
+: 
+null
+onunhandledrejection
+: 
+ƒ (e)
+onunload
+: 
+null
+onvolumechange
+: 
+null
+onwaiting
+: 
+null
+onwebkitanimationend
+: 
+null
+onwebkitanimationiteration
+: 
+null
+onwebkitanimationstart
+: 
+null
+onwebkittransitionend
+: 
+null
+onwheel
+: 
+null
+open
+: 
+ƒ open()
+opener
+: 
+null
+origin
+: 
+"https://www.canto.io"
+originAgentCluster
+: 
+true
+outerHeight
+: 
+1760
+(...)
+trustedTypes
+: 
+TrustedTypePolicyFactory
+defaultPolicy
+: 
+null
+emptyHTML
+: 
+TrustedHTML ""
+emptyScript
+: 
+TrustedScript ""
+onbeforecreatepolicy
+: 
+null
+[[Prototype]]
+: 
+TrustedTypePolicyFactory
+viewport
+: 
+Viewport {segments: null}
+visualViewport
+: 
+VisualViewport {offsetLeft: 0, offsetTop: 0, pageLeft: 0, pageTop: 0, width: 0, …}
+webkitCancelAnimationFrame
+: 
+ƒ webkitCancelAnimationFrame()
+webkitRequestAnimationFrame
+: 
+ƒ webkitRequestAnimationFrame()
+webkitRequestFileSystem
+: 
+ƒ webkitRequestFileSystem()
+webkitResolveLocalFileSystemURL
+: 
+ƒ webkitResolveLocalFileSystemURL()
+window
+: 
+Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+__CF$cv$params
+: 
+{r: '986392ca0f06a2b3', t: 'MTc1OTA2NTk5NQ=='}
+_cf_chl_opt
+: 
+{VreZ8: 'b'}
+Infinity
+: 
+Infinity
+AbortController
+: 
+ƒ AbortController()
+AbortSignal
+: 
+ƒ AbortSignal()
+AbsoluteOrientationSensor
+: 
+ƒ AbsoluteOrientationSensor()
+AbstractRange
+: 
+ƒ AbstractRange()
+Accelerometer
+: 
+ƒ Accelerometer()
+AggregateError
+: 
+ƒ AggregateError()
+AmbientLightSensor
+: 
+ƒ AmbientLightSensor()
+AnalyserNode
+: 
+ƒ AnalyserNode()
+Animation
+: 
+ƒ Animation()
+AnimationEffect
+: 
+ƒ AnimationEffect()
+AnimationEvent
+: 
+ƒ AnimationEvent()
+AnimationPlaybackEvent
+: 
+ƒ AnimationPlaybackEvent()
+AnimationTimeline
+: 
+ƒ AnimationTimeline()
+AnimationTrigger
+: 
+ƒ AnimationTrigger()
+Array
+: 
+ƒ Array()
+ArrayBuffer
+: 
+ƒ ArrayBuffer()
+AsyncDisposableStack
+: 
+ƒ AsyncDisposableStack()
+Atomics
+: 
+Atomics {load: ƒ, store: ƒ, add: ƒ, sub: ƒ, and: ƒ, …}
+Attr
+: 
+ƒ Attr()
+AttributePart
+: 
+ƒ AttributePart()
+Audio
+: 
+ƒ Audio()
+AudioBuffer
+: 
+ƒ AudioBuffer()
+AudioBufferSourceNode
+: 
+ƒ AudioBufferSourceNode()
+AudioContext
+: 
+ƒ AudioContext()
+AudioData
+: 
+ƒ AudioData()
+AudioDecoder
+: 
+ƒ AudioDecoder()
+AudioDestinationNode
+: 
+ƒ AudioDestinationNode()
+AudioEncoder
+: 
+ƒ AudioEncoder()
+AudioListener
+: 
+ƒ AudioListener()
+AudioNode
+: 
+ƒ AudioNode()
+AudioParam
+: 
+ƒ AudioParam()
+AudioParamMap
+: 
+ƒ AudioParamMap()
+AudioPlayoutStats
+: 
+ƒ AudioPlayoutStats()
+AudioProcessingEvent
+: 
+ƒ AudioProcessingEvent()
+AudioScheduledSourceNode
+: 
+ƒ AudioScheduledSourceNode()
+AudioSinkInfo
+: 
+ƒ AudioSinkInfo()
+AudioTrack
+: 
+ƒ AudioTrack()
+AudioTrackList
+: 
+ƒ AudioTrackList()
+AudioWorklet
+: 
+ƒ AudioWorklet()
+AudioWorkletNode
+: 
+ƒ AudioWorkletNode()
+AuthenticatorAssertionResponse
+: 
+ƒ AuthenticatorAssertionResponse()
+AuthenticatorAttestationResponse
+: 
+ƒ AuthenticatorAttestationResponse()
+AuthenticatorResponse
+: 
+ƒ AuthenticatorResponse()
+BackForwardCacheRestoration
+: 
+ƒ BackForwardCacheRestoration()
+BackgroundFetchManager
+: 
+ƒ BackgroundFetchManager()
+BackgroundFetchRecord
+: 
+ƒ BackgroundFetchRecord()
+BackgroundFetchRegistration
+: 
+ƒ BackgroundFetchRegistration()
+BarProp
+: 
+ƒ BarProp()
+BaseAudioContext
+: 
+ƒ BaseAudioContext()
+BatteryManager
+: 
+ƒ BatteryManager()
+BeforeCreatePolicyEvent
+: 
+ƒ BeforeCreatePolicyEvent()
+BeforeInstallPromptEvent
+: 
+ƒ BeforeInstallPromptEvent()
+BeforeUnloadEvent
+: 
+ƒ BeforeUnloadEvent()
+BigInt
+: 
+ƒ BigInt()
+BigInt64Array
+: 
+ƒ BigInt64Array()
+BigUint64Array
+: 
+ƒ BigUint64Array()
+BiquadFilterNode
+: 
+ƒ BiquadFilterNode()
+Blob
+: 
+ƒ Blob()
+BlobEvent
+: 
+ƒ BlobEvent()
+Bluetooth
+: 
+ƒ Bluetooth()
+BluetoothAdvertisingEvent
+: 
+ƒ BluetoothAdvertisingEvent()
+BluetoothCharacteristicProperties
+: 
+ƒ BluetoothCharacteristicProperties()
+BluetoothDevice
+: 
+ƒ BluetoothDevice()
+BluetoothLEScan
+: 
+ƒ BluetoothLEScan()
+BluetoothManufacturerDataMap
+: 
+ƒ BluetoothManufacturerDataMap()
+BluetoothRemoteGATTCharacteristic
+: 
+ƒ BluetoothRemoteGATTCharacteristic()
+BluetoothRemoteGATTDescriptor
+: 
+ƒ BluetoothRemoteGATTDescriptor()
+BluetoothRemoteGATTServer
+: 
+ƒ BluetoothRemoteGATTServer()
+BluetoothRemoteGATTService
+: 
+ƒ BluetoothRemoteGATTService()
+BluetoothServiceDataMap
+: 
+ƒ BluetoothServiceDataMap()
+BluetoothUUID
+: 
+ƒ BluetoothUUID()
+Boolean
+: 
+ƒ Boolean()
+BroadcastChannel
+: 
+ƒ BroadcastChannel()
+BrowserCaptureMediaStreamTrack
+: 
+ƒ BrowserCaptureMediaStreamTrack()
+ByteLengthQueuingStrategy
+: 
+ƒ ByteLengthQueuingStrategy()
+CDATASection
+: 
+ƒ CDATASection()
+CSPViolationReportBody
+: 
+ƒ CSPViolationReportBody()
+CSS
+: 
+CSS {highlights: HighlightRegistry, Hz: ƒ, Q: ƒ, cap: ƒ, ch: ƒ, …}
+CSSAnimation
+: 
+ƒ CSSAnimation()
+CSSColorValue
+: 
+ƒ CSSColorValue()
+CSSConditionRule
+: 
+ƒ CSSConditionRule()
+CSSContainerRule
+: 
+ƒ CSSContainerRule()
+CSSCounterStyleRule
+: 
+ƒ CSSCounterStyleRule()
+CSSFontFaceRule
+: 
+ƒ CSSFontFaceRule()
+CSSFontFeatureValuesRule
+: 
+ƒ CSSFontFeatureValuesRule()
+CSSFontPaletteValuesRule
+: 
+ƒ CSSFontPaletteValuesRule()
+CSSFunctionDeclarations
+: 
+ƒ CSSFunctionDeclarations()
+CSSFunctionDescriptors
+: 
+ƒ CSSFunctionDescriptors()
+CSSFunctionRule
+: 
+ƒ CSSFunctionRule()
+CSSGroupingRule
+: 
+ƒ CSSGroupingRule()
+CSSHSL
+: 
+ƒ CSSHSL()
+CSSHWB
+: 
+ƒ CSSHWB()
+CSSImageValue
+: 
+ƒ CSSImageValue()
+CSSImportRule
+: 
+ƒ CSSImportRule()
+CSSKeyframeRule
+: 
+ƒ CSSKeyframeRule()
+CSSKeyframesRule
+: 
+ƒ CSSKeyframesRule()
+CSSKeywordValue
+: 
+ƒ CSSKeywordValue()
+CSSLayerBlockRule
+: 
+ƒ CSSLayerBlockRule()
+CSSLayerStatementRule
+: 
+ƒ CSSLayerStatementRule()
+CSSMarginRule
+: 
+ƒ CSSMarginRule()
+CSSMathClamp
+: 
+ƒ CSSMathClamp()
+CSSMathInvert
+: 
+ƒ CSSMathInvert()
+CSSMathMax
+: 
+ƒ CSSMathMax()
+CSSMathMin
+: 
+ƒ CSSMathMin()
+CSSMathNegate
+: 
+ƒ CSSMathNegate()
+CSSMathProduct
+: 
+ƒ CSSMathProduct()
+CSSMathSum
+: 
+ƒ CSSMathSum()
+CSSMathValue
+: 
+ƒ CSSMathValue()
+CSSMatrixComponent
+: 
+ƒ CSSMatrixComponent()
+CSSMediaRule
+: 
+ƒ CSSMediaRule()
+CSSNamespaceRule
+: 
+ƒ CSSNamespaceRule()
+CSSNestedDeclarations
+: 
+ƒ CSSNestedDeclarations()
+CSSNumericArray
+: 
+ƒ CSSNumericArray()
+CSSNumericValue
+: 
+ƒ CSSNumericValue()
+CSSPageRule
+: 
+ƒ CSSPageRule()
+CSSPerspective
+: 
+ƒ CSSPerspective()
+CSSPositionTryDescriptors
+: 
+ƒ CSSPositionTryDescriptors()
+CSSPositionTryRule
+: 
+ƒ CSSPositionTryRule()
+CSSPositionValue
+: 
+ƒ CSSPositionValue()
+CSSPropertyRule
+: 
+ƒ CSSPropertyRule()
+CSSPseudoElement
+: 
+ƒ CSSPseudoElement()
+CSSRGB
+: 
+ƒ CSSRGB()
+CSSRotate
+: 
+ƒ CSSRotate()
+CSSRule
+: 
+ƒ CSSRule()
+CSSRuleList
+: 
+ƒ CSSRuleList()
+CSSScale
+: 
+ƒ CSSScale()
+CSSScopeRule
+: 
+ƒ CSSScopeRule()
+CSSSkew
+: 
+ƒ CSSSkew()
+CSSSkewX
+: 
+ƒ CSSSkewX()
+CSSSkewY
+: 
+ƒ CSSSkewY()
+CSSStartingStyleRule
+: 
+ƒ CSSStartingStyleRule()
+CSSStyleDeclaration
+: 
+ƒ CSSStyleDeclaration()
+CSSStyleRule
+: 
+ƒ CSSStyleRule()
+CSSStyleSheet
+: 
+ƒ CSSStyleSheet()
+CSSStyleValue
+: 
+ƒ CSSStyleValue()
+CSSSupportsRule
+: 
+ƒ CSSSupportsRule()
+CSSTransformComponent
+: 
+ƒ CSSTransformComponent()
+CSSTransformValue
+: 
+ƒ CSSTransformValue()
+CSSTransition
+: 
+ƒ CSSTransition()
+CSSTranslate
+: 
+ƒ CSSTranslate()
+CSSUnitValue
+: 
+ƒ CSSUnitValue()
+CSSUnparsedValue
+: 
+ƒ CSSUnparsedValue()
+CSSVariableReferenceValue
+: 
+ƒ CSSVariableReferenceValue()
+CSSViewTransitionRule
+: 
+ƒ CSSViewTransitionRule()
+Cache
+: 
+ƒ Cache()
+CacheStorage
+: 
+ƒ CacheStorage()
+CanvasCaptureMediaStreamTrack
+: 
+ƒ CanvasCaptureMediaStreamTrack()
+CanvasFilter
+: 
+ƒ CanvasFilter()
+CanvasGradient
+: 
+ƒ CanvasGradient()
+CanvasPattern
+: 
+ƒ CanvasPattern()
+CanvasRenderingContext2D
+: 
+ƒ CanvasRenderingContext2D()
+CaptureController
+: 
+ƒ CaptureController()
+CaretPosition
+: 
+ƒ CaretPosition()
+ChannelMergerNode
+: 
+ƒ ChannelMergerNode()
+ChannelSplitterNode
+: 
+ƒ ChannelSplitterNode()
+ChapterInformation
+: 
+ƒ ChapterInformation()
+CharacterBoundsUpdateEvent
+: 
+ƒ CharacterBoundsUpdateEvent()
+CharacterData
+: 
+ƒ CharacterData()
+ChildNodePart
+: 
+ƒ ChildNodePart()
+Clipboard
+: 
+ƒ Clipboard()
+ClipboardChangeEvent
+: 
+ƒ ClipboardChangeEvent()
+ClipboardEvent
+: 
+ƒ ClipboardEvent()
+ClipboardItem
+: 
+ƒ ClipboardItem()
+CloseEvent
+: 
+ƒ CloseEvent()
+CloseWatcher
+: 
+ƒ CloseWatcher()
+CommandEvent
+: 
+ƒ CommandEvent()
+Comment
+: 
+ƒ Comment()
+CompositionEvent
+: 
+ƒ CompositionEvent()
+CompressionStream
+: 
+ƒ CompressionStream()
+ConstantSourceNode
+: 
+ƒ ConstantSourceNode()
+ContentIndex
+: 
+ƒ ContentIndex()
+ContentVisibilityAutoStateChangeEvent
+: 
+ƒ ContentVisibilityAutoStateChangeEvent()
+ConvolverNode
+: 
+ƒ ConvolverNode()
+CookieChangeEvent
+: 
+ƒ CookieChangeEvent()
+CookieStore
+: 
+ƒ CookieStore()
+CookieStoreManager
+: 
+ƒ CookieStoreManager()
+CountQueuingStrategy
+: 
+ƒ CountQueuingStrategy()
+CrashReportStorage
+: 
+ƒ CrashReportStorage()
+CreateMonitor
+: 
+ƒ CreateMonitor()
+Credential
+: 
+ƒ Credential()
+CredentialsContainer
+: 
+ƒ CredentialsContainer()
+CropTarget
+: 
+ƒ CropTarget()
+Crypto
+: 
+ƒ Crypto()
+CryptoKey
+: 
+ƒ CryptoKey()
+CustomElementRegistry
+: 
+ƒ CustomElementRegistry()
+CustomEvent
+: 
+ƒ CustomEvent()
+CustomStateSet
+: 
+ƒ CustomStateSet()
+DOMError
+: 
+ƒ DOMError()
+DOMException
+: 
+ƒ DOMException()
+DOMImplementation
+: 
+ƒ DOMImplementation()
+DOMMatrix
+: 
+ƒ DOMMatrix()
+DOMMatrixReadOnly
+: 
+ƒ DOMMatrixReadOnly()
+DOMParser
+: 
+ƒ DOMParser()
+DOMPoint
+: 
+ƒ DOMPoint()
+DOMPointReadOnly
+: 
+ƒ DOMPointReadOnly()
+DOMQuad
+: 
+ƒ DOMQuad()
+DOMRect
+: 
+ƒ DOMRect()
+DOMRectList
+: 
+ƒ DOMRectList()
+DOMRectReadOnly
+: 
+ƒ DOMRectReadOnly()
+DOMStringList
+: 
+ƒ DOMStringList()
+DOMStringMap
+: 
+ƒ DOMStringMap()
+DOMTokenList
+: 
+ƒ DOMTokenList()
+DataTransfer
+: 
+ƒ DataTransfer()
+DataTransferItem
+: 
+ƒ DataTransferItem()
+DataTransferItemList
+: 
+ƒ DataTransferItemList()
+DataView
+: 
+ƒ DataView()
+Date
+: 
+ƒ Date()
+DecompressionStream
+: 
+ƒ DecompressionStream()
+DelayNode
+: 
+ƒ DelayNode()
+DelegatedInkTrailPresenter
+: 
+ƒ DelegatedInkTrailPresenter()
+DeviceMotionEvent
+: 
+ƒ DeviceMotionEvent()
+DeviceMotionEventAcceleration
+: 
+ƒ DeviceMotionEventAcceleration()
+DeviceMotionEventRotationRate
+: 
+ƒ DeviceMotionEventRotationRate()
+DeviceOrientationEvent
+: 
+ƒ DeviceOrientationEvent()
+DevicePosture
+: 
+ƒ DevicePosture()
+DigitalCredential
+: 
+ƒ DigitalCredential()
+Directive
+: 
+ƒ Directive()
+DisposableStack
+: 
+ƒ DisposableStack()
+Document
+: 
+ƒ Document()
+DocumentFragment
+: 
+ƒ DocumentFragment()
+DocumentPartRoot
+: 
+ƒ DocumentPartRoot()
+DocumentPictureInPicture
+: 
+ƒ DocumentPictureInPicture()
+DocumentPictureInPictureEvent
+: 
+ƒ DocumentPictureInPictureEvent()
+DocumentTimeline
+: 
+ƒ DocumentTimeline()
+DocumentType
+: 
+ƒ DocumentType()
+DragEvent
+: 
+ƒ DragEvent()
+DynamicsCompressorNode
+: 
+ƒ DynamicsCompressorNode()
+EditContext
+: 
+ƒ EditContext()
+Element
+: 
+ƒ Element()
+ElementInternals
+: 
+ƒ ElementInternals()
+EncodedAudioChunk
+: 
+ƒ EncodedAudioChunk()
+EncodedVideoChunk
+: 
+ƒ EncodedVideoChunk()
+Error
+: 
+ƒ Error()
+ErrorEvent
+: 
+ƒ ErrorEvent()
+EvalError
+: 
+ƒ EvalError()
+Event
+: 
+ƒ Event()
+EventCounts
+: 
+ƒ EventCounts()
+EventSource
+: 
+ƒ EventSource()
+EventTarget
+: 
+ƒ EventTarget()
+External
+: 
+ƒ External()
+EyeDropper
+: 
+ƒ EyeDropper()
+FaceDetector
+: 
+ƒ FaceDetector()
+FeaturePolicy
+: 
+ƒ FeaturePolicy()
+FederatedCredential
+: 
+ƒ FederatedCredential()
+Fence
+: 
+ƒ Fence()
+FencedFrameConfig
+: 
+ƒ FencedFrameConfig()
+FetchLaterResult
+: 
+ƒ FetchLaterResult()
+File
+: 
+ƒ File()
+FileList
+: 
+ƒ FileList()
+FileReader
+: 
+ƒ FileReader()
+FileSystemDirectoryHandle
+: 
+ƒ FileSystemDirectoryHandle()
+FileSystemFileHandle
+: 
+ƒ FileSystemFileHandle()
+FileSystemHandle
+: 
+ƒ FileSystemHandle()
+FileSystemObserver
+: 
+ƒ FileSystemObserver()
+FileSystemWritableFileStream
+: 
+ƒ FileSystemWritableFileStream()
+FinalizationRegistry
+: 
+ƒ FinalizationRegistry()
+Float16Array
+: 
+ƒ Float16Array()
+Float32Array
+: 
+ƒ Float32Array()
+Float64Array
+: 
+ƒ Float64Array()
+FocusEvent
+: 
+ƒ FocusEvent()
+FontData
+: 
+ƒ FontData()
+FontFace
+: 
+ƒ FontFace()
+FontFaceSetLoadEvent
+: 
+ƒ FontFaceSetLoadEvent()
+FormData
+: 
+ƒ FormData()
+FormDataEvent
+: 
+ƒ FormDataEvent()
+FragmentDirective
+: 
+ƒ FragmentDirective()
+Function
+: 
+ƒ Function()
+GPU
+: 
+ƒ GPU()
+GPUAdapter
+: 
+ƒ GPUAdapter()
+GPUAdapterInfo
+: 
+ƒ GPUAdapterInfo()
+GPUBindGroup
+: 
+ƒ GPUBindGroup()
+GPUBindGroupLayout
+: 
+ƒ GPUBindGroupLayout()
+GPUBuffer
+: 
+ƒ GPUBuffer()
+GPUBufferUsage
+: 
+GPUBufferUsage {MAP_READ: 1, MAP_WRITE: 2, COPY_SRC: 4, COPY_DST: 8, INDEX: 16, …}
+GPUCanvasContext
+: 
+ƒ GPUCanvasContext()
+GPUColorWrite
+: 
+GPUColorWrite {RED: 1, GREEN: 2, BLUE: 4, ALPHA: 8, ALL: 15, …}
+GPUCommandBuffer
+: 
+ƒ GPUCommandBuffer()
+GPUCommandEncoder
+: 
+ƒ GPUCommandEncoder()
+GPUCompilationInfo
+: 
+ƒ GPUCompilationInfo()
+GPUCompilationMessage
+: 
+ƒ GPUCompilationMessage()
+GPUComputePassEncoder
+: 
+ƒ GPUComputePassEncoder()
+GPUComputePipeline
+: 
+ƒ GPUComputePipeline()
+GPUDevice
+: 
+ƒ GPUDevice()
+GPUDeviceLostInfo
+: 
+ƒ GPUDeviceLostInfo()
+GPUError
+: 
+ƒ GPUError()
+GPUExternalTexture
+: 
+ƒ GPUExternalTexture()
+GPUInternalError
+: 
+ƒ GPUInternalError()
+GPUMapMode
+: 
+GPUMapMode {READ: 1, WRITE: 2, Symbol(Symbol.toStringTag): 'GPUMapMode'}
+GPUOutOfMemoryError
+: 
+ƒ GPUOutOfMemoryError()
+GPUPipelineError
+: 
+ƒ GPUPipelineError()
+GPUPipelineLayout
+: 
+ƒ GPUPipelineLayout()
+GPUQuerySet
+: 
+ƒ GPUQuerySet()
+GPUQueue
+: 
+ƒ GPUQueue()
+GPURenderBundle
+: 
+ƒ GPURenderBundle()
+GPURenderBundleEncoder
+: 
+ƒ GPURenderBundleEncoder()
+GPURenderPassEncoder
+: 
+ƒ GPURenderPassEncoder()
+GPURenderPipeline
+: 
+ƒ GPURenderPipeline()
+GPUSampler
+: 
+ƒ GPUSampler()
+GPUShaderModule
+: 
+ƒ GPUShaderModule()
+GPUShaderStage
+: 
+GPUShaderStage {VERTEX: 1, FRAGMENT: 2, COMPUTE: 4, Symbol(Symbol.toStringTag): 'GPUShaderStage'}
+GPUSubgroupMatrixConfig
+: 
+ƒ GPUSubgroupMatrixConfig()
+GPUSupportedFeatures
+: 
+ƒ GPUSupportedFeatures()
+GPUSupportedLimits
+: 
+ƒ GPUSupportedLimits()
+GPUTexture
+: 
+ƒ GPUTexture()
+GPUTextureUsage
+: 
+GPUTextureUsage {COPY_SRC: 1, COPY_DST: 2, TEXTURE_BINDING: 4, STORAGE_BINDING: 8, RENDER_ATTACHMENT: 16, …}
+GPUTextureView
+: 
+ƒ GPUTextureView()
+GPUUncapturedErrorEvent
+: 
+ƒ GPUUncapturedErrorEvent()
+GPUValidationError
+: 
+ƒ GPUValidationError()
+GainNode
+: 
+ƒ GainNode()
+Gamepad
+: 
+ƒ Gamepad()
+GamepadButton
+: 
+ƒ GamepadButton()
+GamepadEvent
+: 
+ƒ GamepadEvent()
+GamepadHapticActuator
+: 
+ƒ GamepadHapticActuator()
+GamepadTouch
+: 
+ƒ GamepadTouch()
+Geolocation
+: 
+ƒ Geolocation()
+GeolocationCoordinates
+: 
+ƒ GeolocationCoordinates()
+GeolocationPosition
+: 
+ƒ GeolocationPosition()
+GeolocationPositionError
+: 
+ƒ GeolocationPositionError()
+GravitySensor
+: 
+ƒ GravitySensor()
+Gyroscope
+: 
+ƒ Gyroscope()
+HID
+: 
+ƒ HID()
+HIDConnectionEvent
+: 
+ƒ HIDConnectionEvent()
+HIDDevice
+: 
+ƒ HIDDevice()
+HIDInputReportEvent
+: 
+ƒ HIDInputReportEvent()
+HTMLAllCollection
+: 
+ƒ HTMLAllCollection()
+HTMLAnchorElement
+: 
+ƒ HTMLAnchorElement()
+HTMLAreaElement
+: 
+ƒ HTMLAreaElement()
+HTMLAudioElement
+: 
+ƒ HTMLAudioElement()
+HTMLBRElement
+: 
+ƒ HTMLBRElement()
+HTMLBaseElement
+: 
+ƒ HTMLBaseElement()
+HTMLBodyElement
+: 
+ƒ HTMLBodyElement()
+HTMLButtonElement
+: 
+ƒ HTMLButtonElement()
+HTMLCanvasElement
+: 
+ƒ HTMLCanvasElement()
+HTMLCollection
+: 
+ƒ HTMLCollection()
+HTMLDListElement
+: 
+ƒ HTMLDListElement()
+HTMLDataElement
+: 
+ƒ HTMLDataElement()
+HTMLDataListElement
+: 
+ƒ HTMLDataListElement()
+HTMLDetailsElement
+: 
+ƒ HTMLDetailsElement()
+HTMLDialogElement
+: 
+ƒ HTMLDialogElement()
+HTMLDirectoryElement
+: 
+ƒ HTMLDirectoryElement()
+HTMLDivElement
+: 
+ƒ HTMLDivElement()
+HTMLDocument
+: 
+ƒ HTMLDocument()
+HTMLElement
+: 
+ƒ HTMLElement()
+HTMLEmbedElement
+: 
+ƒ HTMLEmbedElement()
+HTMLFencedFrameElement
+: 
+ƒ HTMLFencedFrameElement()
+HTMLFieldSetElement
+: 
+ƒ HTMLFieldSetElement()
+HTMLFontElement
+: 
+ƒ HTMLFontElement()
+HTMLFormControlsCollection
+: 
+ƒ HTMLFormControlsCollection()
+HTMLFormElement
+: 
+ƒ HTMLFormElement()
+HTMLFrameElement
+: 
+ƒ HTMLFrameElement()
+HTMLFrameSetElement
+: 
+ƒ HTMLFrameSetElement()
+HTMLGeolocationElement
+: 
+ƒ HTMLGeolocationElement()
+HTMLHRElement
+: 
+ƒ HTMLHRElement()
+HTMLHeadElement
+: 
+ƒ HTMLHeadElement()
+HTMLHeadingElement
+: 
+ƒ HTMLHeadingElement()
+HTMLHtmlElement
+: 
+ƒ HTMLHtmlElement()
+HTMLIFrameElement
+: 
+ƒ HTMLIFrameElement()
+HTMLImageElement
+: 
+ƒ HTMLImageElement()
+HTMLInputElement
+: 
+ƒ HTMLInputElement()
+HTMLLIElement
+: 
+ƒ HTMLLIElement()
+HTMLLabelElement
+: 
+ƒ HTMLLabelElement()
+HTMLLegendElement
+: 
+ƒ HTMLLegendElement()
+HTMLLinkElement
+: 
+ƒ HTMLLinkElement()
+HTMLMapElement
+: 
+ƒ HTMLMapElement()
+HTMLMarqueeElement
+: 
+ƒ HTMLMarqueeElement()
+HTMLMediaElement
+: 
+ƒ HTMLMediaElement()
+HTMLMenuElement
+: 
+ƒ HTMLMenuElement()
+HTMLMetaElement
+: 
+ƒ HTMLMetaElement()
+HTMLMeterElement
+: 
+ƒ HTMLMeterElement()
+HTMLModElement
+: 
+ƒ HTMLModElement()
+HTMLOListElement
+: 
+ƒ HTMLOListElement()
+HTMLObjectElement
+: 
+ƒ HTMLObjectElement()
+HTMLOptGroupElement
+: 
+ƒ HTMLOptGroupElement()
+HTMLOptionElement
+: 
+ƒ HTMLOptionElement()
+HTMLOptionsCollection
+: 
+ƒ HTMLOptionsCollection()
+HTMLOutputElement
+: 
+ƒ HTMLOutputElement()
+HTMLParagraphElement
+: 
+ƒ HTMLParagraphElement()
+HTMLParamElement
+: 
+ƒ HTMLParamElement()
+HTMLPermissionElement
+: 
+ƒ HTMLPermissionElement()
+HTMLPictureElement
+: 
+ƒ HTMLPictureElement()
+HTMLPreElement
+: 
+ƒ HTMLPreElement()
+HTMLProgressElement
+: 
+ƒ HTMLProgressElement()
+HTMLQuoteElement
+: 
+ƒ HTMLQuoteElement()
+HTMLScriptElement
+: 
+ƒ HTMLScriptElement()
+HTMLSelectElement
+: 
+ƒ HTMLSelectElement()
+HTMLSelectedContentElement
+: 
+ƒ HTMLSelectedContentElement()
+HTMLSlotElement
+: 
+ƒ HTMLSlotElement()
+HTMLSourceElement
+: 
+ƒ HTMLSourceElement()
+HTMLSpanElement
+: 
+ƒ HTMLSpanElement()
+HTMLStyleElement
+: 
+ƒ HTMLStyleElement()
+HTMLTableCaptionElement
+: 
+ƒ HTMLTableCaptionElement()
+HTMLTableCellElement
+: 
+ƒ HTMLTableCellElement()
+HTMLTableColElement
+: 
+ƒ HTMLTableColElement()
+HTMLTableElement
+: 
+ƒ HTMLTableElement()
+HTMLTableRowElement
+: 
+ƒ HTMLTableRowElement()
+HTMLTableSectionElement
+: 
+ƒ HTMLTableSectionElement()
+HTMLTemplateElement
+: 
+ƒ HTMLTemplateElement()
+HTMLTextAreaElement
+: 
+ƒ HTMLTextAreaElement()
+HTMLTimeElement
+: 
+ƒ HTMLTimeElement()
+HTMLTitleElement
+: 
+ƒ HTMLTitleElement()
+HTMLTrackElement
+: 
+ƒ HTMLTrackElement()
+HTMLUListElement
+: 
+ƒ HTMLUListElement()
+HTMLUnknownElement
+: 
+ƒ HTMLUnknownElement()
+HTMLVideoElement
+: 
+ƒ HTMLVideoElement()
+HandwritingStroke
+: 
+ƒ HandwritingStroke()
+HapticsDevice
+: 
+ƒ HapticsDevice()
+HapticsPredefinedWaveform
+: 
+ƒ HapticsPredefinedWaveform()
+HashChangeEvent
+: 
+ƒ HashChangeEvent()
+Headers
+: 
+ƒ Headers()
+Highlight
+: 
+ƒ Highlight()
+HighlightRegistry
+: 
+ƒ HighlightRegistry()
+History
+: 
+ƒ History()
+IDBCursor
+: 
+ƒ IDBCursor()
+IDBCursorWithValue
+: 
+ƒ IDBCursorWithValue()
+IDBDatabase
+: 
+ƒ IDBDatabase()
+IDBFactory
+: 
+ƒ IDBFactory()
+IDBIndex
+: 
+ƒ IDBIndex()
+IDBKeyRange
+: 
+ƒ IDBKeyRange()
+IDBObjectStore
+: 
+ƒ IDBObjectStore()
+IDBOpenDBRequest
+: 
+ƒ IDBOpenDBRequest()
+IDBRecord
+: 
+ƒ IDBRecord()
+IDBRequest
+: 
+ƒ IDBRequest()
+IDBTransaction
+: 
+ƒ IDBTransaction()
+IDBVersionChangeEvent
+: 
+ƒ IDBVersionChangeEvent()
+IIRFilterNode
+: 
+ƒ IIRFilterNode()
+IdentityCredential
+: 
+ƒ IdentityCredential()
+IdentityCredentialError
+: 
+ƒ IdentityCredentialError()
+IdentityProvider
+: 
+ƒ IdentityProvider()
+IdleDeadline
+: 
+ƒ IdleDeadline()
+IdleDetector
+: 
+ƒ IdleDetector()
+Image
+: 
+ƒ Image()
+ImageBitmap
+: 
+ƒ ImageBitmap()
+ImageBitmapRenderingContext
+: 
+ƒ ImageBitmapRenderingContext()
+ImageCapture
+: 
+ƒ ImageCapture()
+ImageCreator
+: 
+ƒ ImageCreator()
+ImageData
+: 
+ƒ ImageData()
+ImageDecoder
+: 
+ƒ ImageDecoder()
+ImageTrack
+: 
+ƒ ImageTrack()
+ImageTrackList
+: 
+ƒ ImageTrackList()
+Ink
+: 
+ƒ Ink()
+InputDeviceCapabilities
+: 
+ƒ InputDeviceCapabilities()
+InputDeviceInfo
+: 
+ƒ InputDeviceInfo()
+InputEvent
+: 
+ƒ InputEvent()
+Int8Array
+: 
+ƒ Int8Array()
+Int16Array
+: 
+ƒ Int16Array()
+Int32Array
+: 
+ƒ Int32Array()
+IntegrityViolationReportBody
+: 
+ƒ IntegrityViolationReportBody()
+InteractionContentfulPaint
+: 
+ƒ InteractionContentfulPaint()
+InterestEvent
+: 
+ƒ InterestEvent()
+IntersectionObserver
+: 
+ƒ IntersectionObserver()
+IntersectionObserverEntry
+: 
+ƒ IntersectionObserverEntry()
+Intl
+: 
+Intl {getCanonicalLocales: ƒ, supportedValuesOf: ƒ, DateTimeFormat: ƒ, NumberFormat: ƒ, Collator: ƒ, …}
+Iterator
+: 
+ƒ Iterator()
+JSON
+: 
+JSON {Symbol(Symbol.toStringTag): 'JSON', parse: ƒ, stringify: ƒ, rawJSON: ƒ, isRawJSON: ƒ}
+Keyboard
+: 
+ƒ Keyboard()
+KeyboardEvent
+: 
+ƒ KeyboardEvent()
+KeyboardLayoutMap
+: 
+ƒ KeyboardLayoutMap()
+KeyframeEffect
+: 
+ƒ KeyframeEffect()
+LanguageDetector
+: 
+ƒ LanguageDetector()
+LanguageModel
+: 
+ƒ LanguageModel()
+LanguageModelParams
+: 
+ƒ LanguageModelParams()
+LargestContentfulPaint
+: 
+ƒ LargestContentfulPaint()
+LaunchParams
+: 
+ƒ LaunchParams()
+LaunchQueue
+: 
+ƒ LaunchQueue()
+LayoutShift
+: 
+ƒ LayoutShift()
+LayoutShiftAttribution
+: 
+ƒ LayoutShiftAttribution()
+LinearAccelerationSensor
+: 
+ƒ LinearAccelerationSensor()
+Location
+: 
+ƒ Location()
+Lock
+: 
+ƒ Lock()
+LockManager
+: 
+ƒ LockManager()
+MIDIAccess
+: 
+ƒ MIDIAccess()
+MIDIConnectionEvent
+: 
+ƒ MIDIConnectionEvent()
+MIDIInput
+: 
+ƒ MIDIInput()
+MIDIInputMap
+: 
+ƒ MIDIInputMap()
+MIDIMessageEvent
+: 
+ƒ MIDIMessageEvent()
+MIDIOutput
+: 
+ƒ MIDIOutput()
+MIDIOutputMap
+: 
+ƒ MIDIOutputMap()
+MIDIPort
+: 
+ƒ MIDIPort()
+Magnetometer
+: 
+ƒ Magnetometer()
+Map
+: 
+ƒ Map()
+Math
+: 
+Math {abs: ƒ, acos: ƒ, acosh: ƒ, asin: ƒ, asinh: ƒ, …}
+MathMLElement
+: 
+ƒ MathMLElement()
+MediaCapabilities
+: 
+ƒ MediaCapabilities()
+MediaDeviceInfo
+: 
+ƒ MediaDeviceInfo()
+MediaDevices
+: 
+ƒ MediaDevices()
+MediaElementAudioSourceNode
+: 
+ƒ MediaElementAudioSourceNode()
+MediaEncryptedEvent
+: 
+ƒ MediaEncryptedEvent()
+MediaError
+: 
+ƒ MediaError()
+MediaKeyMessageEvent
+: 
+ƒ MediaKeyMessageEvent()
+MediaKeySession
+: 
+ƒ MediaKeySession()
+MediaKeyStatusMap
+: 
+ƒ MediaKeyStatusMap()
+MediaKeySystemAccess
+: 
+ƒ MediaKeySystemAccess()
+MediaKeys
+: 
+ƒ MediaKeys()
+MediaList
+: 
+ƒ MediaList()
+MediaMetadata
+: 
+ƒ MediaMetadata()
+MediaQueryList
+: 
+ƒ MediaQueryList()
+MediaQueryListEvent
+: 
+ƒ MediaQueryListEvent()
+MediaRecorder
+: 
+ƒ MediaRecorder()
+MediaSession
+: 
+ƒ MediaSession()
+MediaSource
+: 
+ƒ MediaSource()
+MediaSourceHandle
+: 
+ƒ MediaSourceHandle()
+MediaStream
+: 
+ƒ MediaStream()
+MediaStreamAudioDestinationNode
+: 
+ƒ MediaStreamAudioDestinationNode()
+MediaStreamAudioSourceNode
+: 
+ƒ MediaStreamAudioSourceNode()
+MediaStreamEvent
+: 
+ƒ MediaStreamEvent()
+MediaStreamTrack
+: 
+ƒ MediaStreamTrack()
+MediaStreamTrackAudioStats
+: 
+ƒ MediaStreamTrackAudioStats()
+MediaStreamTrackEvent
+: 
+ƒ MediaStreamTrackEvent()
+MediaStreamTrackGenerator
+: 
+ƒ MediaStreamTrackGenerator()
+MediaStreamTrackProcessor
+: 
+ƒ MediaStreamTrackProcessor()
+MediaStreamTrackVideoStats
+: 
+ƒ MediaStreamTrackVideoStats()
+MessageChannel
+: 
+ƒ MessageChannel()
+MessageEvent
+: 
+ƒ MessageEvent()
+MessagePort
+: 
+ƒ MessagePort()
+MimeType
+: 
+ƒ MimeType()
+MimeTypeArray
+: 
+ƒ MimeTypeArray()
+MouseEvent
+: 
+ƒ MouseEvent()
+MutationObserver
+: 
+ƒ MutationObserver()
+MutationRecord
+: 
+ƒ MutationRecord()
+NaN
+: 
+NaN
+NamedNodeMap
+: 
+ƒ NamedNodeMap()
+NavigateEvent
+: 
+ƒ NavigateEvent()
+Navigation
+: 
+ƒ Navigation()
+NavigationActivation
+: 
+ƒ NavigationActivation()
+NavigationCurrentEntryChangeEvent
+: 
+ƒ NavigationCurrentEntryChangeEvent()
+NavigationDestination
+: 
+ƒ NavigationDestination()
+NavigationHistoryEntry
+: 
+ƒ NavigationHistoryEntry()
+NavigationPrecommitController
+: 
+ƒ NavigationPrecommitController()
+NavigationPreloadManager
+: 
+ƒ NavigationPreloadManager()
+NavigationTransition
+: 
+ƒ NavigationTransition()
+Navigator
+: 
+ƒ Navigator()
+NavigatorLogin
+: 
+ƒ NavigatorLogin()
+NavigatorManagedData
+: 
+ƒ NavigatorManagedData()
+NavigatorUAData
+: 
+ƒ NavigatorUAData()
+NetworkInformation
+: 
+ƒ NetworkInformation()
+Node
+: 
+ƒ Node()
+NodeFilter
+: 
+ƒ NodeFilter()
+NodeIterator
+: 
+ƒ NodeIterator()
+NodeList
+: 
+ƒ NodeList()
+NodePart
+: 
+ƒ NodePart()
+NotRestoredReasonDetails
+: 
+ƒ NotRestoredReasonDetails()
+NotRestoredReasons
+: 
+ƒ NotRestoredReasons()
+Notification
+: 
+ƒ Notification()
+Number
+: 
+ƒ Number()
+OTPCredential
+: 
+ƒ OTPCredential()
+Object
+: 
+ƒ Object()
+Observable
+: 
+ƒ Observable()
+OfflineAudioCompletionEvent
+: 
+ƒ OfflineAudioCompletionEvent()
+OfflineAudioContext
+: 
+ƒ OfflineAudioContext()
+OffscreenCanvas
+: 
+ƒ OffscreenCanvas()
+OffscreenCanvasRenderingContext2D
+: 
+ƒ OffscreenCanvasRenderingContext2D()
+Option
+: 
+ƒ Option()
+OrientationSensor
+: 
+ƒ OrientationSensor()
+Origin
+: 
+ƒ Origin()
+OscillatorNode
+: 
+ƒ OscillatorNode()
+OverconstrainedError
+: 
+ƒ OverconstrainedError()
+OverscrollEvent
+: 
+ƒ OverscrollEvent()
+PageRevealEvent
+: 
+ƒ PageRevealEvent()
+PageSwapEvent
+: 
+ƒ PageSwapEvent()
+PageTransitionEvent
+: 
+ƒ PageTransitionEvent()
+PannerNode
+: 
+ƒ PannerNode()
+Part
+: 
+ƒ Part()
+PasswordCredential
+: 
+ƒ PasswordCredential()
+Path2D
+: 
+ƒ Path2D()
+PaymentAddress
+: 
+ƒ PaymentAddress()
+PaymentManager
+: 
+ƒ PaymentManager()
+PaymentMethodChangeEvent
+: 
+ƒ PaymentMethodChangeEvent()
+PaymentRequest
+: 
+ƒ PaymentRequest()
+PaymentRequestUpdateEvent
+: 
+ƒ PaymentRequestUpdateEvent()
+PaymentResponse
+: 
+ƒ PaymentResponse()
+Performance
+: 
+ƒ Performance()
+PerformanceContainerTiming
+: 
+ƒ PerformanceContainerTiming()
+PerformanceElementTiming
+: 
+ƒ PerformanceElementTiming()
+PerformanceEntry
+: 
+ƒ PerformanceEntry()
+PerformanceEventTiming
+: 
+ƒ PerformanceEventTiming()
+PerformanceLongAnimationFrameTiming
+: 
+ƒ PerformanceLongAnimationFrameTiming()
+PerformanceLongTaskTiming
+: 
+ƒ PerformanceLongTaskTiming()
+PerformanceMark
+: 
+ƒ PerformanceMark()
+PerformanceMeasure
+: 
+ƒ PerformanceMeasure()
+PerformanceNavigation
+: 
+ƒ PerformanceNavigation()
+PerformanceNavigationTiming
+: 
+ƒ PerformanceNavigationTiming()
+PerformanceObserver
+: 
+ƒ PerformanceObserver()
+PerformanceObserverEntryList
+: 
+ƒ PerformanceObserverEntryList()
+PerformancePaintTiming
+: 
+ƒ PerformancePaintTiming()
+PerformanceResourceTiming
+: 
+ƒ PerformanceResourceTiming()
+PerformanceScriptTiming
+: 
+ƒ PerformanceScriptTiming()
+PerformanceServerTiming
+: 
+ƒ PerformanceServerTiming()
+PerformanceTiming
+: 
+ƒ PerformanceTiming()
+PerformanceTimingConfidence
+: 
+ƒ PerformanceTimingConfidence()
+PeriodicSyncManager
+: 
+ƒ PeriodicSyncManager()
+PeriodicWave
+: 
+ƒ PeriodicWave()
+PermissionStatus
+: 
+ƒ PermissionStatus()
+Permissions
+: 
+ƒ Permissions()
+PictureInPictureEvent
+: 
+ƒ PictureInPictureEvent()
+PictureInPictureWindow
+: 
+ƒ PictureInPictureWindow()
+Plugin
+: 
+ƒ Plugin()
+PluginArray
+: 
+ƒ PluginArray()
+PointerEvent
+: 
+ƒ PointerEvent()
+PopStateEvent
+: 
+ƒ PopStateEvent()
+PreferenceManager
+: 
+ƒ PreferenceManager()
+PreferenceObject
+: 
+ƒ PreferenceObject()
+Presentation
+: 
+ƒ Presentation()
+PresentationAvailability
+: 
+ƒ PresentationAvailability()
+PresentationConnection
+: 
+ƒ PresentationConnection()
+PresentationConnectionAvailableEvent
+: 
+ƒ PresentationConnectionAvailableEvent()
+PresentationConnectionCloseEvent
+: 
+ƒ PresentationConnectionCloseEvent()
+PresentationConnectionList
+: 
+ƒ PresentationConnectionList()
+PresentationReceiver
+: 
+ƒ PresentationReceiver()
+PresentationRequest
+: 
+ƒ PresentationRequest()
+PressureObserver
+: 
+ƒ PressureObserver()
+PressureRecord
+: 
+ƒ PressureRecord()
+PrivateAttribution
+: 
+ƒ PrivateAttribution()
+ProcessingInstruction
+: 
+ƒ ProcessingInstruction()
+Profiler
+: 
+ƒ Profiler()
+ProgressEvent
+: 
+ƒ ProgressEvent()
+Promise
+: 
+ƒ Promise()
+PromiseRejectionEvent
+: 
+ƒ PromiseRejectionEvent()
+ProtectedAudience
+: 
+ƒ ProtectedAudience()
+Proxy
+: 
+ƒ Proxy()
+PublicKeyCredential
+: 
+ƒ PublicKeyCredential()
+PushManager
+: 
+ƒ PushManager()
+PushSubscription
+: 
+ƒ PushSubscription()
+PushSubscriptionOptions
+: 
+ƒ PushSubscriptionOptions()
+QuotaExceededError
+: 
+ƒ QuotaExceededError()
+RTCCertificate
+: 
+ƒ RTCCertificate()
+RTCDTMFSender
+: 
+ƒ RTCDTMFSender()
+RTCDTMFToneChangeEvent
+: 
+ƒ RTCDTMFToneChangeEvent()
+RTCDataChannel
+: 
+ƒ RTCDataChannel()
+RTCDataChannelEvent
+: 
+ƒ RTCDataChannelEvent()
+RTCDtlsTransport
+: 
+ƒ RTCDtlsTransport()
+RTCEncodedAudioFrame
+: 
+ƒ RTCEncodedAudioFrame()
+RTCEncodedVideoFrame
+: 
+ƒ RTCEncodedVideoFrame()
+RTCError
+: 
+ƒ RTCError()
+RTCErrorEvent
+: 
+ƒ RTCErrorEvent()
+RTCIceCandidate
+: 
+ƒ RTCIceCandidate()
+RTCIceTransport
+: 
+ƒ RTCIceTransport()
+RTCPeerConnection
+: 
+ƒ RTCPeerConnection()
+RTCPeerConnectionIceErrorEvent
+: 
+ƒ RTCPeerConnectionIceErrorEvent()
+RTCPeerConnectionIceEvent
+: 
+ƒ RTCPeerConnectionIceEvent()
+RTCRtpReceiver
+: 
+ƒ RTCRtpReceiver()
+RTCRtpScriptTransform
+: 
+ƒ RTCRtpScriptTransform()
+RTCRtpSender
+: 
+ƒ RTCRtpSender()
+RTCRtpTransceiver
+: 
+ƒ RTCRtpTransceiver()
+RTCSctpTransport
+: 
+ƒ RTCSctpTransport()
+RTCSessionDescription
+: 
+ƒ RTCSessionDescription()
+RTCStatsReport
+: 
+ƒ RTCStatsReport()
+RTCTrackEvent
+: 
+ƒ RTCTrackEvent()
+RadioNodeList
+: 
+ƒ RadioNodeList()
+Range
+: 
+ƒ Range()
+RangeError
+: 
+ƒ RangeError()
+ReadableByteStreamController
+: 
+ƒ ReadableByteStreamController()
+ReadableStream
+: 
+ƒ ReadableStream()
+ReadableStreamBYOBReader
+: 
+ƒ ReadableStreamBYOBReader()
+ReadableStreamBYOBRequest
+: 
+ƒ ReadableStreamBYOBRequest()
+ReadableStreamDefaultController
+: 
+ƒ ReadableStreamDefaultController()
+ReadableStreamDefaultReader
+: 
+ƒ ReadableStreamDefaultReader()
+ReferenceError
+: 
+ƒ ReferenceError()
+Reflect
+: 
+Reflect {defineProperty: ƒ, deleteProperty: ƒ, apply: ƒ, construct: ƒ, get: ƒ, …}
+RegExp
+: 
+ƒ RegExp()
+RelativeOrientationSensor
+: 
+ƒ RelativeOrientationSensor()
+RemotePlayback
+: 
+ƒ RemotePlayback()
+ReportBody
+: 
+ƒ ReportBody()
+ReportingObserver
+: 
+ƒ ReportingObserver()
+Request
+: 
+ƒ Request()
+ResizeObserver
+: 
+ƒ ResizeObserver()
+ResizeObserverEntry
+: 
+ƒ ResizeObserverEntry()
+ResizeObserverSize
+: 
+ƒ ResizeObserverSize()
+Response
+: 
+ƒ Response()
+RestrictionTarget
+: 
+ƒ RestrictionTarget()
+Rewriter
+: 
+ƒ Rewriter()
+SVGAElement
+: 
+ƒ SVGAElement()
+SVGAngle
+: 
+ƒ SVGAngle()
+SVGAnimateElement
+: 
+ƒ SVGAnimateElement()
+SVGAnimateMotionElement
+: 
+ƒ SVGAnimateMotionElement()
+SVGAnimateTransformElement
+: 
+ƒ SVGAnimateTransformElement()
+SVGAnimatedAngle
+: 
+ƒ SVGAnimatedAngle()
+SVGAnimatedBoolean
+: 
+ƒ SVGAnimatedBoolean()
+SVGAnimatedEnumeration
+: 
+ƒ SVGAnimatedEnumeration()
+SVGAnimatedInteger
+: 
+ƒ SVGAnimatedInteger()
+SVGAnimatedLength
+: 
+ƒ SVGAnimatedLength()
+SVGAnimatedLengthList
+: 
+ƒ SVGAnimatedLengthList()
+SVGAnimatedNumber
+: 
+ƒ SVGAnimatedNumber()
+SVGAnimatedNumberList
+: 
+ƒ SVGAnimatedNumberList()
+SVGAnimatedPreserveAspectRatio
+: 
+ƒ SVGAnimatedPreserveAspectRatio()
+SVGAnimatedRect
+: 
+ƒ SVGAnimatedRect()
+SVGAnimatedString
+: 
+ƒ SVGAnimatedString()
+SVGAnimatedTransformList
+: 
+ƒ SVGAnimatedTransformList()
+SVGAnimationElement
+: 
+ƒ SVGAnimationElement()
+SVGCircleElement
+: 
+ƒ SVGCircleElement()
+SVGClipPathElement
+: 
+ƒ SVGClipPathElement()
+SVGComponentTransferFunctionElement
+: 
+ƒ SVGComponentTransferFunctionElement()
+SVGDefsElement
+: 
+ƒ SVGDefsElement()
+SVGDescElement
+: 
+ƒ SVGDescElement()
+SVGElement
+: 
+ƒ SVGElement()
+SVGEllipseElement
+: 
+ƒ SVGEllipseElement()
+SVGFEBlendElement
+: 
+ƒ SVGFEBlendElement()
+SVGFEColorMatrixElement
+: 
+ƒ SVGFEColorMatrixElement()
+SVGFEComponentTransferElement
+: 
+ƒ SVGFEComponentTransferElement()
+SVGFECompositeElement
+: 
+ƒ SVGFECompositeElement()
+SVGFEConvolveMatrixElement
+: 
+ƒ SVGFEConvolveMatrixElement()
+SVGFEDiffuseLightingElement
+: 
+ƒ SVGFEDiffuseLightingElement()
+SVGFEDisplacementMapElement
+: 
+ƒ SVGFEDisplacementMapElement()
+SVGFEDistantLightElement
+: 
+ƒ SVGFEDistantLightElement()
+SVGFEDropShadowElement
+: 
+ƒ SVGFEDropShadowElement()
+SVGFEFloodElement
+: 
+ƒ SVGFEFloodElement()
+SVGFEFuncAElement
+: 
+ƒ SVGFEFuncAElement()
+SVGFEFuncBElement
+: 
+ƒ SVGFEFuncBElement()
+SVGFEFuncGElement
+: 
+ƒ SVGFEFuncGElement()
+SVGFEFuncRElement
+: 
+ƒ SVGFEFuncRElement()
+SVGFEGaussianBlurElement
+: 
+ƒ SVGFEGaussianBlurElement()
+SVGFEImageElement
+: 
+ƒ SVGFEImageElement()
+SVGFEMergeElement
+: 
+ƒ SVGFEMergeElement()
+SVGFEMergeNodeElement
+: 
+ƒ SVGFEMergeNodeElement()
+SVGFEMorphologyElement
+: 
+ƒ SVGFEMorphologyElement()
+SVGFEOffsetElement
+: 
+ƒ SVGFEOffsetElement()
+SVGFEPointLightElement
+: 
+ƒ SVGFEPointLightElement()
+SVGFESpecularLightingElement
+: 
+ƒ SVGFESpecularLightingElement()
+SVGFESpotLightElement
+: 
+ƒ SVGFESpotLightElement()
+SVGFETileElement
+: 
+ƒ SVGFETileElement()
+SVGFETurbulenceElement
+: 
+ƒ SVGFETurbulenceElement()
+SVGFilterElement
+: 
+ƒ SVGFilterElement()
+SVGForeignObjectElement
+: 
+ƒ SVGForeignObjectElement()
+SVGGElement
+: 
+ƒ SVGGElement()
+SVGGeometryElement
+: 
+ƒ SVGGeometryElement()
+SVGGradientElement
+: 
+ƒ SVGGradientElement()
+SVGGraphicsElement
+: 
+ƒ SVGGraphicsElement()
+SVGImageElement
+: 
+ƒ SVGImageElement()
+SVGLength
+: 
+ƒ SVGLength()
+SVGLengthList
+: 
+ƒ SVGLengthList()
+SVGLineElement
+: 
+ƒ SVGLineElement()
+SVGLinearGradientElement
+: 
+ƒ SVGLinearGradientElement()
+SVGMPathElement
+: 
+ƒ SVGMPathElement()
+SVGMarkerElement
+: 
+ƒ SVGMarkerElement()
+SVGMaskElement
+: 
+ƒ SVGMaskElement()
+SVGMatrix
+: 
+ƒ SVGMatrix()
+SVGMetadataElement
+: 
+ƒ SVGMetadataElement()
+SVGNumber
+: 
+ƒ SVGNumber()
+SVGNumberList
+: 
+ƒ SVGNumberList()
+SVGPathElement
+: 
+ƒ SVGPathElement()
+SVGPatternElement
+: 
+ƒ SVGPatternElement()
+SVGPoint
+: 
+ƒ SVGPoint()
+SVGPointList
+: 
+ƒ SVGPointList()
+SVGPolygonElement
+: 
+ƒ SVGPolygonElement()
+SVGPolylineElement
+: 
+ƒ SVGPolylineElement()
+SVGPreserveAspectRatio
+: 
+ƒ SVGPreserveAspectRatio()
+SVGRadialGradientElement
+: 
+ƒ SVGRadialGradientElement()
+SVGRect
+: 
+ƒ SVGRect()
+SVGRectElement
+: 
+ƒ SVGRectElement()
+SVGSVGElement
+: 
+ƒ SVGSVGElement()
+SVGScriptElement
+: 
+ƒ SVGScriptElement()
+SVGSetElement
+: 
+ƒ SVGSetElement()
+SVGStopElement
+: 
+ƒ SVGStopElement()
+SVGStringList
+: 
+ƒ SVGStringList()
+SVGStyleElement
+: 
+ƒ SVGStyleElement()
+SVGSwitchElement
+: 
+ƒ SVGSwitchElement()
+SVGSymbolElement
+: 
+ƒ SVGSymbolElement()
+SVGTSpanElement
+: 
+ƒ SVGTSpanElement()
+SVGTextContentElement
+: 
+ƒ SVGTextContentElement()
+SVGTextElement
+: 
+ƒ SVGTextElement()
+SVGTextPathElement
+: 
+ƒ SVGTextPathElement()
+SVGTextPositioningElement
+: 
+ƒ SVGTextPositioningElement()
+SVGTitleElement
+: 
+ƒ SVGTitleElement()
+SVGTransform
+: 
+ƒ SVGTransform()
+SVGTransformList
+: 
+ƒ SVGTransformList()
+SVGUnitTypes
+: 
+ƒ SVGUnitTypes()
+SVGUseElement
+: 
+ƒ SVGUseElement()
+SVGViewElement
+: 
+ƒ SVGViewElement()
+Scheduler
+: 
+ƒ Scheduler()
+Scheduling
+: 
+ƒ Scheduling()
+Screen
+: 
+ƒ Screen()
+ScreenDetailed
+: 
+ƒ ScreenDetailed()
+ScreenDetails
+: 
+ƒ ScreenDetails()
+ScreenOrientation
+: 
+ƒ ScreenOrientation()
+ScriptProcessorNode
+: 
+ƒ ScriptProcessorNode()
+ScrollTimeline
+: 
+ƒ ScrollTimeline()
+SecurityPolicyViolationEvent
+: 
+ƒ SecurityPolicyViolationEvent()
+Selection
+: 
+ƒ Selection()
+SelectorDirective
+: 
+ƒ SelectorDirective()
+Sensor
+: 
+ƒ Sensor()
+SensorErrorEvent
+: 
+ƒ SensorErrorEvent()
+Serial
+: 
+ƒ Serial()
+SerialPort
+: 
+ƒ SerialPort()
+ServiceWorker
+: 
+ƒ ServiceWorker()
+ServiceWorkerContainer
+: 
+ƒ ServiceWorkerContainer()
+ServiceWorkerRegistration
+: 
+ƒ ServiceWorkerRegistration()
+Set
+: 
+ƒ Set()
+ShadowRoot
+: 
+ƒ ShadowRoot()
+SharedStorage
+: 
+ƒ SharedStorage()
+SharedStorageAppendMethod
+: 
+ƒ SharedStorageAppendMethod()
+SharedStorageClearMethod
+: 
+ƒ SharedStorageClearMethod()
+SharedStorageDeleteMethod
+: 
+ƒ SharedStorageDeleteMethod()
+SharedStorageModifierMethod
+: 
+ƒ SharedStorageModifierMethod()
+SharedStorageSetMethod
+: 
+ƒ SharedStorageSetMethod()
+SharedStorageWorklet
+: 
+ƒ SharedStorageWorklet()
+SharedWorker
+: 
+ƒ SharedWorker()
+SnapEvent
+: 
+ƒ SnapEvent()
+SoftNavigationEntry
+: 
+ƒ SoftNavigationEntry()
+SourceBuffer
+: 
+ƒ SourceBuffer()
+SourceBufferList
+: 
+ƒ SourceBufferList()
+SpeechGrammar
+: 
+ƒ SpeechGrammar()
+SpeechGrammarList
+: 
+ƒ SpeechGrammarList()
+SpeechRecognition
+: 
+ƒ SpeechRecognition()
+SpeechRecognitionErrorEvent
+: 
+ƒ SpeechRecognitionErrorEvent()
+SpeechRecognitionEvent
+: 
+ƒ SpeechRecognitionEvent()
+SpeechRecognitionPhrase
+: 
+ƒ SpeechRecognitionPhrase()
+SpeechSynthesis
+: 
+ƒ SpeechSynthesis()
+SpeechSynthesisErrorEvent
+: 
+ƒ SpeechSynthesisErrorEvent()
+SpeechSynthesisEvent
+: 
+ƒ SpeechSynthesisEvent()
+SpeechSynthesisUtterance
+: 
+ƒ SpeechSynthesisUtterance()
+SpeechSynthesisVoice
+: 
+ƒ SpeechSynthesisVoice()
+StaticRange
+: 
+ƒ StaticRange()
+StereoPannerNode
+: 
+ƒ StereoPannerNode()
+Storage
+: 
+ƒ Storage()
+StorageBucket
+: 
+ƒ StorageBucket()
+StorageBucketManager
+: 
+ƒ StorageBucketManager()
+StorageEvent
+: 
+ƒ StorageEvent()
+StorageManager
+: 
+ƒ StorageManager()
+String
+: 
+ƒ String()
+StylePropertyMap
+: 
+ƒ StylePropertyMap()
+StylePropertyMapReadOnly
+: 
+ƒ StylePropertyMapReadOnly()
+StyleSheet
+: 
+ƒ StyleSheet()
+StyleSheetList
+: 
+ƒ StyleSheetList()
+SubmitEvent
+: 
+ƒ SubmitEvent()
+Subscriber
+: 
+ƒ Subscriber()
+SubtleCrypto
+: 
+ƒ SubtleCrypto()
+Summarizer
+: 
+ƒ Summarizer()
+SuppressedError
+: 
+ƒ SuppressedError()
+Symbol
+: 
+ƒ Symbol()
+SyncManager
+: 
+ƒ SyncManager()
+SyntaxError
+: 
+ƒ SyntaxError()
+TaskAttributionTiming
+: 
+ƒ TaskAttributionTiming()
+TaskController
+: 
+ƒ TaskController()
+TaskPriorityChangeEvent
+: 
+ƒ TaskPriorityChangeEvent()
+TaskSignal
+: 
+ƒ TaskSignal()
+Text
+: 
+ƒ Text()
+TextCluster
+: 
+ƒ TextCluster()
+TextDecoder
+: 
+ƒ TextDecoder()
+TextDecoderStream
+: 
+ƒ TextDecoderStream()
+TextDetector
+: 
+ƒ TextDetector()
+TextDirective
+: 
+ƒ TextDirective()
+TextEncoder
+: 
+ƒ TextEncoder()
+TextEncoderStream
+: 
+ƒ TextEncoderStream()
+TextEvent
+: 
+ƒ TextEvent()
+TextFormat
+: 
+ƒ TextFormat()
+TextFormatUpdateEvent
+: 
+ƒ TextFormatUpdateEvent()
+TextMetrics
+: 
+ƒ TextMetrics()
+TextTrack
+: 
+ƒ TextTrack()
+TextTrackCue
+: 
+ƒ TextTrackCue()
+TextTrackCueList
+: 
+ƒ TextTrackCueList()
+TextTrackList
+: 
+ƒ TextTrackList()
+TextUpdateEvent
+: 
+ƒ TextUpdateEvent()
+TimeRanges
+: 
+ƒ TimeRanges()
+TimestampTrigger
+: 
+ƒ TimestampTrigger()
+ToggleEvent
+: 
+ƒ ToggleEvent()
+Touch
+: 
+ƒ Touch()
+TouchEvent
+: 
+ƒ TouchEvent()
+TouchList
+: 
+ƒ TouchList()
+TrackDefault
+: 
+ƒ TrackDefault()
+TrackDefaultList
+: 
+ƒ TrackDefaultList()
+TrackEvent
+: 
+ƒ TrackEvent()
+TransformStream
+: 
+ƒ TransformStream()
+TransformStreamDefaultController
+: 
+ƒ TransformStreamDefaultController()
+TransitionEvent
+: 
+ƒ TransitionEvent()
+Translator
+: 
+ƒ Translator()
+TreeWalker
+: 
+ƒ TreeWalker()
+TrustedHTML
+: 
+ƒ TrustedHTML()
+TrustedScript
+: 
+ƒ TrustedScript()
+TrustedScriptURL
+: 
+ƒ TrustedScriptURL()
+TrustedTypePolicy
+: 
+ƒ TrustedTypePolicy()
+TrustedTypePolicyFactory
+: 
+ƒ TrustedTypePolicyFactory()
+TypeError
+: 
+ƒ TypeError()
+UIEvent
+: 
+ƒ UIEvent()
+URIError
+: 
+ƒ URIError()
+URL
+: 
+ƒ URL()
+URLPattern
+: 
+ƒ URLPattern()
+URLSearchParams
+: 
+ƒ URLSearchParams()
+USB
+: 
+ƒ USB()
+USBAlternateInterface
+: 
+ƒ USBAlternateInterface()
+USBConfiguration
+: 
+ƒ USBConfiguration()
+USBConnectionEvent
+: 
+ƒ USBConnectionEvent()
+USBDevice
+: 
+ƒ USBDevice()
+USBEndpoint
+: 
+ƒ USBEndpoint()
+USBInTransferResult
+: 
+ƒ USBInTransferResult()
+USBInterface
+: 
+ƒ USBInterface()
+USBIsochronousInTransferPacket
+: 
+ƒ USBIsochronousInTransferPacket()
+USBIsochronousInTransferResult
+: 
+ƒ USBIsochronousInTransferResult()
+USBIsochronousOutTransferPacket
+: 
+ƒ USBIsochronousOutTransferPacket()
+USBIsochronousOutTransferResult
+: 
+ƒ USBIsochronousOutTransferResult()
+USBOutTransferResult
+: 
+ƒ USBOutTransferResult()
+Uint8Array
+: 
+ƒ Uint8Array()
+Uint8ClampedArray
+: 
+ƒ Uint8ClampedArray()
+Uint16Array
+: 
+ƒ Uint16Array()
+Uint32Array
+: 
+ƒ Uint32Array()
+UserActivation
+: 
+ƒ UserActivation()
+VTTCue
+: 
+ƒ VTTCue()
+VTTRegion
+: 
+ƒ VTTRegion()
+ValidityState
+: 
+ƒ ValidityState()
+VideoColorSpace
+: 
+ƒ VideoColorSpace()
+VideoDecoder
+: 
+ƒ VideoDecoder()
+VideoEncoder
+: 
+ƒ VideoEncoder()
+VideoEncoderBuffer
+: 
+ƒ VideoEncoderBuffer()
+VideoFrame
+: 
+ƒ VideoFrame()
+VideoPlaybackQuality
+: 
+ƒ VideoPlaybackQuality()
+VideoTrack
+: 
+ƒ VideoTrack()
+VideoTrackList
+: 
+ƒ VideoTrackList()
+ViewTimeline
+: 
+ƒ ViewTimeline()
+ViewTransition
+: 
+ƒ ViewTransition()
+ViewTransitionTypeSet
+: 
+ƒ ViewTransitionTypeSet()
+Viewport
+: 
+ƒ Viewport()
+VirtualKeyboard
+: 
+ƒ VirtualKeyboard()
+VirtualKeyboardGeometryChangeEvent
+: 
+ƒ VirtualKeyboardGeometryChangeEvent()
+VisibilityStateEntry
+: 
+ƒ VisibilityStateEntry()
+VisualViewport
+: 
+ƒ VisualViewport()
+WGSLLanguageFeatures
+: 
+ƒ WGSLLanguageFeatures()
+WakeLock
+: 
+ƒ WakeLock()
+WakeLockSentinel
+: 
+ƒ WakeLockSentinel()
+WaveShaperNode
+: 
+ƒ WaveShaperNode()
+WeakMap
+: 
+ƒ WeakMap()
+WeakRef
+: 
+ƒ WeakRef()
+WeakSet
+: 
+ƒ WeakSet()
+WebAssembly
+: 
+WebAssembly {compile: ƒ, validate: ƒ, instantiate: ƒ, compileStreaming: ƒ, instantiateStreaming: ƒ, …}
+WebGL2RenderingContext
+: 
+ƒ WebGL2RenderingContext()
+WebGLActiveInfo
+: 
+ƒ WebGLActiveInfo()
+WebGLBuffer
+: 
+ƒ WebGLBuffer()
+WebGLContextEvent
+: 
+ƒ WebGLContextEvent()
+WebGLFramebuffer
+: 
+ƒ WebGLFramebuffer()
+WebGLObject
+: 
+ƒ WebGLObject()
+WebGLProgram
+: 
+ƒ WebGLProgram()
+WebGLQuery
+: 
+ƒ WebGLQuery()
+WebGLRenderbuffer
+: 
+ƒ WebGLRenderbuffer()
+WebGLRenderingContext
+: 
+ƒ WebGLRenderingContext()
+WebGLSampler
+: 
+ƒ WebGLSampler()
+WebGLShader
+: 
+ƒ WebGLShader()
+WebGLShaderPrecisionFormat
+: 
+ƒ WebGLShaderPrecisionFormat()
+WebGLSync
+: 
+ƒ WebGLSync()
+WebGLTexture
+: 
+ƒ WebGLTexture()
+WebGLTransformFeedback
+: 
+ƒ WebGLTransformFeedback()
+WebGLUniformLocation
+: 
+ƒ WebGLUniformLocation()
+WebGLVertexArrayObject
+: 
+ƒ WebGLVertexArrayObject()
+WebKitCSSMatrix
+: 
+ƒ DOMMatrix()
+WebKitMutationObserver
+: 
+ƒ MutationObserver()
+WebSocket
+: 
+ƒ WebSocket()
+WebSocketError
+: 
+ƒ WebSocketError()
+WebSocketStream
+: 
+ƒ WebSocketStream()
+WebTransport
+: 
+ƒ WebTransport()
+WebTransportBidirectionalStream
+: 
+ƒ WebTransportBidirectionalStream()
+WebTransportDatagramDuplexStream
+: 
+ƒ WebTransportDatagramDuplexStream()
+WebTransportError
+: 
+ƒ WebTransportError()
+WheelEvent
+: 
+ƒ WheelEvent()
+Window
+: 
+ƒ Window()
+WindowControlsOverlay
+: 
+ƒ WindowControlsOverlay()
+WindowControlsOverlayGeometryChangeEvent
+: 
+ƒ WindowControlsOverlayGeometryChangeEvent()
+Worker
+: 
+ƒ Worker()
+Worklet
+: 
+ƒ Worklet()
+WritableStream
+: 
+ƒ WritableStream()
+WritableStreamDefaultController
+: 
+ƒ WritableStreamDefaultController()
+WritableStreamDefaultWriter
+: 
+ƒ WritableStreamDefaultWriter()
+Writer
+: 
+ƒ Writer()
+XMLDocument
+: 
+ƒ XMLDocument()
+XMLHttpRequest
+: 
+ƒ XMLHttpRequest()
+XMLHttpRequestEventTarget
+: 
+ƒ XMLHttpRequestEventTarget()
+XMLHttpRequestUpload
+: 
+ƒ XMLHttpRequestUpload()
+XMLSerializer
+: 
+ƒ XMLSerializer()
+XPathEvaluator
+: 
+ƒ XPathEvaluator()
+XPathExpression
+: 
+ƒ XPathExpression()
+XPathResult
+: 
+ƒ XPathResult()
+XRAnchor
+: 
+ƒ XRAnchor()
+XRAnchorSet
+: 
+ƒ XRAnchorSet()
+XRBoundedReferenceSpace
+: 
+ƒ XRBoundedReferenceSpace()
+XRCPUDepthInformation
+: 
+ƒ XRCPUDepthInformation()
+XRCamera
+: 
+ƒ XRCamera()
+XRCompositionLayer
+: 
+ƒ XRCompositionLayer()
+XRDOMOverlayState
+: 
+ƒ XRDOMOverlayState()
+XRDepthInformation
+: 
+ƒ XRDepthInformation()
+XRFrame
+: 
+ƒ XRFrame()
+XRGPUBinding
+: 
+ƒ XRGPUBinding()
+XRGPUSubImage
+: 
+ƒ XRGPUSubImage()
+XRHand
+: 
+ƒ XRHand()
+XRHitTestResult
+: 
+ƒ XRHitTestResult()
+XRHitTestSource
+: 
+ƒ XRHitTestSource()
+XRImageTrackingResult
+: 
+ƒ XRImageTrackingResult()
+XRInputSource
+: 
+ƒ XRInputSource()
+XRInputSourceArray
+: 
+ƒ XRInputSourceArray()
+XRInputSourceEvent
+: 
+ƒ XRInputSourceEvent()
+XRInputSourcesChangeEvent
+: 
+ƒ XRInputSourcesChangeEvent()
+XRJointPose
+: 
+ƒ XRJointPose()
+XRJointSpace
+: 
+ƒ XRJointSpace()
+XRLayer
+: 
+ƒ XRLayer()
+XRLightEstimate
+: 
+ƒ XRLightEstimate()
+XRLightProbe
+: 
+ƒ XRLightProbe()
+XRPlane
+: 
+ƒ XRPlane()
+XRPlaneSet
+: 
+ƒ XRPlaneSet()
+XRPose
+: 
+ƒ XRPose()
+XRProjectionLayer
+: 
+ƒ XRProjectionLayer()
+XRRay
+: 
+ƒ XRRay()
+XRReferenceSpace
+: 
+ƒ XRReferenceSpace()
+XRReferenceSpaceEvent
+: 
+ƒ XRReferenceSpaceEvent()
+XRRenderState
+: 
+ƒ XRRenderState()
+XRRigidTransform
+: 
+ƒ XRRigidTransform()
+XRSession
+: 
+ƒ XRSession()
+XRSessionEvent
+: 
+ƒ XRSessionEvent()
+XRSpace
+: 
+ƒ XRSpace()
+XRSubImage
+: 
+ƒ XRSubImage()
+XRSystem
+: 
+ƒ XRSystem()
+XRTransientInputHitTestResult
+: 
+ƒ XRTransientInputHitTestResult()
+XRTransientInputHitTestSource
+: 
+ƒ XRTransientInputHitTestSource()
+XRView
+: 
+ƒ XRView()
+XRViewerPose
+: 
+ƒ XRViewerPose()
+XRViewport
+: 
+ƒ XRViewport()
+XRWebGLBinding
+: 
+ƒ XRWebGLBinding()
+XRWebGLDepthInformation
+: 
+ƒ XRWebGLDepthInformation()
+XRWebGLLayer
+: 
+ƒ XRWebGLLayer()
+XRWebGLSubImage
+: 
+ƒ XRWebGLSubImage()
+XSLTProcessor
+: 
+ƒ XSLTProcessor()
+console
+: 
+console {debug: ƒ, error: ƒ, info: ƒ, log: ƒ, warn: ƒ, …}
+decodeURI
+: 
+ƒ decodeURI()
+decodeURIComponent
+: 
+ƒ decodeURIComponent()
+encodeURI
+: 
+ƒ encodeURI()
+encodeURIComponent
+: 
+ƒ encodeURIComponent()
+escape
+: 
+ƒ escape()
+eval
+: 
+ƒ eval()
+globalThis
+: 
+Window {window: Window, self: Window, document: document, name: '', location: Location, …}
+isFinite
+: 
+ƒ isFinite()
+isNaN
+: 
+ƒ isNaN()
+offscreenBuffering
+: 
+true
+parseFloat
+: 
+ƒ parseFloat()
+parseInt
+: 
+ƒ parseInt()
+undefined
+: 
+undefined
+unescape
+: 
+ƒ unescape()
+webkitMediaStream
+: 
+ƒ MediaStream()
+webkitRTCPeerConnection
+: 
+ƒ RTCPeerConnection()
+webkitSpeechGrammar
+: 
+ƒ SpeechGrammar()
+webkitSpeechGrammarList
+: 
+ƒ SpeechGrammarList()
+webkitSpeechRecognition
+: 
+ƒ SpeechRecognition()
+webkitSpeechRecognitionError
+: 
+ƒ SpeechRecognitionErrorEvent()
+webkitSpeechRecognitionEvent
+: 
+ƒ SpeechRecognitionEvent()
+webkitURL
+: 
+ƒ URL()
+[[Prototype]]
+: 
+Window
 getComputedStyle
 : 
 ƒ getComputedStyle()
